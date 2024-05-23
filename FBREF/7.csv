@@ -1,0 +1,78 @@
+DOB,Height,Name,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+20-Dec-98,178,Kylian Mbappe,3/25/2017,Sat,WCQ,First round,Away,W 3–1,fr France,lu Luxembourg,N,,13,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,3/28/2017,Tue,Friendlies (M),Friendlies (M),Home,L 0–2,fr France,es Spain,Y,FW,64,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,6/9/2017,Fri,WCQ,First round,Away,L 1–2,fr France,se Sweden,N,,15,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,6/13/2017,Tue,Friendlies (M),Friendlies (M),Home,W 3–2,fr France,eng England,Y,FW,90,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,8/31/2017,Thu,WCQ,First round,Home,W 4–0,fr France,nl Netherlands,N,,15,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,9/3/2017,Sun,WCQ,First round,Home,D 0–0,fr France,lu Luxembourg,Y,RM,58,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,10/7/2017,Sat,WCQ,First round,Away,W 1–0,fr France,bg Bulgaria,Y,FW,84,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,10/10/2017,Tue,WCQ,First round,Home,W 2–1,fr France,by Belarus,N,,30,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,11/10/2017,Fri,Friendlies (M),Friendlies (M),Home,W 2–0,fr France,wls Wales,Y,RM,83,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,11/14/2017,Tue,Friendlies (M),Friendlies (M),Away,D 2–2,fr France,de Germany,Y,FW,90,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,3/23/2018,Fri,Friendlies (M),Friendlies (M),Home,L 2–3,fr France,co Colombia,Y,AM,65,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,3/27/2018,Tue,Friendlies (M),Friendlies (M),Away,W 3–1,fr France,ru Russia,Y,FW,85,2,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,5/28/2018,Mon,Friendlies (M),Friendlies (M),Home,W 2–0,fr France,ie Rep. of Ireland,Y,FW,76,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,6/1/2018,Fri,Friendlies (M),Friendlies (M),Home,W 3–1,fr France,it Italy,Y,FW,82,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,6/9/2018,Sat,Friendlies (M),Friendlies (M),Home,D 1–1,fr France,us United States,Y,FW,87,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,6/16/2018,Sat,World Cup,Group stage,Neutral,W 2–1,fr France,au Australia,Y,"RW,FW",90,0,0,0,0,1,1,0,0,34,1,0,1,0.1,0.1,0.1,5,0,19,22,86.4,2,23,1,6,4,Match Report
+20-Dec-98,178,Kylian Mbappe,6/21/2018,Thu,World Cup,Group stage,Neutral,W 1–0,fr France,pe Peru,Y,RW,74,1,0,0,0,2,2,0,0,44,2,0,0,1.4,1.4,0,0,0,22,29,75.9,3,24,3,6,4,Match Report
+20-Dec-98,178,Kylian Mbappe,6/26/2018,Tue,World Cup,Group stage,Neutral,D 0–0,fr France,dk Denmark,N,RW,13,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,1,0,9,12,75,0,12,3,1,0,Match Report
+20-Dec-98,178,Kylian Mbappe,6/30/2018,Sat,World Cup,Round of 16,Neutral,W 4–3,fr France,ar Argentina,Y,RW,88,2,0,0,0,2,2,0,0,42,1,2,0,0.5,0.5,0,6,3,17,27,63,1,32,1,10,7,Match Report
+20-Dec-98,178,Kylian Mbappe,7/6/2018,Fri,World Cup,Quarter-finals,Neutral,W 2–0,fr France,uy Uruguay,Y,RW,87,0,0,0,0,1,0,1,0,42,0,0,0,0.1,0.1,0,3,0,26,32,81.3,1,37,4,11,6,Match Report
+20-Dec-98,178,Kylian Mbappe,7/10/2018,Tue,World Cup,Semi-finals,Neutral,W 1–0,fr France,be Belgium,Y,RW,90,0,0,0,0,0,0,1,0,44,1,0,0,0,0,1,9,0,23,30,76.7,3,37,7,12,7,Match Report
+20-Dec-98,178,Kylian Mbappe,7/15/2018,Sun,World Cup,Final,Neutral,W 4–2,fr France,hr Croatia,Y,"RM,FW",90,1,0,0,0,2,2,0,0,32,1,0,2,0.1,0.1,0,2,0,9,16,56.3,1,18,4,7,4,Match Report
+20-Dec-98,178,Kylian Mbappe,9/6/2018,Thu,UEFA Nations League,League A,Away,D 0–0,fr France,de Germany,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,9/9/2018,Sun,UEFA Nations League,League A,Home,W 2–1,fr France,nl Netherlands,Y,AM,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,10/11/2018,Thu,Friendlies (M),Friendlies (M),Home,D 2–2,fr France,is Iceland,N,,31,1,0,1,1,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,10/16/2018,Tue,UEFA Nations League,League A,Home,W 2–1,fr France,de Germany,Y,AM,85,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,11/16/2018,Fri,UEFA Nations League,League A,Away,L 0–2,fr France,nl Netherlands,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,11/20/2018,Tue,Friendlies (M),Friendlies (M),Home,W 1–0,fr France,uy Uruguay,Y,AM,35,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,3/22/2019,Fri,UEFA Euro Qualifying,Group stage,Away,W 4–1,fr France,md Moldova,Y,RM,90,1,0,0,0,3,3,1,0,,,0,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,3/25/2019,Mon,UEFA Euro Qualifying,Group stage,Home,W 4–0,fr France,is Iceland,Y,AM,90,1,2,0,0,3,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,6/2/2019,Sun,Friendlies (M),Friendlies (M),Home,W 2–0,fr France,bo Bolivia,Y,FW,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,6/8/2019,Sat,UEFA Euro Qualifying,Group stage,Away,L 0–2,fr France,tr Türkiye,Y,FW,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,6/11/2019,Tue,UEFA Euro Qualifying,Group stage,Away,W 4–0,fr France,ad Andorra,Y,AM,90,1,1,0,0,4,2,0,0,,,2,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,11/14/2019,Thu,UEFA Euro Qualifying,Group stage,Home,W 2–1,fr France,md Moldova,Y,AM,90,0,0,0,0,4,2,0,0,,,0,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,9/5/2020,Sat,UEFA Nations League,League A,Away,W 1–0,fr France,se Sweden,Y,FW,76,1,0,0,0,2,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,10/7/2020,Wed,Friendlies (M),Friendlies (M),Home,W 7–1,fr France,ua Ukraine,N,,45,1,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,10/11/2020,Sun,UEFA Nations League,League A,Home,D 0–0,fr France,pt Portugal,Y,FW,83,0,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,10/14/2020,Wed,UEFA Nations League,League A,Away,W 2–1,fr France,hr Croatia,Y,FW,90,1,0,0,0,2,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,11/17/2020,Tue,UEFA Nations League,League A,Home,W 4–2,fr France,se Sweden,N,,34,0,1,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,3/24/2021,Wed,WCQ,First round,Home,D 1–1,fr France,ua Ukraine,Y,LW,76,0,0,0,0,4,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,3/28/2021,Sun,WCQ,First round,Away,W 2–0,fr France,kz Kazakhstan,N,,32,0,0,0,1,3,3,0,0,,,0,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,3/31/2021,Wed,WCQ,First round,Away,W 1–0,fr France,ba Bosnia & Herz'na,Y,FW,90,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,6/2/2021,Wed,Friendlies (M),Friendlies (M),Home,W 3–0,fr France,wls Wales,Y,FW,72,1,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,6/8/2021,Tue,Friendlies (M),Friendlies (M),Home,W 3–0,fr France,bg Bulgaria,Y,FW,83,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,6/15/2021,Tue,UEFA Euro,Group stage,Neutral,W 1–0,fr France,de Germany,Y,"LW,FW",90,0,0,0,0,1,1,0,0,31,0,1,0,0,0,0.1,1,0,17,22,77.3,2,27,5,4,2,Match Report
+20-Dec-98,178,Kylian Mbappe,6/19/2021,Sat,UEFA Euro,Group stage,Neutral,D 1–1,fr France,hu Hungary,Y,"LW,RW",90,0,0,0,0,6,1,0,0,39,0,0,1,1,1,0.3,5,0,20,25,80,2,28,5,7,5,Match Report
+20-Dec-98,178,Kylian Mbappe,6/23/2021,Wed,UEFA Euro,Group stage,Neutral,D 2–2,fr France,pt Portugal,Y,"LW,AM",90,0,0,0,0,1,1,0,0,38,0,0,1,0.3,0.3,0,3,2,17,25,68,0,23,4,5,1,Match Report
+20-Dec-98,178,Kylian Mbappe,6/28/2021,Mon,UEFA Euro,Round of 16,Neutral,D 3 (4)–3 (5),fr France,ch Switzerland,Y,FW,120,0,1,0,0,6,0,0,0,54,0,0,0,0.7,0.7,1.3,7,1,30,36,83.3,8,28,5,6,2,Match Report
+20-Dec-98,178,Kylian Mbappe,9/1/2021,Wed,WCQ,First round,Home,D 1–1,fr France,ba Bosnia & Herz'na,Y,FW,89,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,10/7/2021,Thu,UEFA Nations League,Semi-finals,Neutral,W 3–2,fr France,be Belgium,Y,FW,90,1,1,1,1,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,10/10/2021,Sun,UEFA Nations League,Final,Neutral,W 2–1,fr France,es Spain,Y,FW,90,1,1,0,0,0,0,1,0,,,0,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,11/13/2021,Sat,WCQ,First round,Home,W 8–0,fr France,kz Kazakhstan,Y,FW,87,4,1,0,0,7,6,0,0,,,0,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,11/16/2021,Tue,WCQ,First round,Away,W 2–0,fr France,fi Finland,Y,FW,90,1,1,0,0,3,2,0,0,,,0,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,3/29/2022,Tue,Friendlies (M),Friendlies (M),Neutral,W 5–0,fr France,za South Africa,Y,FW,90,2,1,1,1,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,6/3/2022,Fri,UEFA Nations League,League A,Home,L 1–2,fr France,dk Denmark,Y,FW,45,0,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,6/10/2022,Fri,UEFA Nations League,League A,Away,D 1–1,fr France,at Austria,N,,28,1,0,0,0,2,2,0,0,,,0,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,6/13/2022,Mon,UEFA Nations League,League A,Home,L 0–1,fr France,hr Croatia,Y,FW,90,0,0,0,0,6,2,0,0,,,0,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,9/22/2022,Thu,UEFA Nations League,League A,Home,W 2–0,fr France,at Austria,Y,FW,89,1,0,0,0,7,3,0,0,,,0,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,9/25/2022,Sun,UEFA Nations League,League A,Away,L 0–2,fr France,dk Denmark,Y,FW,90,0,0,0,0,5,4,0,0,,,0,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,11/22/2022,Tue,World Cup,Group stage,Neutral,W 4–1,fr France,au Australia,Y,LW,90,1,1,0,0,7,1,0,0,76,0,0,0,1.2,1.2,0.6,10,3,41,57,71.9,1,47,7,9,3,Match Report
+20-Dec-98,178,Kylian Mbappe,11/26/2022,Sat,World Cup,Group stage,Neutral,W 2–1,fr France,dk Denmark,Y,"LW,FW",90,2,0,0,0,6,4,0,0,51,0,0,0,1,1,0.1,9,1,30,37,81.1,5,38,3,6,2,Match Report
+20-Dec-98,178,Kylian Mbappe,11/30/2022,Wed,World Cup,Group stage,Neutral,L 0–1,fr France,tn Tunisia,N,"LW,FW",28,0,0,0,0,3,2,0,0,31,0,0,0,0.1,0.1,0,6,0,16,25,64,3,23,5,3,3,Match Report
+20-Dec-98,178,Kylian Mbappe,12/4/2022,Sun,World Cup,Round of 16,Neutral,W 3–1,fr France,pl Poland,Y,"LW,FW",90,2,1,0,0,5,3,0,0,55,0,0,0,0.3,0.3,0.5,9,2,33,41,80.5,6,44,8,11,5,Match Report
+20-Dec-98,178,Kylian Mbappe,12/10/2022,Sat,World Cup,Quarter-finals,Neutral,W 2–1,fr France,eng England,Y,LW,90,0,0,0,0,1,0,0,0,36,0,0,0,0.1,0.1,0,1,0,24,28,85.7,5,32,5,6,2,Match Report
+20-Dec-98,178,Kylian Mbappe,12/14/2022,Wed,World Cup,Semi-finals,Neutral,W 2–0,fr France,ma Morocco,Y,"LW,FW",90,0,0,0,0,3,0,0,0,30,0,0,0,0.6,0.6,0.1,8,2,12,16,75,1,20,6,8,6,Match Report
+20-Dec-98,178,Kylian Mbappe,12/18/2022,Sun,World Cup,Final,Neutral,D 3 (2)–3 (4),fr France,ar Argentina,Y,"FW,LW",120,3,0,2,2,4,1,0,0,43,0,0,0,1.8,0.2,0,3,3,17,25,68,4,28,6,9,4,Match Report
+20-Dec-98,178,Kylian Mbappe,3/24/2023,Fri,UEFA Euro Qualifying,Group stage,Home,W 4–0,fr France,nl Netherlands,Y*,AM,90,2,1,0,0,5,4,0,0,,,0,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,3/27/2023,Mon,UEFA Euro Qualifying,Group stage,Away,W 1–0,fr France,ie Rep. of Ireland,Y*,FW,90,0,0,0,0,2,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,6/16/2023,Fri,UEFA Euro Qualifying,Group stage,Away,W 3–0,fr France,gi Gibraltar,Y*,FW,90,1,0,1,1,7,3,0,0,,,0,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,6/19/2023,Mon,UEFA Euro Qualifying,Group stage,Home,W 1–0,fr France,gr Greece,Y*,AM,90,1,0,1,1,5,2,0,0,,,1,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,9/7/2023,Thu,UEFA Euro Qualifying,Group stage,Home,W 2–0,fr France,ie Rep. of Ireland,Y*,AM,90,0,1,0,0,5,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,10/13/2023,Fri,UEFA Euro Qualifying,Group stage,Away,W 2–1,fr France,nl Netherlands,Y*,FW,90,2,0,0,0,4,2,1,0,,,1,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,10/17/2023,Tue,Friendlies (M),Friendlies (M),Home,W 4–1,fr France,sct Scotland,Y*,AM,86,1,1,1,1,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,11/18/2023,Sat,UEFA Euro Qualifying,Group stage,Home,W 14–0,fr France,gi Gibraltar,Y*,AM,90,3,2,1,1,7,3,0,0,,,0,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,11/21/2023,Tue,UEFA Euro Qualifying,Group stage,Away,D 2–2,fr France,gr Greece,N,,27,0,1,0,0,3,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,3/23/2024,Sat,Friendlies (M),Friendlies (M),Home,L 0–2,fr France,de Germany,Y*,FW,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,Match Report
+20-Dec-98,178,Kylian Mbappe,3/26/2024,Tue,Friendlies (M),Friendlies (M),Home,W 3–2,fr France,cl Chile,Y*,FW,90,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
