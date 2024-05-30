@@ -1,0 +1,164 @@
+%macro m();
+%local i;
+%do i=2 %to 18 %by 2;
+filename fil http "https://raw.githubusercontent.com/Oscar-Cortes/EuroCup2024NECAXALEGENDS/main/FBREF/&i..csv";
+data o&i.;
+infile fil delimiter=',' dsd firstobs=2;
+input DOB :date9. Height :8. Name : $200. Date_1 :mmddyy10. Day :$3. (Comp Round Venue Result _Squad Opponent) (:$200.) Start :$2. Pos :$200. (Min Gls Ast PK PKatt Sh SoT CrdY CrdR Touches Tkl Int Blocks xG npxG xAG SCA GCA Cmp Att Cmp PrgP Carries PrgC Att_2 Succ) (:8.) Match_Report :$200.;
+format DOB Date_1 date9.;
+if not missing(date_1);
+run;
+%end;
+%mend;
+%m();
+
+data rank;
+infile '/home/u49461444/EG/Extras/rank.csv.sas' dsd firstobs=2;
+input team :$50. rank :8. Year :8.;
+team=compress(team,'','kas');
+run;
+
+proc fcmp outlib=work.functions.mm;
+function m_season(m);
+if 3<=m<6 then r=1;
+else if 6<=m<9 then r=2;
+else if 9<=m<12 then r=3;
+else r=4;
+return(r);
+endfunc;
+function venue_n(m $);
+if m='Home' then r=1;
+else if m='Away' then r=2;
+else r=3;
+return(r);
+endfunc;
+function competition_n(m $);
+if m='FIFA Confederations Cup' then r=0;
+if m='Friendlies (M)' then r=1;
+if m='UEFA Euro' then r=3;
+if m in ('UEFA Euro Qualifying' 'UEFA Nations League' 'WCQ') then r=2;
+if m='World Cup' then r=4;
+return(r);
+endfunc;
+function round_n(m $);
+if m in ('Final' 'Finals') then r=5;
+else if m='Friendlies (M)' then r=0;
+else if m in ('First round','Group stage','League A','League B','League C','Play-off Round') then r=1;
+else if m='Quarter-finals' then r=3;
+else if m in ('Round of 16','Second round') then r=2;
+else if m in ('Semi-finals','Third-place match') then r=4;
+return(r);
+endfunc;
+function shirt_n(m $);
+if m='Niclas Füllkrug' then r=1;
+else if m in ('Gonçalo Ramos' 'Harry Kane' 'Artem Dovbyk') then r=9;
+else if m='Romelu Lukaku' then r=90;
+else if m='Ante Rebić' then r=7;
+else if m='Patrik Schick' then r=10;
+else if m='Roland Sallai' then r=20;
+else if m='Rasmus Hojlund' then r=11;
+return(r);
+endfunc;
+function foot(m $);
+if m in ('Gonçalo Ramos' 'Niclas Füllkrug' 'Harry Kane' 'Ante Rebić' 'Roland Sallai' 'Artem Dovbyk' 'Rasmus Hojlund') then r=1;
+else if m in ('Romelu Lukaku' 'Patrik Schick') then r=2;
+return(r);
+endfunc;
+function squad_ranking(team $,year);
+file log;
+length rank 8;
+declare hash h(dataset:'rank');
+rc=h.definekey('team','year');
+rc=h.definedata('rank');
+rc=h.defineDone();
+if h.find()=0 then return(rank);
+else if year=2015 and team='Gibraltar' then return(205);
+else return(.);
+endfunc;
+function squad(m $) $;
+length str $200;
+str=compress(m,'','kas');
+c=verify(str,lowcase(str));
+return(substr(str,c));
+endfunc;
+function country(m $) $;
+length str $200;
+str=compress(m,'','kas');
+c=verify(str,lowcase(str));
+return(substr(str,1,c-1));
+endfunc;
+function age(_dob,name $);
+if name='Ante Rebić' then dob='21Sep1993'd;
+if name='Patrik Schick' then dob='21Jan1996'd;
+else dob=_dob;
+return(yrdif(dob,today()));
+endfunc;
+quit;
+
+data test;
+informat PLAYER_ID SHIRT_N PLAYER_NAME AGE HEIGHT FOOT COUNTRY SQUAD SQUAD_RANKING OPPONENT OPPONENT_RANKING M_WEEKDAY M_MONTH
+M_SEASON YEAR COMPETITION_N ROUND_N VENUE_N STARTER STRIKER PENALTY PENALTY_SHOOTER MINUTES GOALS;
+keep PLAYER_ID SHIRT_N PLAYER_NAME AGE HEIGHT FOOT COUNTRY SQUAD SQUAD_RANKING OPPONENT OPPONENT_RANKING M_WEEKDAY M_MONTH
+M_SEASON YEAR COMPETITION_N ROUND_N VENUE_N STARTER STRIKER PENALTY PENALTY_SHOOTER MINUTES GOALS;
+length player_id team $50 country $200 player_name $200;
+length shirt_n age height squad_ranking opponent_ranking m_weekday m_month m_season year competition_n round_n
+venue_n minutes goals 8.;length foot starter striker penalty penalty_shooter 4.;
+retain penalty_shooter 0;
+
+   set o2 o4 o6 o8 o10 o12 o14 o16 o18;
+   squad=squad(_squad);
+   country=country(_squad);
+   shirt_n=shirt_n(name);
+   player_id=upcase(catx('-',country,SHIRT_N));
+   player_name=name;
+   age=age(dob,name);
+   foot=foot(name);
+   year=year(date_1);
+   squad_ranking=squad_ranking(squad,year);
+   opponent=compress(substr(opponent,5),'','ka');
+   opponent_ranking=squad_ranking(opponent,year);
+   m_weekday=weekday(date_1);
+   m_month=month(date_1);
+   m_season=m_season(m_month);
+   competition_n=competition_n(comp);
+   round_n=round_n(round);
+   venue_n=venue_n(venue);
+   starter=start='Y';
+   striker=pos='FW';
+   penalty=pk;
+   if pk=1 then penalty_shooter=1;
+   minutes=min;
+   goals=gls;
+   ck=rank(char(opponent,1));
+run;
+
+filename fil http "https://raw.githubusercontent.com/Oscar-Cortes/EuroCup2024NECAXALEGENDS/main/FBREF/STRIKERS%20DATA.csv";
+
+data dataset1;
+infile fil delimiter=',' dsd firstobs=2;
+input Player_ID :$10. SHIRT_N :8. PLAYER_NAME :$50. AGE :8. HEIGHT :8. FOOT :8. Country :$20. SQUAD :$20. SQUAD_RANKING :8. OPPONENT :$20. OPPONENT_RANKING :8. M_WEEKDAY :8. M_MONTH :8. M_SEASON :8. YEAR :8. COMPETITION_N :8. ROUND_N :8. VENUE_N :8. STARTER :8. STRIKER :8. Penalty :8. Penalty_shooter :8. MINUTES :8. GOALS :8.;
+opponent=compress(opponent,'','kas');
+SQUAD=compress(SQUAD,'','kas');
+run;
+
+data dataset2;
+set dataset1;
+call streaminit(12345);
+_goals=goals;
+if rand('Uniform')<0.1 then goals=.;
+run;
+
+proc hpforest data=dataset2 vars_to_try=all;
+   input COUNTRY FOOT OPPONENT SQUAD YEAR / level=nominal;
+   input AGE MINUTES OPPONENT_RANKING ROUND_N SQUAD_RANKING / level=interval;
+   target GOALS / level=interval;
+   ods select VariableImportance;
+run;
+
+proc sql;
+select sum(_goals) as sum_GOALS,sum(predictions) as sum_Predictions
+from mod1;
+select player_id,sum(goals) as sum_GOALS,sum(predictions) as sum_Predictions
+from mod1
+group by player_id;
+quit;
