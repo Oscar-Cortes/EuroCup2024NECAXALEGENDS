@@ -1,0 +1,662 @@
+﻿Position,Name,Club Team,Country
+GK, Jordan Pickford ,Everton,England
+GK, Aaron Ramsdale ,Arsenal,England
+GK, Dean Henderson ,Crystal Palace,England
+GK, James Trafford ,Burnley,England
+DF, Luke Shaw ,Manchester United,England
+DF, Kieran Trippier ,Newcastle United,England
+DF, Joe Gomez ,Liverpool,England
+DF, Jarrell Quansah ,Liverpool,England
+DF, Marc Guehi ,Crystal Palace,England
+DF, Kyle Walker ,Manchester City,England
+DF, Jarrad Branthwaite ,Everton,England
+DF, Lewis Dunk ,Brighton,England
+DF, Harry Maguire ,Manchester United,England
+DF, Ezri Konsa ,Aston Villa,England
+DF, John Stones ,Manchester City,England
+MF, Jude Bellingham ,Real Madrid,England
+MF, Trent Alexander-Arnold ,Liverpool,England
+MF, Declan Rice ,Arsenal,England
+MF, Phil Foden ,Manchester City,England
+MF, Conor Gallagher ,Chelsea,England
+MF, Curtis Jones ,Liverpool,England
+MF, James Maddison ,Tottenham Hotspur,England
+MF, Eberchi Eze ,Crystal Palace,England
+MF, Kobbie Mainoo ,Manchester United,England
+MF, Cole Palmer ,Chelsea,England
+MF, Anthony Gordon ,Newcastle United,England
+MF, Adam Wharton ,Crystal Palace,England
+FW, Harry Kane ,Bayern Munich,England
+FW, Bukayo Saka ,Arsenal,England
+FW, Jack Grealish ,Manchester City,England
+FW, Jarrod Bowen ,West Ham,England
+FW, Ollie Watkins ,Aston Villa,England
+GK, Etrit Berisha ,Empoli,Albania
+GK, Thomas Strakosha ,Brentford,Albania
+GK, Elhan Kastrati ,Cittadella,Albania
+GK, Simon Simoni ,Eintracht Frankfurt,Albania
+DF, Berat Djimsiti ,Atalanta,Albania
+DF, Elseid Hysaj ,Lazio,Albania
+DF, Iván Balliu ,Rayo Vallecano,Albania
+DF, Ardian Ismajli ,Empoli,Albania
+DF, Arlind Ajeti ,CFR Cluj,Albania
+DF, Naser Aliji ,Voluntari,Albania
+DF, Mario Mitaj ,Lokomotiv Moscow,Albania
+DF, Enea Mihaj ,Famalicão,Albania
+DF, Marash Kumbulla ,Sassuolo,Albania
+MF, Amir Abrashi ,Grasshoppers,Albania
+MF, Kristjan Asllani ,Inter Milan,Albania
+MF, Nedim Bajrami ,Sassuolo,Albania
+MF, Medon Berisha ,Lecce,Albania
+MF, Klaus Gjasula ,Darmstadt 98,Albania
+MF, Qazim Laçi ,Sparta Prague,Albania
+MF, Ernest Muçi ,Beşiktaş,Albania
+MF, Ylber Ramadani ,Lecce,Albania
+FW, Jasir Asani ,Gwangju FC,Albania
+FW, Armando Broja ,Fulham,Albania
+FW, Mirlind Daku ,Rubin Kazan,Albania
+FW, Arbër Hoxha ,Dinamo Zagreb,Albania
+FW, Rey Manaj ,Sivasspor,Albania
+FW, Taulant Seferi ,Baniyas,Albania
+GK, Tobias Lawal ,LASK,Austria
+GK, Patrick Pentz ,Brondby,Austria
+GK, Heinz Lindner ,Union Saint-Gilloise,Austria
+GK, Niklas Hedl ,Rapid Wien,Austria
+DF, Stefan Lainer ,Borussia Monchengladbach,Austria
+DF, Stefan Posch ,Bologna,Austria
+DF, Max Wober ,Borussia Monchengladbach,Austria
+DF, Philipp Lienhart ,Freiburg,Austria
+DF, Kevin Danso ,Lens,Austria
+DF, Phillipp Mwene ,Mainz,Austria
+DF, Flavius Daniliuc ,Red Bull Salzburg,Austria
+DF, Gernot Trauner ,Feyenoord,Austria
+DF, Leopold Querfeld ,Rapid Wien,Austria
+MF, Marcel Sabitzer ,Borussia Dortmund,Austria
+MF, Florian Grillitsch ,Hoffenheim,Austria
+MF, Christoph Baumgartner ,RB Leipzig,Austria
+MF, Konrad Laimer ,Bayern Munich,Austria
+MF, Florian Kain ,Cologne,Austria
+MF, Nicolas Seiwald ,RB Leipzig,Austria
+MF, Romano Schmid ,Werder Bremen,Austria
+MF, Alexander Prass ,Sturm Graz,Austria
+MF, Matthias Seidl ,Rapid Vienna,Austria
+MF, Thierno Ballo ,Wolfsburg,Austria
+FW, Mark Arnautovic ,Inter Milan,Austria
+FW, Michael Gregoritsch ,Freiburg,Austria
+FW, Andreas Weimann ,West Brom,Austria
+FW, Patrick Wimmer ,Wolfsburg,Austria
+FW, Marco Grull ,Rapid Wien,Austria
+FW, Maximilian Entrup ,TSV Hartberg,Austria
+GK, Koen Casteels ,VfL Wolfsburg,Belgium
+GK, Thomas Kaminski ,Luton Town,Belgium
+GK, Matz Sels ,Nottingham Forest,Belgium
+DF, Timothy Castagne ,Fulham,Belgium
+DF, Maxim De Cuyper ,Club Brugge,Belgium
+DF, Zeno Debast ,Anderlecht,Belgium
+DF, Wout Faes ,Leicester City,Belgium
+DF, Thomas Meunier ,Trabzonspor,Belgium
+DF, Jan Vertonghen ,Anderlecht,Belgium
+DF, Arthur Theate ,Stade Rennais,Belgium
+DF, Axel Witsel ,Atletico Madrid,Belgium
+MF, Yannick Carrasco ,Al Shabab,Belgium
+MF, Kevin De Bruyne ,Manchester City,Belgium
+MF, Orel Mangala ,Olympique Lyonnais,Belgium
+MF, Amadou Onana ,Everton,Belgium
+MF, Youri Tielemans ,Aston Villa,Belgium
+MF, Arthur Vermeeren ,Atletico Madrid,Belgium
+MF, Aster Vranckx ,vfL Wolfsburg,Belgium
+FW, Johan Bakayoko ,PSV Eindhoven,Belgium
+FW, Charles De Ketelaere ,Atalanta,Belgium
+FW, Jeremy Doku ,Manchester City,Belgium
+FW, Romelu Lukaku ,Roma,Belgium
+FW, Dodi Lukebakio ,Sevilla,Belgium
+FW, Lois Openda ,RB Leipzig,Belgium
+FW, Leandro Trossard ,Arsenal,Belgium
+GK, Dominik Livaković ,Fenerbahçe,Croatia
+GK, Ivica Ivušić ,Pafos,Croatia
+GK, Nediljko Labrović ,Rijeka,Croatia
+GK, Dominik Kotarski ,PAOK,Croatia
+DF, Domagoj Vida ,AEK Athens,Croatia
+DF, Josip Juranović ,Union Berlin,Croatia
+DF, Borna Barišić ,Rangers,Croatia
+DF, Joško Gvardiol ,Manchester City,Croatia
+DF, Duje Ćaleta-Car ,Lyon,Croatia
+DF, Borna Sosa ,Ajax,Croatia
+DF, Josip Stanišić ,Bayer Leverkusen,Croatia
+DF, Josip Šutalo ,Ajax,Croatia
+DF, Martin Erlić ,Sassuolo,Croatia
+DF, Marin Pongračić ,Lecce,Croatia
+DF, Niko Kristian Sigur ,Hajduk Split,Croatia
+MF, Luka Modrić ,Real Madrid,Croatia
+MF, Mateo Kovačić ,Manchester City,Croatia
+MF, Marcelo Brozović ,Al Nassr,Croatia
+MF, Mario Pašalić ,Atalanta,Croatia
+MF, Nikola Vlašić ,Torino,Croatia
+MF, Lovro Majer ,Wolfsburg,Croatia
+MF, Luka Ivanušec ,Feyenoord,Croatia
+MF, Luka Sučić ,Red Bull Salzburg,Croatia
+MF, Kristijan Jakić ,Augsburg,Croatia
+MF, Martin Baturina ,Dinamo Zagreb,Croatia
+MF, Toni Fruk ,Rijeka,Croatia
+MF, Petar Sučić ,Dinamo Zagreb,Croatia
+FW, Ivan Perišić ,Hajduk Split,Croatia
+FW, Andrej Kramarić ,1899 Hoffenheim,Croatia
+FW, Bruno Petković ,Dinamo Zagreb,Croatia
+FW, Marko Pjaca ,Rijeka,Croatia
+FW, Ante Budimir ,Osasuna,Croatia
+FW, Marco Pašalić ,Rijeka,Croatia
+FW, Marin Ljubičić ,LASK,Croatia
+FW, Igor Matanović ,Karlsruher SC,Croatia
+GK, Jindrich Stanek ,Slavia Prague,Czechia
+GK, Vitezslav Jaros ,Sturm Graz,Czechia
+GK, Matej Kovar ,Bayer Leverkusen,Czechia
+DF, Vladimir Coufal ,West Ham United,Czechia
+DF, Tomas Holes ,Slavia Prague,Czechia
+DF, David Zima ,Slavia Prague,Czechia
+DF, Ladislav Krejci ,Sparta Prague,Czechia
+DF, David Doudera ,Slavia Prague,Czechia
+DF, David Jurasek ,Hoffenheim,Czechia
+DF, Robin Hranac ,Viktoria Plzen,Czechia
+DF, Tomas Vlcek ,Slavia Prague,Czechia
+DF, Martin Vitík ,Sparta Prague,Czechia
+MF, Tomas Soucek ,West Ham,Czechia
+MF, Antonin Barak ,Fiorentina,Czechia
+MF, Michal Sadilek ,Twente,Czechia
+MF, Lukas Provod ,Slavia Prague,Czechia
+MF, Vaclav Cerny ,VfL Wolfsburg,Czechia
+MF, Ondrej Lingr ,Feyenoord,Czechia
+MF, Marej Jurasek ,Slavia Prague,Czechia
+MF, Pavel Sulc ,Viktoria Plzen,Czechia
+MF, Lukas Cerv ,Viktoria Plzen,Czechia
+FW, Patrik Schick ,Bayer Leverkusen,Czechia
+FW, Adam Hlozek ,Bayer Leverkusen,Czechia
+FW, Jan Kuchta ,Sparta Prague,Czechia
+FW, Mojmir Chytil ,Slavia Prague,Czechia
+FW, Tomas Chory ,Viktoria Plzen,Czechia
+GK, Brice Samba ,Lens,France
+GK, Mike Maignan ,AC Milan,France
+GK, Alphonse Areola ,West Ham,France
+DF, Ibrahima Konate ,Liverpool,France
+DF, William Saliba ,Arsenal,France
+DF, Jules Kounde ,Barcelona,France
+DF, Dayot Upamecano ,Bayern Munich,France
+DF, Jonathan Clauss ,Marseille,France
+DF, Benjamin Pavard ,Inter Milan,France
+DF, Theo Hernandez ,AC Milan,France
+DF, Ferland Mendy ,Real Madrid,France
+MF, N'Golo Kante ,Al-Ittihad,France
+MF, Eduardo Camavinga ,Real Madrid,France
+MF, Adrien Rabiot ,Juventus,France
+MF, Warren Zaire-Emery ,PSG,France
+MF, Youssouf Fofana ,Monaco,France
+MF, Aurelien Tchouameni ,Real Madrid,France
+FW, Olivier Giroud ,AC Milan,France
+FW, Antoine Griezmann ,Atletico Madrid,France
+FW, Kylian Mbappe ,PSG,France
+FW, Ousmane Dembele ,PSG,France
+FW, Randal Kolo Muani ,PSG,France
+FW, Marcus Thuram ,Inter Milan,France
+FW, Bradley Barcola ,PSG,France
+FW, Kingsley Coman ,Bayern Munich,France
+GK, Giorgi Loria ,Dinamo Tbilisi,Georgia
+GK, Giorgi Mamardashvili ,Valencia,Georgia
+GK, Luka Gugeshashvili ,Qarabag,Georgia
+DF, Guram Kashia ,Slovan Bratislava,Georgia
+DF, Otar Kakabadze ,Cracovia,Georgia
+DF, Solomon Kvirkvelia ,Al-Okhdood,Georgia
+DF, Lasha Dvali ,APOEL,Georgia
+DF, Jemal Tabidze ,Panetolikos,Georgia
+DF, Luka Lochoshvili ,Cremonese,Georgia
+DF, Giorgi Gocholeishvili ,Shakhtar Donetsk,Georgia
+DF, Giorgi Gvelesiani ,Persepolis,Georgia
+MF, Gabriel Sigua ,Basel,Georgia
+MF, Nika Kvekverskiri ,Lech Poznan,Georgia
+MF, Otar Kiteishvili ,Sturm Graz,Georgia
+MF, Saba Lobzhanidze ,Atlanta United,Georgia
+MF, Zuriko Davitashvili ,Bordeaux,Georgia
+MF, Giorgi Chakvetadze ,Watford,Georgia
+MF, Levan Shengelia ,Panetlikos,Georgia
+MF, Giorgi Tsitaishvili ,Dinamo Batumi,Georgia
+MF, Anzor Mekvabishvili ,Universitatea Craiova,Georgia
+MF, Giorgi Kochorashvili ,Levante,Georgia
+MF, Sandro Altunashvili ,Wolfsberger AC,Georgia
+FW, Giorgi Kvilitaia ,APOEL,Georgia
+FW, Khvicha Kvaratskhelia ,Napoli,Georgia
+FW, Budu Zivzivadze ,Karlsruher SC,Georgia
+FW, Georges Mikautadze ,Metz,Georgia
+GK, Manuel Neuer ,Bayern Munich,Germany
+GK, Marc-Andre Ter Stegen ,Barcelona,Germany
+GK, Alexander Nubel ,Stuttgart,Germany
+GK, Oliver Baumann ,Hoffenheim,Germany
+DF, Antonio Rudiger ,Real Madrid,Germany
+DF, Jonathan Tah ,Bayer Leverkusen,Germany
+DF, Robin Koch ,Eintracht Frankfurt,Germany
+DF, Maximilian Mittlestadt ,Stuttgart,Germany
+DF, Nico Schlotterbeck ,Borussia Dortmund,Germany
+DF, Waldemar Anton ,Stuttgart,Germany
+DF, Benjamin Henrichs ,RB Leipzig,Germany
+DF, David Raum ,RB Leipzig,Germany
+DF/MF, Joshua Kimmich ,Bayern Munich,Germany
+MF, Ilkay Gundogan ,Barcelona,Germany
+MF, Pascal Gross ,Brighton,Germany
+MF, Robert Andrich ,Bayer Leverkusen,Germany
+MF, Chris Fuhrich ,Stuttgart,Germany
+MF, Aleksandar Pavlovic ,Bayern Munich,Germany
+MF, Leroy Sane ,Bayern Munich,Germany
+MF, Toni Kroos ,Real Madrid,Germany
+MF, Jamal Musiala ,Bayern Munich ,Germany
+MF, Florian Wirtz ,Bayer Leverkusen,Germany
+FW, Niclas Fullkrug ,Borussia Dortmund,Germany
+FW, Kai Havertz ,Arsenal,Germany
+FW, Thomas Muller ,Bayern Munich,Germany
+FW, Deniz Undav ,Stuttgart,Germany
+FW, Maximilian Beier ,Hoffenheim,Germany
+GK, Peter Gulacsi ,RB Leipzig,Hungary
+GK, Denes Dibusz ,Ferencvaros,Hungary
+GK, Peter Szappanos ,Paksi FC,Hungary
+DF, Botond Balogh ,Parma,Hungary
+DF, Endre Botka ,Ferencvaros,Hungary
+DF, Marton Dardai ,Hertha Berlin,Hungary
+DF, Attila Fiola ,Fehervar,Hungary
+DF, Milos Kerkez ,Bournemouth,Hungary
+DF, Adam Lang ,Omonia Nicosia,Hungary
+DF, Willi Orban ,RB Leipzig,Hungary
+DF, Zsolt Nagy ,Puskas Akademia,Hungary
+DF, Attila Szalai ,Hoffenheim,Hungary
+DF, Loic Nego ,Le Havre,Hungary
+MF, Bendeguz Bolla ,Servette,Hungary
+MF, Daniel Gazdag ,Philadelphia Union,Hungary
+FW, Krisztofer Horvath ,Kecskemeti,Hungary
+MF, Laszlo Kleinheisler ,Hajduk Split,Hungary
+MF, Mihaly Kata ,MTK Budapest,Hungary
+MF, Adam Nagy ,Spezia,Hungary
+MF, Andras Schafer ,Union Berlin,Hungary
+MF, Dominik Szoboszlai ,Liverpool,Hungary
+MF, Callum Styles ,Barnsley,Hungary
+FW, Roland Sallai ,Freiburg,Hungary
+FW, Martin Adam ,Ulsan HD,Hungary
+FW, Barnabas Varga ,Ferencvaros,Hungary
+FW, Kevin Csoboth ,Ujpest FC,Hungary
+GK, Gianluigi Donnarumma ,PSG,Italy
+GK, Guglielmo Vicario ,Tottenham,Italy
+GK, Alex Meret ,Napoli,Italy
+GK, Ivan Provedel ,Lazio,Italy
+DF, Francesco Acerbi ,Inter Milan,Italy
+DF, Alessandro Bastoni ,Inter Milan,Italy
+DF, Raoul Bellanova ,Torino,Italy
+DF, Alessandro Buongiorno ,Torino,Italy
+DF, Riccardo Calafiori ,Bologna,Italy
+DF, Andrea Cambiaso ,Juventus,Italy
+DF, Matteo Darmian ,Inter Milan,Italy
+DF, Giovanni Di Lorenzo ,Napoli,Italy
+DF, Federico Dimarco ,Inter Milan,Italy
+DF, Gianluca Mancini ,Roma,Italy
+DF, Giorgio Scalvini ,Atalanta,Italy
+MF, Jorginho ,Arsenal,Italy
+MF, Nicolo Barella ,Inter Milan,Italy
+MF, Bryan Cristante ,Roma,Italy
+MF, Nicolo Fagioli ,Juventus,Italy
+MF, Michael Folorunsho ,Verona,Italy
+MF, Davide Frattesi ,Inter Milan,Italy
+MF, Lorenzo Pellegrini ,Roma,Italy
+MF, Samuele Ricci ,Torino,Italy
+FW, Federico Chiesa ,Juventus,Italy
+FW, Giacomo Raspadori ,Napoli,Italy
+FW, Stephan El Shaarawy ,Roma,Italy
+FW, Mateo Retegui ,Genoa,Italy
+FW, Mattia Zaccagni ,Lazio,Italy
+FW, Riccardo Orsolini ,Bologna,Italy
+FW, Gianluca Scamacca ,Atalanta,Italy
+GK, Bart Verbruggen ,Brighton,Netherlands
+GK, Mark Flekken ,Brentford,Netherlands
+GK, Justin Bijlow ,Feyenoord,Netherlands
+DF, Virgil van Dijk ,Liverpool,Netherlands
+DF, Stefan de Vrij ,Inter Milan,Netherlands
+DF, Mickey van de Ven ,Tottenham Hotspur,Netherlands
+DF, Daley Blind ,Girona,Netherlands
+DF, Matthijs de Ligt ,Bayern Munich,Netherlands
+DF, Nathan Ake ,Manchester City,Netherlands
+DF, Denzel Dumfries ,Inter Milan,Netherlands
+DF, Lutsharel Geertruida ,Feyenoord,Netherlands
+DF, Jeremie Frimpong ,Bayer Leverkusen,Netherlands
+MF, Teun Koopmeiners ,Atalanta,Netherlands
+MF, Ryan Gravenberch ,Liverpool,Netherlands
+MF, Frenkie de Jong ,Barcelona,Netherlands
+MF, Tijjani Reijnders ,AC Milan,Netherlands
+MF, Xavi Simons ,RB Leipzig,Netherlands
+MF, Joey Veerman ,PSV,Netherlands
+MF, Jerdy Schouten ,PSV,Netherlands
+MF, Gini Wijnaldum ,Al-Ettifaq,Netherlands
+FW, Steven Bergwijn ,Ajax,Netherlands
+FW, Memphis Depay ,Atletico Madrid,Netherlands
+FW, Brian Brobbey ,Ajax,Netherlands
+FW, Wout Weghorst ,Hoffenheim,Netherlands
+FW, Donyell Malen ,Borussia Dortmund,Netherlands
+FW, Cody Gakpo ,Liverpool,Netherlands
+GK, Wojciech Szczesny ,Juventus,Poland
+GK, Lukasz Skorupski ,Bologna,Poland
+GK, Marcin Bulka ,Nice,Poland
+GK, Oliwier Zych ,Puszcza Niepołomice,Poland
+DF, Jan Bednarek ,Southampton,Poland
+DF, Bartosz Bereszynski ,Empoli,Poland
+DF, Jakub Kiwior ,Arsenal,Poland
+DF, Tymoteusz Puchacz ,Kaiserlsuatern,Poland
+DF, Bartosz Salamon ,Lech Poznan,Poland
+DF, Pawel Dawidowicz ,Verona,Poland
+DF, Pawel Bochniewicz ,Heerenveen,Poland
+DF, Sebastian Walukiewicz ,Empoli,Poland
+MF, Kamil Grosicki ,Pogon Szczecin,Poland
+MF, Piotr Zielenski ,Napoli,Poland
+MF, Przemyslaw Frankowski ,Lens,Poland
+MF, Sebastian Szymanski ,Fenerbahce,Poland
+MF, Jakub Moder ,Brighton,Poland
+MF, Damian Szymanski ,AEK Athens,Poland
+MF, Nicola Zalewksi ,Roma,Poland
+MF, Bartosz Slisz ,Atlanta United,Poland
+MF, Michal Skoras ,Club Brugge,Poland
+MF, Jakub Piotrowksi ,Ludogorets Razgrad,Poland
+MF, Taras Romanczuk ,Jagiellonia Bialystok,Poland
+MF, Kacper Urbański ,Bologna,Poland
+FW, Robert Lewandowski ,Barcelona,Poland
+FW, Arkadiusz Milik ,Juventus,Poland
+FW, Karol Swiderksi ,Verona,Poland
+FW, Krzysztof Piatek ,Istanbul Basaksehir,Poland
+FW, Adam Buksa ,Antalyaspor,Poland
+GK, Rui Patricio ,Roma,Portugal
+GK, Jose Sa ,Wolves,Portugal
+GK, Diogo Costa ,Porto,Portugal
+DF, Nelson Semedo ,Wolves,Portugal
+DF, Antonio Silva ,Benfica,Portugal
+DF, Danilo Pereira ,PSG,Portugal
+DF, Joao Cancelo ,Barcelona,Portugal
+DF, Ruben Dias ,Manchester City,Portugal
+DF, Pepe ,Porto,Portugal
+DF, Goncalo Inacio ,Sporting Lisbon,Portugal
+DF, Diogo Dalot ,Manchester United,Portugal
+DF, Nuno Mendes ,PSG,Portugal
+MF, Joao Palhinha ,Fulham,Portugal
+MF, Bruno Fernandes ,Manchester United,Portugal
+MF, Otavio ,Al Nassr,Portugal
+MF, Ruben Neves ,Al Hilal,Portugal
+MF, Vitinha ,PSG,Portugal
+MF, Joao Neves ,Benfica,Portugal
+MF, Bernardo Silva ,Manchester City,Portugal
+FW, Goncalo Ramos ,PSG,Portugal
+FW, Joao Felix ,Barcelona,Portugal
+FW, Rafael Leao ,AC Milan,Portugal
+FW, Francisco Conceicao ,Porto,Portugal
+FW, Cristiano Ronaldo ,Al Nassr,Portugal
+FW, Diogo Jota ,Liverpool,Portugal
+FW, Pedro Neto ,Wolves,Portugal
+GK, Florin Niță ,Gaziantep,Romania
+GK, Horațiu Moldovan ,Atlético Madrid,Romania
+GK, Ștefan Târnovanu ,FCSB,Romania
+GK, Răzvan Sava ,CFR Cluj,Romania
+DF, Nicușor Bancu ,Universitatea Craiova,Romania
+DF, Andrei Burcă ,Al-Okhdood,Romania
+DF, Ionuț Nedelcearu ,Palermo,Romania
+DF, Adrian Rus ,Pafos,Romania
+DF, Andrei Rațiu ,Rayo Vallecano,Romania
+DF, Radu Drăgușin ,Tottenham Hotspur,Romania
+DF, Vasile Mogoș ,CFR Cluj,Romania
+DF, Bogdan Racovițan ,Raków Częstochowa,Romania
+MF, Nicolae Stanciu ,Damac,Romania
+MF, Răzvan Marin ,Empoli,Romania
+MF, Alexandru Cicâldău ,Konyaspor,Romania
+MF, Ianis Hagi ,Alavés,Romania
+MF, Dennis Man ,Parma,Romania
+MF, Valentin Mihăilă ,Parma,Romania
+MF, Marius Marin ,Pisa,Romania
+MF, Darius Olaru ,FCSB,Romania
+MF, Deian Sorescu ,Gaziantep,Romania
+MF, Florinel Coman ,FCSB,Romania
+MF, Adrian Șut ,FCSB,Romania
+MF, Constantin Grameni ,Farul Constanța,Romania
+FW, George Pușcaș ,Bari,Romania
+FW, Denis Alibec ,Muaither,Romania
+FW, Denis Drăguș ,Gaziantep,Romania
+FW, Daniel Bîrligea ,CFR Cluj,Romania
+GK, Craig Gordon ,Hearts,Scotland
+GK, Angus Gunn ,Norwich City,Scotland
+GK, Zander Clark ,Rangers,Scotland
+GK, Liam Kelly ,Motherwell,Scotland
+DF, Andy Robertson ,Liverpool,Scotland
+DF, Kieran Tierney ,Real Sociedad,Scotland
+DF, Jack Hendry ,Al Ettifaq,Scotland
+DF, Ryan Porteous ,Watford,Scotland
+DF, Liam Cooper ,Leeds United,Scotland
+DF, Scott McKenna ,FC Copenhagen,Scotland
+DF, Grant Hanley ,Norwich City,Scotland
+DF, Greg Taylor ,Celtic,Scotland
+DF, John Souttar ,Rangers,Scotland
+DF, Anthony Ralston ,Celtic,Scotland
+DF, Ross McCrorie ,Bristol City,Scotland
+MF, Callum McGregor ,Celtic,Scotland
+MF, Ryan Christie ,Bournemouth,Scotland
+MF, Billy Gilmour ,Brighton & Hove Albion,Scotland
+MF, John McGinn ,Aston Villa,Scotland
+MF, Kenny McLean ,Norwich City,Scotland
+MF, Scott McTominay ,Manchester United,Scotland
+MF, Stuart Armstrong ,Southampton,Scotland
+MF, Ryan Jack ,Rangers,Scotland
+FW, Lyndon Dykes ,QPR,Scotland
+FW, Che Adams ,Southampton,Scotland
+FW, Lawrence Shankland ,Hearts,Scotland
+FW, Ben Doak ,Liverpool,Scotland
+FW, James Forrest ,Celtic,Scotland
+GK, Predrag Rajković ,Mallorca,Serbia
+GK, Vanja Milinković-Savić ,Torino,Serbia
+GK, Đorđe Petrović ,Chelsea,Serbia
+DF, Nemanja Gudelj ,Sevilla,Serbia
+DF, Nikola Milenković ,Fiorentina,Serbia
+DF, Strahinja Pavlović ,Red Bull Salzburg,Serbia
+DF, Filip Mladenović ,Panathinaikos,Serbia
+DF, Miloš Veljković ,Werder Bremen,Serbia
+DF, Uroš Spajić ,Red Star Belgrade,Serbia
+DF, Srđan Babić ,Spartak Moscow,Serbia
+DF, Nemanja Stojić ,TSC,Serbia
+MF, Dušan Tadić ,Fenerbahçe,Serbia
+MF, Filip Kostić ,Juventus,Serbia
+MF, Sergej Milinković-Savić ,Al Hilal,Serbia
+MF, Nemanja Maksimović ,Getafe,Serbia
+MF, Saša Lukić ,Fulham,Serbia
+MF, Andrija Živković ,PAOK,Serbia
+MF, Mijat Gaćinović ,AEK Athens,Serbia
+MF, Ivan Ilić ,Torino,Serbia
+MF, Srđan Mijailović ,Red Star Belgrade,Serbia
+MF, Lazar Samardžić ,Udinese,Serbia
+MF, Veljko Birmančević ,Sparta Prague,Serbia
+FW, Aleksandar Mitrović ,Al Hilal,Serbia
+FW, Luka Jović ,Milan,Serbia
+FW, Dušan Vlahović ,Juventus,Serbia
+FW, Petar Ratkov ,Red Bull Salzburg,Serbia
+GK, Martin Dúbravka ,Newcastle United,Slovakia
+GK, Marek Rodák ,Fulham,Slovakia
+GK, Henrich Ravas ,New England Revolution,Slovakia
+GK, Dominik Takáč ,Spartak Trnava,Slovakia
+DF, Peter Pekarík ,Hertha BSC,Slovakia
+DF, Milan Škriniar ,Paris Saint-Germain,Slovakia
+DF, Norbert Gyömbér ,Salernitana,Slovakia
+DF, Dávid Hancko ,Feyenoord,Slovakia
+DF, Denis Vavro ,Copenhagen,Slovakia
+DF, Vernon De Marco ,Hatta,Slovakia
+DF, Michal Tomič ,Slavia Prague,Slovakia
+DF, Adam Obert ,Cagliari,Slovakia
+DF, Matúš Kmeť ,AS Trenčín,Slovakia
+DF, Sebastian Kóša ,Spartak Trnava,Slovakia
+MF, Juraj Kucka ,Slovan Bratislava,Slovakia
+MF, Ondrej Duda ,Hellas Verona,Slovakia
+MF, Patrik Hrošovský ,Genk,Slovakia
+MF, Stanislav Lobotka ,Napoli,Slovakia
+MF, Matúš Bero ,VfL Bochum,Slovakia
+MF, László Bénes ,Hamburger SV,Slovakia
+MF, Jakub Kadák ,Luzern,Slovakia
+MF, Dominik Hollý ,AS Trenčín,Slovakia
+FW, Róbert Boženík ,Boavista,Slovakia
+FW, Lukáš Haraslín ,Sparta Prague,Slovakia
+FW, Tomáš Suslov ,Hellas Verona,Slovakia
+FW, Ivan Schranz ,Slavia Prague,Slovakia
+FW, David Strelec ,Slovan Bratislava,Slovakia
+FW, Dávid Ďuriš ,Ascoli,Slovakia
+FW, Róbert Polievka ,Dukla Banská Bystrica,Slovakia
+FW, Ľubomír Tupta ,Slovan Liberec,Slovakia
+FW, Leo Sauer ,Feyenoord,Slovakia
+GK, Jan Oblak ,Atletico Madrid,Slovenia
+GK, Vid Belec ,APOEL,Slovenia
+GK, Igor Vekic ,Vejle,Slovenia
+GK, Matevž Vidovšek ,Olimpija Ljubljana,Slovenia
+DF, Petar Stojanovic ,Sampdoria,Slovenia
+DF, Jaka Bijol ,Udinese,Slovenia
+DF, Miha Blazic ,Lech Poznan,Slovenia
+DF, Jure Balkovec ,Alanyaspor,Slovenia
+DF, Zan Karnicnik ,Celje,Slovenia
+DF, David Brekalo ,Orlando City,Slovenia
+DF, Erik Janza ,Gornik Zabrze,Slovenia
+DF, Vanja Drkusic ,Sochi,Slovenia
+DF, Zan Zaletel ,Viborg,Slovenia
+MF, Timi Max Elsnik ,Olimpija Ljubljana,Slovenia
+MF, Jasmin Kurtic ,Sudtirol,Slovenia
+MF, Benjamin Verbic ,Panathinaikos,Slovenia
+MF, Miha Zajc ,Fenerbahce,Slovenia
+MF, Sandi Lovric ,Udinese,Slovenia
+MF, Adam Gnezda Cerin ,Panathinaikos,Slovenia
+MF, Jon Gorenc Stankovic ,Sturm Graz,Slovenia
+MF, Timi Max Elšnik ,Olimpija Ljubljana,Slovenia
+MF, Tomi Horvat ,Sturm Graz,Slovenia
+MF, Adrian Zeljkovic ,Spartak Trnava,Slovenia
+MF, Nino Zugelj ,Bodo/Glimt,Slovenia
+FW, Josip Ilicic ,Maribor,Slovenia
+FW, Andraz Sporar ,Panathinaikos,Slovenia
+FW, Benjamin Sesko ,RB Leipzig,Slovenia
+FW, Luka Zahovic ,Pognon Szczecin,Slovenia
+FW, Zan Celar ,Lugano,Slovenia
+FW, Jan Mlakar ,Pisa,Slovenia
+FW, Zan Viptonik ,Bordeaux,Slovenia
+GK, Alex Remiro ,Real Sociedad,Spain
+GK, David Raya ,Arsenal,Spain
+GK, Unai Simon ,Athletic Bilbao,Spain
+DF, Dani Carvajal ,Real Madrid,Spain
+DF, Pau Cubarsi ,Barcelona,Spain
+DF, Marc Cucurella ,Chelsea,Spain
+DF, Alex Grimaldo ,Bayer Leverkusen,Spain
+DF, Aymeric Laporte ,Al Nassr,Spain
+DF, Robin Le Normand ,Real Sociedad,Spain
+DF, Jesus Navas ,Sevilla,Spain
+DF, Nacho ,Real Madrid,Spain
+DF, Dani Vivian ,Athletic Bilbao,Spain
+MF, Alex Baena ,Villarreal,Spain
+MF, Alex Garcia ,Girona,Spain
+MF, Marcos Llorente ,Atletico Madrid,Spain
+MF, Mikel Merino ,Real Sociedad,Spain
+MF, Pedri ,Barcelona,Spain
+MF, Rodri ,Manchester City,Spain
+MF, Fabian Ruiz ,PSG,Spain
+MF, Martin Zubimendi ,Real Sociedad,Spain
+MF, Marcos Llorente ,Atletico Madrid,Spain
+FW, Joselu ,Real Madrid,Spain
+FW, Alvaro Morata ,Atletico Madrid,Spain
+FW, Ayoze Perez ,Real Betis,Spain
+FW, Dani Olmo ,RB Leipzig,Spain
+FW, Mikel Oyarzabal ,Real Sociedad,Spain
+FW, Ferran Torres ,Barcelona,Spain
+FW, Nico Williams ,Athletic Bilbao,Spain
+FW, Lamine Yamal ,Barcelona,Spain
+GK, Marvin Keller ,Winterthur,Switzerland
+GK, Gregor Kobel ,Borussia Dortmund,Switzerland
+GK, Pascal Loretz ,Luzern,Switzerland
+GK, Yvon Mvogo ,Lorient,Switzerland
+GK, Yann Sommer ,Inter Milan,Switzerland
+DF, Manuel Akanji ,Manchester City,Switzerland
+DF, Aurèle Amenda ,Young Boys,Switzerland
+DF, Nico Elvedi ,Borussia Mönchengladbach,Switzerland
+DF, Ulisses Garcia ,Marseille,Switzerland
+DF, Albian Hajdari ,Lugano,Switzerland
+DF, Kevin Mbabu ,Augsburg,Switzerland
+DF, Bryan Okoh ,Salzburg,Switzerland
+DF, Bećir Omeragić ,Montpellier,Switzerland
+DF, Ricardo Rodriguez ,Torino,Switzerland
+DF, Fabian Schär ,Newcastle United,Switzerland
+DF, Leonidas Stergiou ,VfB Stuttgart,Switzerland
+DF, Silvan Widmer ,Mainz 05,Switzerland
+DF, Cédric Zesiger ,VfL Wolfsburg,Switzerland
+MF, Michel Aebischer ,Bologna,Switzerland
+MF, Uran Bislimi ,Lugano,Switzerland
+MF, Remo Freuler Bologna),,Switzerland
+MF, Ardon Jashari ,Luzern,Switzerland
+MF, Fabian Rieder ,Rennes,Switzerland
+MF, Xherdan Shaqiri ,Chicago Fire FC,Switzerland
+MF, Vincent Sierro ,Toulouse,Switzerland
+MF, Filip Ugrinic ,Young Boys,Switzerland
+MF, Granit Xhaka ,Bayer Leverkusen,Switzerland
+MF, Denis Zakaria ,Monaco,Switzerland
+FW, Zeki Amdouni ,Burnley,Switzerland
+FW, Kwadwo Duah ,Ludogorets Razgrad,Switzerland
+FW, Breel Embolo ,Monaco,Switzerland
+FW, Joël Monteiro ,Young Boys,Switzerland
+FW, Dan Ndoye ,Bologna,Switzerland
+FW, Noah Okafor ,Milan,Switzerland
+FW, Renato Steffen ,Lugano,Switzerland
+FW, Ruben Vargas ,Augsburg,Switzerland
+FW, Andi Zeqiri ,Genk,Switzerland
+FW, Steven Zuber ,AEK,Switzerland
+GK, Mert Günok ,Beşiktaş,Turkey
+GK, Uğurcan Çakır ,Trabzonspor,Turkey
+GK, Altay Bayındır ,Manchester United,Turkey
+GK, Doğan Alemdar ,Troyes,Turkey
+DF, Çağlar Söyüncü ,Fenerbahçe,Turkey
+DF, Zeki Çelik ,Roma,Turkey
+DF, Merih Demiral ,Al-Ahli,Turkey
+DF, Ozan Kabak ,TSG Hoffenheim,Turkey
+DF, Mert Müldür ,Fenerbahçe,Turkey
+DF, Ferdi Kadıoğlu ,Fenerbahçe,Turkey
+DF, Cenk Özkacar ,Valencia,Turkey
+DF, Abdülkerim Bardakcı ,Galatasaray,Turkey
+DF, Samet Akaydin ,Panathinaikos,Turkey
+DF, Ahmetcan Kaplan ,Ajax,Turkey
+MF, Hakan Çalhanoğlu ,Inter Milan,Turkey
+MF, Kaan Ayhan ,Galatasaray,Turkey
+MF, Okay Yokuşlu ,West Bromwich Albion,Turkey
+MF, Orkun Kökçü ,Benfica,Turkey
+MF, Salih Özcan ,Borussia Dortmund,Turkey
+MF, İsmail Yüksek ,Fenerbahçe,Turkey
+MF, Abdülkadir Ömür ,Hull City,Turkey
+MF, Arda Güler ,Real Madrid,Turkey
+MF, Berat Özdemir ,Trabzonspor,Turkey
+MF, Can Uzun ,1. FC Nürnberg,Turkey
+FW, Cenk Tosun ,Beşiktaş,Turkey
+FW, Yusuf Yazıcı ,Lille,Turkey
+FW, Enes Ünal ,Bournemouth,Turkey
+FW, İrfan Kahveci ,Fenerbahçe,Turkey
+FW, Kerem Aktürkoğlu ,Galatasaray,Turkey
+FW, Barış Alper Yılmaz ,Galatasaray,Turkey
+FW, Yunus Akgün ,Leicester City,Turkey
+FW, Kenan Yıldız ,Juventus,Turkey
+FW, Bertuğ Yıldırım ,Rennes,Turkey
+FW, Oğuz Aydın ,Alanyaspor,Turkey
+FW, Semih Kılıçsoy ,Beşiktaş,Turkey
+GK, Heorhiy Bushchan ,Dynamo Kyiv,Ukraine
+GK, Anatoliy Trubin ,Benfica,Ukraine
+GK, Andriy Lunin ,Real Madrid,Ukraine
+DF, Mykola Matviyenko ,Shakhtar Donetsk,Ukraine
+DF, Vitaliy Mykolenko ,Everton,Ukraine
+DF, Illya Zabarnyi ,Bournemouth,Ukraine
+DF, Oleksandr Tymchyk ,Dynamo Kyiv,Ukraine
+DF, Yukhym Konoplya ,Shakhtar Donetsk,Ukraine
+DF, Bohdan Mykhaylichenko ,Polissya Zhytomyr,Ukraine
+DF, Valeriy Bondar ,Shakhtar Donetsk,Ukraine
+DF, Maksym Talovyerov ,LASK,Ukraine
+DF, Oleksandr Svatok ,Dnipro-1,Ukraine
+MF, Serhiy Sydorchuk ,Westerlo,Ukraine
+MF, Oleksandr Zinchenko ,Arsenal,Ukraine
+MF, Ruslan Malinovskyi ,Genoa,Ukraine
+MF, Viktor Tsyhankov ,Girona,Ukraine
+MF, Taras Stepanenko ,Shakhtar Donetsk,Ukraine
+MF, Oleksandr Zubkov ,Shakhtar Donetsk,Ukraine
+MF, Mykola Shaparenko ,Dynamo Kyiv,Ukraine
+MF, Mykhailo Mudryk ,Chelsea,Ukraine
+MF, Heorhiy Sudakov ,Shakhtar Donetsk,Ukraine
+MF, Volodymyr Brazhko ,Dynamo Kyiv,Ukraine
+FW, Roman Yaremchuk ,Valencia,Ukraine
+FW, Artem Dovbyk ,Girona,Ukraine
+FW, Vladyslav Vanat ,Dynamo Kyiv,Ukraine
+FW, Andriy Yarmolenko ,Dynamo Kyiv,Ukraine
