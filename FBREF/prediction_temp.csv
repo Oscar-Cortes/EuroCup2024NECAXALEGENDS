@@ -1,0 +1,55 @@
+Player_ID,SHIRT_N,PLAYER_NAME,HEIGHT,FOOT,Country,SQUAD,SQUAD_1,SQUAD_RANKING,OPPONENT,OPPONENT1,OPPONENT RANKING,M_WEEKDAY,M_MONTH,M_SEASON,YEAR,COMPETITION_N,ROUND_N,VENUE_N,STARTER,STRIKER,Penalty_shooter,MINUTES
+PT-7,7,Cristiano Ronaldo,187,1,pt,Portugal,Portugal-2024,6,Czechia,Czechia-2024,36,2,6,2,2024,3,1,3,1,1,1,85
+PT-7,7,Cristiano Ronaldo,187,1,pt,Portugal,Portugal-2024,6,Türkiye,Türkiye-2024,40,6,6,2,2024,3,1,3,1,1,1,85
+PT-7,7,Cristiano Ronaldo,187,1,pt,Portugal,Portugal-2024,6,Georgia,Georgia-2024,75,3,6,2,2024,3,1,3,1,1,1,85
+PT-9,9,GonÃ§alo Ramos,184,1,pt,Portugal,Portugal-2024,6,Czechia,Czechia-2024,36,2,6,2,2024,3,1,3,0,1,0,25
+PT-9,9,GonÃ§alo Ramos,184,1,pt,Portugal,Portugal-2024,6,Türkiye,Türkiye-2024,40,6,6,2,2024,3,1,3,0,1,0,25
+PT-9,9,GonÃ§alo Ramos,184,1,pt,Portugal,Portugal-2024,6,Georgia,Georgia-2024,75,3,6,2,2024,3,1,3,0,1,0,25
+BE-9,9,Romelu Lukaku,192,2,be,Belgium,Belgium-2024,3,Slovakia,Slovakia-2024,48,1,6,2,2024,3,1,3,1,1,1,75
+BE-9,9,Romelu Lukaku,192,2,be,Belgium,Belgium-2024,3,Romania,Romania-2024,46,6,6,2,2024,3,1,3,1,1,1,75
+BE-9,9,Romelu Lukaku,192,2,be,Belgium,Belgium-2024,3,Ukraine,Ukraine-2024,22,3,6,2,2024,3,1,3,1,1,1,75
+CZ-10,10,Patrik Schick,186,2,cz,Czechia,Czechia-2024,36,Portugal,Portugal-2024,6,2,6,2,2024,3,1,3,1,1,1,75
+CZ-10,10,Patrik Schick,186,2,cz,Czechia,Czechia-2024,36,Georgia,Georgia-2024,75,6,6,2,2024,3,1,3,1,1,1,75
+CZ-10,10,Patrik Schick,186,2,cz,Czechia,Czechia-2024,36,Türkiye,Türkiye-2024,40,3,6,2,2024,3,1,3,1,1,1,75
+CZ-16,16,Adam Hlozek,180,1,cz,Czechia,Czechia-2024,36,Portugal,Portugal-2024,6,2,6,2,2024,3,1,3,0,1,0,27
+CZ-16,16,Adam Hlozek,180,1,cz,Czechia,Czechia-2024,36,Georgia,Georgia-2024,75,6,6,2,2024,3,1,3,0,1,0,27
+CZ-16,16,Adam Hlozek,180,1,cz,Czechia,Czechia-2024,36,Türkiye,Türkiye-2024,40,3,6,2,2024,3,1,3,0,1,0,27
+DE-11,11,Niclas FÃ¼llkrug,188,1,de,Germany,Germany-2024,16, Scotland, Scotland-2024,39,5,6,2,2024,3,1,3,0,1,0,26
+DE-11,11,Niclas FÃ¼llkrug,188,1,de,Germany,Germany-2024,16,Hungary,Hungary-2024,26,3,6,2,2024,3,1,3,0,1,0,26
+DE-11,11,Niclas FÃ¼llkrug,188,1,de,Germany,Germany-2024,16,Switzerland,Switzerland-2024,19,7,6,2,2024,3,1,3,0,1,0,26
+DK-11,11,Rasmus Hojlund,192,1,dk,Denmark,Denmark-2024,21,Slovenia,Slovenia-2024,57,7,6,2,2024,3,1,3,1,1,1,83
+DK-11,11,Rasmus Hojlund,192,1,dk,Denmark,Denmark-2024,21, England, England-2024,4,4,6,2,2024,3,1,3,1,1,1,83
+DK-11,11,Rasmus Hojlund,192,1,dk,Denmark,Denmark-2024,21,Serbia,Serbia-2024,33,2,6,2,2024,3,1,3,1,1,1,83
+DK-16,16,Kasper Dolberg,186,1,dk,Denmark,Denmark-2024,21,Slovenia,Slovenia-2024,57,7,6,2,2024,3,1,3,0,1,0,26
+DK-16,16,Kasper Dolberg,186,1,dk,Denmark,Denmark-2024,21, England, England-2024,4,4,6,2,2024,3,1,3,0,1,0,26
+DK-16,16,Kasper Dolberg,186,1,dk,Denmark,Denmark-2024,21,Serbia,Serbia-2024,33,2,6,2,2024,3,1,3,0,1,0,26
+ENG-9,9,Harry Kane,188,1,eng, England, England-2024,4,Serbia,Serbia-2024,33,7,6,2,2024,3,1,3,1,1,1,82
+ENG-9,9,Harry Kane,188,1,eng, England, England-2024,4,Denmark,Denmark-2024,21,4,6,2,2024,3,1,3,1,1,1,82
+ENG-9,9,Harry Kane,188,1,eng, England, England-2024,4,Slovenia,Slovenia-2024,57,2,6,2,2024,3,1,3,1,1,1,82
+ES-19,19,Alvaro Morata,189,1,es,Spain,Spain-2024,8,Croatia,Croatia-2024,10,6,6,2,2024,3,1,3,1,1,1,74
+ES-19,19,Alvaro Morata,189,1,es,Spain,Spain-2024,8,Italy,Italy-2024,9,4,6,2,2024,3,1,3,1,1,1,74
+ES-19,19,Alvaro Morata,189,1,es,Spain,Spain-2024,8,Albania,Albania-2024,66,1,6,2,2024,3,1,3,1,1,1,74
+FR-10,10,Kylian Mbappe,178,1,fr,France,France-2024,2,Austria,Austria-2024,25,1,6,2,2024,3,1,3,1,1,1,85
+FR-10,10,Kylian Mbappe,178,1,fr,France,France-2024,2,Netherlands,Netherlands-2024,7,5,6,2,2024,3,1,3,1,1,1,85
+FR-10,10,Kylian Mbappe,178,1,fr,France,France-2024,2,Poland,Poland-2024,28,2,6,2,2024,3,1,3,1,1,1,85
+HR-7,7,Ante Rebic,185,1,hr,Croatia,Croatia-2024,10,Spain,Spain-2024,8,6,6,2,2024,3,1,3,1,1,0,73
+HR-7,7,Ante Rebic,185,1,hr,Croatia,Croatia-2024,10,Albania,Albania-2024,66,3,6,2,2024,3,1,3,1,1,0,73
+HR-7,7,Ante Rebic,185,1,hr,Croatia,Croatia-2024,10,Italy,Italy-2024,9,1,6,2,2024,3,1,3,1,1,0,73
+HU-20,20,Roland Sallai,183,1,hu,Hungary,Hungary-2024,26,Switzerland,Switzerland-2024,19,6,6,2,2024,3,1,3,1,0,0,79
+HU-20,20,Roland Sallai,183,1,hu,Hungary,Hungary-2024,26,Germany,Germany-2024,16,3,6,2,2024,3,1,3,1,0,0,79
+HU-20,20,Roland Sallai,183,1,hu,Hungary,Hungary-2024,26, Scotland, Scotland-2024,39,7,6,2,2024,3,1,3,1,0,0,79
+IT-19,19,Mateo Retegui,186,1,it,Italy,Italy-2024,9,Albania,Albania-2024,66,6,6,2,2024,3,1,3,0,1,0,17
+IT-19,19,Mateo Retegui,186,1,it,Italy,Italy-2024,9,Spain,Spain-2024,8,4,6,2,2024,3,1,3,0,1,0,17
+IT-19,19,Mateo Retegui,186,1,it,Italy,Italy-2024,9,Croatia,Croatia-2024,10,1,6,2,2024,3,1,3,0,1,0,17
+NL-10,10,Memphis Depay,176,1,nl,Netherlands,Netherlands-2024,7,Poland,Poland-2024,28,7,6,2,2024,3,1,3,1,1,1,84
+NL-10,10,Memphis Depay,176,1,nl,Netherlands,Netherlands-2024,7,France,France-2024,2,5,6,2,2024,3,1,3,1,1,1,84
+NL-10,10,Memphis Depay,176,1,nl,Netherlands,Netherlands-2024,7,Austria,Austria-2024,25,2,6,2,2024,3,1,3,1,1,1,84
+PL-9,9,Robert Lewandowski,185,1,pl,Poland,Poland-2024,28,Netherlands,Netherlands-2024,7,7,6,2,2024,3,1,3,1,1,1,85
+PL-9,9,Robert Lewandowski,185,1,pl,Poland,Poland-2024,28,Austria,Austria-2024,25,5,6,2,2024,3,1,3,1,1,1,85
+PL-9,9,Robert Lewandowski,185,1,pl,Poland,Poland-2024,28,France,France-2024,2,2,6,2,2024,3,1,3,1,1,1,85
+SC-9,9,Che Adams,175,1,sc, Scotland, Scotland-2024,39,Germany,Germany-2024,16,5,6,2,2024,3,1,3,1,1,0,90
+SC-9,9,Che Adams,175,1,sc, Scotland, Scotland-2024,39,Switzerland,Switzerland-2024,19,3,6,2,2024,3,1,3,1,1,0,90
+SC-9,9,Che Adams,175,1,sc, Scotland, Scotland-2024,39,Hungary,Hungary-2024,26,7,6,2,2024,3,1,3,1,1,0,90
+UA-9,9,Artem Dovbyk,184,1,ua,Ukraine,Ukraine-2024,22,Romania,Romania-2024,46,1,6,2,2024,3,1,3,1,1,1,90
+UA-9,9,Artem Dovbyk,184,1,ua,Ukraine,Ukraine-2024,22,Slovakia,Slovakia-2024,48,5,6,2,2024,3,1,3,1,1,1,90
+UA-9,9,Artem Dovbyk,184,1,ua,Ukraine,Ukraine-2024,22,Belgium,Belgium-2024,3,3,6,2,2024,3,1,3,1,1,1,90
