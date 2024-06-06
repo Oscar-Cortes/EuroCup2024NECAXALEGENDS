@@ -1,0 +1,660 @@
+﻿id,Position,Name,actual_age,Club Team,national_id,Country
+ENG-GK-JP30,GK,Jordan Pickford,30,Everton,ENG,England
+ENG-GK-AR26,GK,Aaron Ramsdale,26,Arsenal,ENG,England
+ENG-GK-DH27,GK,Dean Henderson,27,Crystal Palace,ENG,England
+ENG-GK-JT21,GK,James Trafford,21,Burnley,ENG,England
+ENG-DF-LS28,DF,Luke Shaw,28,Manchester United,ENG,England
+ENG-DF-KT33,DF,Kieran Trippier,33,Newcastle United,ENG,England
+ENG-DF-JG27,DF,Joe Gomez,27,Liverpool,ENG,England
+ENG-DF-JQ21,DF,Jarrell Quansah,21,Liverpool,ENG,England
+ENG-DF-MG23,DF,Marc Guehi,23,Crystal Palace,ENG,England
+ENG-DF-KW34,DF,Kyle Walker,34,Manchester City,ENG,England
+ENG-MF-JB22,DF,Jarrad Branthwaite,22,Everton,ENG,England
+ENG-DF-LD32,DF,Lewis Dunk,32,Brighton,ENG,England
+ENG-DF-HM31,DF,Harry Maguire,31,Manchester United,ENG,England
+ENG-DF-EK26,DF,Ezri Konsa,26,Aston Villa,ENG,England
+ENG-DF-JS30,DF,John Stones,30,Manchester City,ENG,England
+ENG-MF-JB21,MF,Jude Bellingham,20,Real Madrid,ENG,England
+ENG-MF-TA25,MF,Trent Alexander-Arnold,25,Liverpool,ENG,England
+ENG-MF-DR25,MF,Declan Rice,25,Arsenal,ENG,England
+ENG-MF-PF24,MF,Phil Foden,24,Manchester City,ENG,England
+ENG-MF-CG24,MF,Conor Gallagher,24,Chelsea,ENG,England
+ENG-MF-CJ23,MF,Curtis Jones,23,Liverpool,ENG,England
+ENG-MF-JM27,MF,James Maddison,27,Tottenham Hotspur,ENG,England
+ENG-MF-EE25,MF,Eberechi Eze,25,Crystal Palace,ENG,England
+ENG-MF-KM19,MF,Kobbie Mainoo,19,Manchester United,ENG,England
+ENG-MF-CP22,MF,Cole Palmer,22,Chelsea,ENG,England
+ENG-MF-AG23,MF,Anthony Gordon,23,Newcastle United,ENG,England
+ENG-MF-AW20,MF,Adam Wharton,20,Crystal Palace,ENG,England
+ENG-FW-HK31,FW,Harry Kane,30,Bayern Munich,ENG,England
+ENG-MF-BS22,FW,Bukayo Saka,22,Arsenal,ENG,England
+ENG-FW-JG28,FW,Jack Grealish,28,Manchester City,ENG,England
+ENG-FW-JB27,FW,Jarrod Bowen,27,West Ham,ENG,England
+ENG-FW-OW28,FW,Ollie Watkins,27,Aston Villa,ENG,England
+AL-GK-EB35,GK,Etrit Berisha,35,Empoli,AL,Albania
+AL-GK-TS29,GK,Thomas Strakosha,29,Brentford,AL,Albania
+AL-GK-EK27,GK,Elhan Kastrati,27,Cittadella,AL,Albania
+AL-GK-SS19,GK,Simon Simoni,19,Eintracht Frankfurt,AL,Albania
+AL-DF-BD31,DF,Berat Djimsiti,31,Atalanta,AL,Albania
+AL-DF-EH30,DF,Elseid Hysaj,30,Lazio,AL,Albania
+AL-DF-IB32,DF,Iván Balliu,32,Rayo Vallecano,AL,Albania
+AL-DF-AI27,DF,Ardian Ismajli,27,Empoli,AL,Albania
+AL-DF-AA30,DF,Arlind Ajeti,30,CFR Cluj,AL,Albania
+AL-DF-NA30,DF,Naser Aliji,30,Voluntari,AL,Albania
+AL-MF-MM20,DF,Mario Mitaj,20,Lokomotiv Moscow,AL,Albania
+AL-DF-EM26,DF,Enea Mihaj,25,Famalicão,AL,Albania
+AL-DF-MK24,DF,Marash Kumbulla,24,Sassuolo,AL,Albania
+AL-MF-AA34,MF,Amir Abrashi,34,Grasshoppers,AL,Albania
+AL-MF-KA22,MF,Kristjan Asllani,22,Inter Milan,AL,Albania
+AL-MF-NB25,MF,Nedim Bajrami,25,Sassuolo,AL,Albania
+AL-MF-MB25,MF,Medon Berisha,25,Lecce,AL,Albania
+AL-MF-KG34,MF,Klaus Gjasula,34,Darmstadt 98,AL,Albania
+AL-MF-QL28,MF,Qazim Laçi,28,Sparta Prague,AL,Albania
+AL-FW-EM23,MF,Ernest Muçi,23,Beşiktaş,AL,Albania
+AL-MF-YR28,MF,Ylber Ramadani,28,Lecce,AL,Albania
+AL-FW-JA29,FW,Jasir Asani,29,Gwangju FC,AL,Albania
+AL-FW-AB22,FW,Armando Broja,22,Fulham,AL,Albania
+AL-FW-MD20,FW,Mirlind Daku,20,Rubin Kazan,AL,Albania
+AL-FW-AH25,FW,Arbër Hoxha,25,Dinamo Zagreb,AL,Albania
+AL-FW-RM27,FW,Rey Manaj,27,Sivasspor,AL,Albania
+AL-FW-TS27,FW,Taulant Seferi,27,Baniyas,AL,Albania
+AT-GK-TL24,GK,Tobias Lawal,24,LASK,AT,Austria
+AT-GK-PP27,GK,Patrick Pentz,27,Brondby,AT,Austria
+AT-GK-HL33,GK,Heinz Lindner,33,Union Saint-Gilloise,AT,Austria
+AT-GK-NH23,GK,Niklas Hedl,23,Rapid Wien,AT,Austria
+AT-DF-SL32,DF,Stefan Lainer,31,Borussia Monchengladbach,AT,Austria
+AT-DF-SP27,DF,Stefan Posch,27,Bologna,AT,Austria
+AT-DF-MW26,DF,Max Wober,26,Borussia Monchengladbach,AT,Austria
+AT-DF-PL28,DF,Philipp Lienhart,27,Freiburg,AT,Austria
+AT-DF-KD25,DF,Kevin Danso,25,Lens,AT,Austria
+AT-DF-PM30,DF,Phillipp Mwene,30,Mainz,AT,Austria
+AT-DF-FD23,DF,Flavius Daniliuc,23,Red Bull Salzburg,AT,Austria
+AT-DF-GT32,DF,Gernot Trauner,32,Feyenoord,AT,Austria
+AT-DF-LQ20,DF,Leopold Querfeld,20,Rapid Wien,AT,Austria
+AT-MF-MS30,MF,Marcel Sabitzer,30,Borussia Dortmund,AT,Austria
+AT-MF-FG29,MF,Florian Grillitsch,28,Hoffenheim,AT,Austria
+AT-MF-CB25,MF,Christoph Baumgartner,24,RB Leipzig,AT,Austria
+AT-MF-KL27,MF,Konrad Laimer,27,Bayern Munich,AT,Austria
+AT-MF-FK25,MF,Florian Kain,25,Cologne,AT,Austria
+AT-MF-NS23,MF,Nicolas Seiwald,37,RB Leipzig,AT,Austria
+AT-MF-RS24,MF,Romano Schmid,24,Werder Bremen,AT,Austria
+AT-MF-AP23,MF,Alexander Prass,23,Sturm Graz,AT,Austria
+AT-MF-MS23,MF,Matthias Seidl,23,Rapid Vienna,AT,Austria
+AT-MF-TB22,MF,Thierno Ballo,22,Wolfsburg,AT,Austria
+AT-FW-MA35,FW,Mark Arnautovic,35,Inter Milan,AT,Austria
+AT-FW-MG30,FW,Michael Gregoritsch,30,Freiburg,AT,Austria
+AT-FW-AW33,FW,Andreas Weimann,32,West Brom,AT,Austria
+AT-MF-PW23,FW,Patrick Wimmer,23,Wolfsburg,AT,Austria
+AT-FW-MG25,FW,Marco Grull,25,Rapid Wien,AT,Austria
+AT-FW-ME27,FW,Maximilian Entrup,27,TSV Hartberg,AT,Austria
+BE-GK-KC32,GK,Koen Casteels,31,VfL Wolfsburg,BE,Belgium
+BE-GK-TK31,GK,Thomas Kaminski,31,Luton Town,BE,Belgium
+BE-GK-MS32,GK,Matz Sels,32,Nottingham Forest,BE,Belgium
+BE-DF-TC28,DF,Timothy Castagne,28,Fulham,BE,Belgium
+BE-DF-MD23,DF,Maxim De Cuyper,23,Club Brugge,BE,Belgium
+BE-DF-ZD20,DF,Zeno Debast,20,Anderlecht,BE,Belgium
+BE-DF-WF26,DF,Wout Faes,26,Leicester City,BE,Belgium
+BE-DF-TM32,DF,Thomas Meunier,32,Trabzonspor,BE,Belgium
+BE-DF-JV37,DF,Jan Vertonghen,37,Anderlecht,BE,Belgium
+BE-DF-AT24,DF,Arthur Theate,24,Stade Rennais,BE,Belgium
+BE-DF-AW35,DF,Axel Witsel,35,Atletico Madrid,BE,Belgium
+BE-MF-YC30,MF,Yannick Carrasco,30,Al Shabab,BE,Belgium
+BE-MF-KD32,MF,Kevin De Bruyne,32,Manchester City,BE,Belgium
+BE-MF-OM26,MF,Orel Mangala,26,Olympique Lyonnais,BE,Belgium
+BE-MF-AO22,MF,Amadou Onana,22,Everton,BE,Belgium
+BE-MF-YT27,MF,Youri Tielemans,27,Aston Villa,BE,Belgium
+BE-MF-AV19,MF,Arthur Vermeeren,19,Atletico Madrid,BE,Belgium
+BE-MF-AV21,MF,Aster Vranckx,21,vfL Wolfsburg,BE,Belgium
+BE-FW-JB21,FW,Johan Bakayoko,21,PSV Eindhoven,BE,Belgium
+BE-FW-CD23,FW,Charles De Ketelaere,23,Atalanta,BE,Belgium
+BE-FW-JD22,FW,Jeremy Doku,22,Manchester City,BE,Belgium
+BE-FW-RL31,FW,Romelu Lukaku,31,Roma,BE,Belgium
+BE-FW-DL26,FW,Dodi Lukebakio,26,Sevilla,BE,Belgium
+BE-FW-LO24,FW,Lois Openda,24,RB Leipzig,BE,Belgium
+BE-FW-LT29,FW,Leandro Trossard,29,Arsenal,BE,Belgium
+HR-GK-DL29,GK,Dominik Livaković,29,Fenerbahçe,HR,Croatia
+HR-GK-II29,GK,Ivica Ivušić,29,Pafos,HR,Croatia
+HR-GK-NL24,GK,Nediljko Labrović,24,Rijeka,HR,Croatia
+HR-GK-DK24,GK,Dominik Kotarski,24,PAOK,HR,Croatia
+HR-DF-DV35,DF,Domagoj Vida,35,AEK Athens,HR,Croatia
+HR-DF-JJ29,DF,Josip Juranović,28,Union Berlin,HR,Croatia
+HR-DF-BB31,DF,Borna Barišić,31,Rangers,HR,Croatia
+HR-DF-JG22,DF,Joško Gvardiol,22,Manchester City,HR,Croatia
+HR-DF-DC27,DF,Duje Ćaleta-Car,27,Lyon,HR,Croatia
+HR-DF-BS26,DF,Borna Sosa,26,Ajax,HR,Croatia
+HR-DF-JS24,DF,Josip Stanišić,24,Bayer Leverkusen,HR,Croatia
+HR-DF-JS25,DF,Josip Šutalo,25,Ajax,HR,Croatia
+HR-DF-ME26,DF,Martin Erlić,26,Sassuolo,HR,Croatia
+HR-DF-MP26,DF,Marin Pongračić,26,Lecce,HR,Croatia
+HR-DF-NK20,DF,Niko Kristian Sigur,20,Hajduk Split,HR,Croatia
+HR-MF-LM39,MF,Luka Modrić,38,Real Madrid,HR,Croatia
+HR-MF-MK30,MF,Mateo Kovačić,30,Manchester City,HR,Croatia
+HR-MF-MB31,MF,Marcelo Brozović,31,Al Nassr,HR,Croatia
+HR-MF-MP29,MF,Mario Pašalić,29,Atalanta,HR,Croatia
+HR-MF-NV26,MF,Nikola Vlašić,28,Torino,HR,Croatia
+HR-MF-LM26,MF,Lovro Majer,26,Wolfsburg,HR,Croatia
+HR-MF-LI25,MF,Luka Ivanušec,25,Feyenoord,HR,Croatia
+HR-MF-LS21,MF,Luka Sučić,21,Red Bull Salzburg,HR,Croatia
+HR-MF-KJ27,MF,Kristijan Jakić,27,Augsburg,HR,Croatia
+HR-MF-MB21,MF,Martin Baturina,21,Dinamo Zagreb,HR,Croatia
+HR-MF-TF23,MF,Toni Fruk,23,Rijeka,HR,Croatia
+HR-MF-PS20,MF,Petar Sučić,20,Dinamo Zagreb,HR,Croatia
+HR-FW-IP35,FW,Ivan Perišić,35,Hajduk Split,HR,Croatia
+HR-FW-AK33,FW,Andrej Kramarić,32,1899 Hoffenheim,HR,Croatia
+HR-FW-BP29,FW,Bruno Petković,29,Dinamo Zagreb,HR,Croatia
+HR-FW-MP29,FW,Marko Pjaca,29,Rijeka,HR,Croatia
+HR-FW-AB33,FW,Ante Budimir,32,Osasuna,HR,Croatia
+HR-FW-MP23,FW,Marco Pašalić,23,Rijeka,HR,Croatia
+HR-FW-ML22,FW,Marin Ljubičić,22,LASK,HR,Croatia
+HR-FW-IM21,FW,Igor Matanović,21,Karlsruher SC,HR,Croatia
+CZ-GK-JS28,GK,Jindřich Staněk,28,Slavia Prague,CZ,Czechia
+CZ-GK-VJ23,GK,Vítězslav Jaroš,23,Sturm Graz,CZ,Czechia
+CZ-GK-MK24,GK,Matěj Kovář,24,Bayer Leverkusen,CZ,Czechia
+CZ-DF-VC31,DF,Vladimír Coufal,31,West Ham United,CZ,Czechia
+CZ-MF-TH31,DF,Tomáš Holeš,31,Slavia Prague,CZ,Czechia
+CZ-DF-DZ23,DF,David Zima,23,Slavia Prague,CZ,Czechia
+CZ-DF-LK25,DF,Ladislav Krejčí,25,Sparta Prague,CZ,Czechia
+CZ-DF-DD26,DF,David Doudera,26,Slavia Prague,CZ,Czechia
+CZ-DF-DJ24,DF,David Jurásek,24,Hoffenheim,CZ,Czechia
+CZ-DF-RH24,DF,Robin Hranáč,24,Viktoria Plzen,CZ,Czechia
+CZ-DF-TV23,DF,Tomáš Vlček,23,Slavia Prague,CZ,Czechia
+CZ-DF-MV23,DF,Martin Vítík,23,Sparta Prague,CZ,Czechia
+CZ-MF-TS29,MF,Tomáš Souček,29,West Ham,CZ,Czechia
+CZ-MF-AB29,MF,Antonín Barák,29,Fiorentina,CZ,Czechia
+CZ-MF-MS25,MF,Michal Sadílek,25,Twente,CZ,Czechia
+CZ-FW-LP27,MF,Lukáš Provod,27,Slavia Prague,CZ,Czechia
+CZ-MF-VC26,MF,Václav Černý,26,VfL Wolfsburg,CZ,Czechia
+CZ-MF-OL25,MF,Ondřej Lingr,25,Feyenoord,CZ,Czechia
+CZ-FW-MJ20,MF,Matěj Jurásek,20,Slavia Prague,CZ,Czechia
+CZ-MF-PS23,MF,Pavel Sulc,23,Viktoria Plzen,CZ,Czechia
+CZ-MF-LC23,MF,Lukáš Červ,23,Viktoria Plzen,CZ,Czechia
+CZ-FW-PS28,FW,Patrik Schick,28,Bayer Leverkusen,CZ,Czechia
+CZ-FW-AH21,FW,Adam Hlozek,21,Bayer Leverkusen,CZ,Czechia
+CZ-FW-JK27,FW,Jan Kuchta,27,Sparta Prague,CZ,Czechia
+CZ-FW-MC25,FW,Mojmír Chytil,25,Slavia Prague,CZ,Czechia
+CZ-FW-TC29,FW,Tomáš Chorý,29,Viktoria Plzen,CZ,Czechia
+FR-GK-BS30,GK,Brice Samba,30,Lens,FR,France
+FR-GK-MM29,GK,Mike Maignan,28,AC Milan,FR,France
+FR-GK-AA31,GK,Alphonse Areola,31,West Ham,FR,France
+FR-DF-IK25,DF,Ibrahima Konaté,25,Liverpool,FR,France
+FR-DF-WS23,DF,William Saliba,23,Arsenal,FR,France
+FR-DF-JK25,DF,Jules Koundé,25,Barcelona,FR,France
+FR-DF-DU25,DF,Dayot Upamecano,25,Bayern Munich,FR,France
+FR-DF-JC31,DF,Jonathan Clauss,31,Marseille,FR,France
+FR-DF-BP28,DF,Benjamin Pavard,28,Inter Milan,FR,France
+FR-DF-TH26,DF,Theo Hernandez,26,AC Milan,FR,France
+FR-DF-FM28,DF,Ferland Mendy,28,Real Madrid,FR,France
+FR-MF-NK33,MF,N'Golo Kanté,33,Al-Ittihad,FR,France
+FR-MF-EC21,MF,Eduardo Camavinga,21,Real Madrid,FR,France
+FR-MF-AR29,MF,Adrien Rabiot,29,Juventus,FR,France
+FR-MF-WZ18,MF,Warren Zaire-Emery,18,PSG,FR,France
+FR-MF-YF25,MF,Youssouf Fofana,25,Monaco,FR,France
+FR-MF-AT24,MF,Aurélien Tchouaméni,24,Real Madrid,FR,France
+FR-FW-OG37,FW,Olivier Giroud,27,AC Milan,FR,France
+FR-FW-AG33,FW,Antoine Griezmann,33,Atletico Madrid,FR,France
+FR-FW-KM25,FW,Kylian Mbappé,25,PSG,FR,France
+FR-FW-OD27,FW,Ousmane Dembélé,27,PSG,FR,France
+FR-FW-RK25,FW,Randal Kolo Muani,25,PSG,FR,France
+FR-FW-MT27,FW,Marcus Thuram,27,Inter Milan,FR,France
+FR-FW-BB21,FW,Bradley Barcola,21,PSG,FR,France
+FR-FW-KC27,FW,Kingsley Coman,27,Bayern Munich,FR,France
+GE-GK-GL38,GK,Giorgi Loria,38,Dinamo Tbilisi,GE,Georgia
+GE-GK-GM23,GK,Giorgi Mamardashvili,23,Valencia,GE,Georgia
+GE-GK-LG25,GK,Luka Gugeshashvili,25,Qarabag,GE,Georgia
+GE-DF-GK37,DF,Guram Kashia,36,Slovan Bratislava,GE,Georgia
+GE-DF-OK29,DF,Otar Kakabadze,28,Cracovia,GE,Georgia
+GE-DF-SK32,DF,Solomon Kvirkvelia,32,Al-Okhdood,GE,Georgia
+GE-DF-LD29,DF,Lasha Dvali,29,APOEL,GE,Georgia
+GE-DF-JT28,DF,Jemal Tabidze,28,Panetolikos,GE,Georgia
+GE-DF-LL26,DF,Luka Lochoshvili,26,Cremonese,GE,Georgia
+GE-DF-GG23,DF,Giorgi Gocholeishvili,23,Shakhtar Donetsk,GE,Georgia
+GE-DF-GG33,DF,Giorgi Gvelesiani,33,Persepolis,GE,Georgia
+GE-MF-GS18,MF,Gabriel Sigua,18,Basel,GE,Georgia
+GE-MF-NK31,MF,Nika Kvekverskiri,31,Lech Poznan,GE,Georgia
+GE-MF-OK28,MF,Otar Kiteishvili,28,Sturm Graz,GE,Georgia
+GE-MF-SL29,MF,Saba Lobzhanidze,29,Atlanta United,GE,Georgia
+GE-MF-ZD23,MF,Zuriko Davitashvili,23,Bordeaux,GE,Georgia
+GE-MF-GC24,MF,Giorgi Chakvetadze,24,Watford,GE,Georgia
+GE-MF-LS28,MF,Levan Shengelia,28,Panetlikos,GE,Georgia
+GE-MF-GT27,MF,Giorgi Tsitaishvili,27,Dinamo Batumi,GE,Georgia
+GE-FW-AM23,MF,Anzor Mekvabishvili,23,Universitatea Craiova,GE,Georgia
+GE-MF-GK25,MF,Giorgi Kochorashvili,25,Levante,GE,Georgia
+GE-MF-SA27,MF,Sandro Altunashvili,27,Wolfsberger AC,GE,Georgia
+GE-FW-GK30,FW,Giorgi Kvilitaia,30,APOEL,GE,Georgia
+GE-MF-KK23,FW,Khvicha Kvaratskhelia,23,Napoli,GE,Georgia
+GE-FW-BZ30,FW,Budu Zivzivadze,30,Karlsruher SC,GE,Georgia
+GE-MF-GM23,FW,Georges Mikautadze,23,Metz,GE,Georgia
+DE-GK-MN38,GK,Manuel Neuer,38,Bayern Munich,DE,Germany
+DE-GK-Mt32,GK,Marc-André ter Stegen,32,Barcelona,DE,Germany
+DE-GK-AN27,GK,Alexander Nübel,27,Stuttgart,DE,Germany
+DE-GK-OB34,GK,Oliver Baumann,34,Hoffenheim,DE,Germany
+DE-DF-AR31,DF,Antonio Rüdiger,31,Real Madrid,DE,Germany
+DE-DF-JT28,DF,Jonathan Tah,28,Bayer Leverkusen,DE,Germany
+DE-DF-RK27,DF,Robin Koch,27,Eintracht Frankfurt,DE,Germany
+DE-DF-MM27,DF,Maximilian Mittelstädt,27,Stuttgart,DE,Germany
+DE-DF-NS24,DF,Nico Schlotterbeck,24,Borussia Dortmund,DE,Germany
+DE-DF-WA27,DF,Waldemar Anton,27,Stuttgart,DE,Germany
+DE-DF-BH27,DF,Benjamin Henrichs,27,RB Leipzig,DE,Germany
+DE-DF-DR26,DF,David Raum,26,RB Leipzig,DE,Germany
+DE-MF-JK29,DF/MF,Joshua Kimmich,29,Bayern Munich,DE,Germany
+DE-MF-IG33,MF,Ilkay Gündoğan,33,Barcelona,DE,Germany
+DE-MF-PG33,MF,Pascal Groß,33,Brighton,DE,Germany
+DE-MF-RA29,MF,Robert Andrich,29,Bayer Leverkusen,DE,Germany
+DE-MF-CF26,MF,Christoph Führich,26,Stuttgart,DE,Germany
+DE-MF-AP20,MF,Alexander Pavlović,20,Bayern Munich,DE,Germany
+DE-FW-LS28,MF,Leroy Sané,28,Bayern Munich,DE,Germany
+DE-MF-TK34,MF,Toni Kroos,34,Real Madrid,DE,Germany
+DE-MF-JM21,MF,Jamal Musiala,21,Bayern Munich ,DE,Germany
+DE-MF-FW21,MF,Florian Wirtz,21,Bayer Leverkusen,DE,Germany
+DE-FW-NF31,FW,Niclas Füllkrug,31,Borussia Dortmund,DE,Germany
+DE-MF-KH25,FW,Kai Havertz,24,Arsenal,DE,Germany
+DE-FW-TM34,FW,Thomas Müller,34,Bayern Munich,DE,Germany
+DE-FW-DU27,FW,Deniz Undav,27,Stuttgart,DE,Germany
+DE-FW-MB21,FW,Maximilian Beier,21,Hoffenheim,DE,Germany
+HU-GK-PG34,GK,Péter Gulácsi,34,RB Leipzig,HU,Hungary
+HU-GK-DD33,GK,Denes Dibusz,33,Ferencvaros,HU,Hungary
+HU-GK-PS33,GK,Péter Szappanos,33,Paksi FC,HU,Hungary
+HU-DF-BB22,DF,Botond Balogh,22,Parma,HU,Hungary
+HU-DF-EB29,DF,Endre Botka,29,Ferencvaros,HU,Hungary
+HU-DF-MD22,DF,Márton Dárdai,22,Hertha Berlin,HU,Hungary
+HU-DF-AF34,DF,Attila Fiola,34,Fehervar,HU,Hungary
+HU-MF-MK20,DF,Milos Kerkez,20,Bournemouth,HU,Hungary
+HU-DF-AL31,DF,Ádám Lang,31,Omonia Nicosia,HU,Hungary
+HU-DF-WO31,DF,Willi Orbán,31,RB Leipzig,HU,Hungary
+HU-DF-ZN31,DF,Zsolt Nagy,31,Puskas Akademia,HU,Hungary
+HU-DF-AS26,DF,Attila Szalai,26,Hoffenheim,HU,Hungary
+HU-DF-LN33,DF,Loic Nego,33,Le Havre,HU,Hungary
+HU-MF-BB24,MF,Bendegúz Bolla,24,Servette,HU,Hungary
+HU-FW-DG28,MF,Dániel Gazdag,28,Philadelphia Union,HU,Hungary
+HU-MF-KH22,FW,Krisztofer Horváth,22,Kecskemeti,HU,Hungary
+HU-MF-LK30,MF,László Kleinheisler,30,Hajduk Split,HU,Hungary
+HU-MF-MK22,MF,Mihály Kata,22,MTK Budapest,HU,Hungary
+HU-MF-AN29,MF,Ádám Nagy,28,Spezia,HU,Hungary
+HU-MF-AS25,MF,András Schäfer,25,Union Berlin,HU,Hungary
+HU-FW-DS23,MF,Dominik Szoboszlai,23,Liverpool,HU,Hungary
+HU-MF-CS24,MF,Callum Styles,24,Barnsley,HU,Hungary
+HU-MF-RS27,FW,Roland Sallai,27,Freiburg,HU,Hungary
+HU-FW-MA29,FW,Márton Ádám,29,Ulsan HD,HU,Hungary
+HU-FW-BV29,FW,Barnabás Varga,29,Ferencvaros,HU,Hungary
+HU-FW-KC22,FW,Kevin Csoboth,22,Ujpest FC,HU,Hungary
+IT-GK-GD25,GK,Gianluigi Donnarumma,25,PSG,IT,Italy
+IT-GK-GV27,GK,Guglielmo Vicario,27,Tottenham,IT,Italy
+IT-GK-AM27,GK,Alex Meret,27,Napoli,IT,Italy
+IT-GK-IP30,GK,Ivan Provedel,30,Lazio,IT,Italy
+IT-DF-FA36,DF,Francesco Acerbi,36,Inter Milan,IT,Italy
+IT-DF-AB25,DF,Alessandro Bastoni,25,Inter Milan,IT,Italy
+IT-DF-RB24,DF,Raoul Bellanova,24,Torino,IT,Italy
+IT-DF-AB26,DF,Alessandro Buongiorno,26,Torino,IT,Italy
+IT-DF-RC22,DF,Riccardo Calafiori,22,Bologna,IT,Italy
+IT-MF-AC24,DF,Andrea Cambiaso,24,Juventus,IT,Italy
+IT-DF-MD34,DF,Matteo Darmian,34,Inter Milan,IT,Italy
+IT-DF-GD31,DF,Giovanni Di Lorenzo,30,Napoli,IT,Italy
+IT-DF-FD26,DF,Federico Dimarco,26,Inter Milan,IT,Italy
+IT-DF-GM28,DF,Gianluca Mancini,28,Roma,IT,Italy
+IT-DF-GS20,DF,Giorgio Scalvini,20,Atalanta,IT,Italy
+IT-MF-J32,MF,Jorginho,32,Arsenal,IT,Italy
+IT-MF-NB27,MF,Nicolò Barella,22,Inter Milan,IT,Italy
+IT-MF-BC29,MF,Bryan Cristante,29,Roma,IT,Italy
+IT-MF-NF23,MF,Nicolò Fagioli,23,Juventus,IT,Italy
+IT-MF-MF26,MF,Michael Folorunsho,26,Verona,IT,Italy
+IT-MF-DF24,MF,Davide Frattesi,24,Inter Milan,IT,Italy
+IT-MF-LP28,MF,Lorenzo Pellegrini,27,Roma,IT,Italy
+IT-MF-SR22,MF,Samuele Ricci,22,Torino,IT,Italy
+IT-MF-FC26,FW,Federico Chiesa,26,Juventus,IT,Italy
+IT-FW-GR24,FW,Giacomo Raspadori,24,Napoli,IT,Italy
+IT-FW-SE31,FW,Stephan El Shaarawy,31,Roma,IT,Italy
+IT-FW-MR25,FW,Mateo Retegui,25,Genoa,IT,Italy
+IT-MF-MZ29,FW,Mattia Zaccagni,29,Lazio,IT,Italy
+IT-FW-RO27,FW,Riccardo Orsolini,27,Bologna,IT,Italy
+IT-FW-GS25,FW,Gianluca Scamacca,25,Atalanta,IT,Italy
+NL-GK-BV21,GK,Bart Verbruggen,21,Brighton,NL,Netherlands
+NL-GK-MF31,GK,Mark Flekken,30,Brentford,NL,Netherlands
+NL-GK-JB26,GK,Justin Bijlow,26,Feyenoord,NL,Netherlands
+NL-DF-Vv33,DF,Virgil van Dijk,32,Liverpool,NL,Netherlands
+NL-DF-Sd32,DF,Stefan de Vrij,32,Inter Milan,NL,Netherlands
+NL-DF-MV19,DF,Mickey van de Ven,19,Tottenham Hotspur,NL,Netherlands
+NL-DF-DB34,DF,Daley Blind,34,Girona,NL,Netherlands
+NL-DF-Md25,DF,Matthijs de Ligt,24,Bayern Munich,NL,Netherlands
+NL-DF-NA29,DF,Nathan Aké,29,Manchester City,NL,Netherlands
+NL-MF-DD28,DF,Denzel Dumfries,28,Inter Milan,NL,Netherlands
+NL-DF-LG24,DF,Lutsharel Geertruida,24,Feyenoord,NL,Netherlands
+NL-DF-JF23,DF,Jeremie Frimpong,23,Bayer Leverkusen,NL,Netherlands
+NL-MF-TK26,MF,Teun Koopmeiners,26,Atalanta,NL,Netherlands
+NL-MF-RG22,MF,Ryan Gravenberch,22,Liverpool,NL,Netherlands
+NL-MF-Fd27,MF,Frenkie de Jong,27,Barcelona,NL,Netherlands
+NL-MF-TR25,MF,Tijjani Reijnders,25,AC Milan,NL,Netherlands
+NL-MF-XS21,MF,Xavi Simons,21,RB Leipzig,NL,Netherlands
+NL-MF-JV25,MF,Joey Veerman,25,PSV,NL,Netherlands
+NL-MF-JS27,MF,Jerdy Schouten,27,PSV,NL,Netherlands
+NL-MF-GW33,MF,Gini Wijnaldum,33,Al-Ettifaq,NL,Netherlands
+NL-FW-SB26,FW,Steven Bergwijn,26,Ajax,NL,Netherlands
+NL-FW-MD30,FW,Memphis Depay,30,Atletico Madrid,NL,Netherlands
+NL-FW-BB22,FW,Brian Brobbey,22,Ajax,NL,Netherlands
+NL-FW-WW32,FW,Wout Weghorst,31,Hoffenheim,NL,Netherlands
+NL-FW-DM25,FW,Donyell Malen,25,Borussia Dortmund,NL,Netherlands
+NL-FW-CG25,FW,Cody Gakpo,25,Liverpool,NL,Netherlands
+PL-GK-WS34,GK,Wojciech Szczęsny,34,Juventus,PL,Poland
+PL-GK-LS33,GK,Łukasz Skorupski,33,Bologna,PL,Poland
+PL-GK-MB24,GK,Marcin Bułka,24,Nice,PL,Poland
+PL-GK-OZ19,GK,Oliwier Zych,19,Puszcza Niepołomice,PL,Poland
+PL-DF-JB28,DF,Jan Bednarek,28,Southampton,PL,Poland
+PL-DF-BB32,DF,Bartosz Bereszyński,31,Empoli,PL,Poland
+PL-DF-JK24,DF,Jakub Kiwior,24,Arsenal,PL,Poland
+PL-DF-TP25,DF,Tymoteusz Puchacz,25,Kaiserlsuatern,PL,Poland
+PL-DF-BS33,DF,Bartosz Salamon,33,Lech Poznan,PL,Poland
+PL-DF-PD29,DF,Paweł Dawidowicz,29,Verona,PL,Poland
+PL-DF-PB28,DF,Paweł Bochniewicz,28,Heerenveen,PL,Poland
+PL-DF-SW24,DF,Sebastian Walukiewicz,24,Empoli,PL,Poland
+PL-MF-KG36,MF,Kamil Grosicki,35,Pogon Szczecin,PL,Poland
+PL-MF-PZ30,MF,Piotr Zieliński,30,Napoli,PL,Poland
+PL-MF-PF29,MF,Przemysław Frankowski,29,Lens,PL,Poland
+PL-MF-SS25,MF,Sebastian Szymański,25,Fenerbahce,PL,Poland
+PL-MF-JM25,MF,Jakub Moder,25,Brighton,PL,Poland
+PL-MF-DS29,MF,Damian Szymański,28,AEK Athens,PL,Poland
+PL-MF-NZ22,MF,Nicola Zalewski,28,Roma,PL,Poland
+PL-MF-BS42,MF,Bartosz Ślusarski,42,Atlanta United,PL,Poland
+PL-MF-MS24,MF,Michał Skóraś,24,Club Brugge,PL,Poland
+PL-MF-JP26,MF,Jakub Piotrowski,26,Ludogorets Razgrad,PL,Poland
+PL-MF-TR32,MF,Taras Romanczuk,32,Jagiellonia Bialystok,PL,Poland
+PL-MF-KU19,MF,Kacper Urbański,19,Bologna,PL,Poland
+PL-FW-RL36,FW,Robert Lewandowski,35,Barcelona,PL,Poland
+PL-FW-AM30,FW,Arkadiusz Milik,30,Juventus,PL,Poland
+PL-FW-KS27,FW,Karol Świderski,27,Verona,PL,Poland
+PL-FW-KP29,FW,Krzysztof Piątek,28,Istanbul Basaksehir,PL,Poland
+PL-FW-AB28,FW,Adam Buksa,27,Antalyaspor,PL,Poland
+PT-GK-RP36,GK,Rui Patrício,36,Roma,PT,Portugal
+PT-GK-JS31,GK,José Sá,31,Wolves,PT,Portugal
+PT-GK-DC24,GK,Diogo Costa,24,Porto,PT,Portugal
+PT-DF-NS30,DF,Nélson Semedo,30,Wolves,PT,Portugal
+PT-DF-AS20,DF,António Silva,20,Benfica,PT,Portugal
+PT-DF-DP32,DF,Danilo Pereira,32,PSG,PT,Portugal
+PT-DF-JC30,DF,João Cancelo,30,Barcelona,PT,Portugal
+PT-DF-RD27,DF,Rúben Dias,27,Manchester City,PT,Portugal
+PT-DF-P41,DF,Pepe,41,Porto,PT,Portugal
+PT-DF-GI22,DF,Gonçalo Inácio,22,Sporting Lisbon,PT,Portugal
+PT-DF-DD25,DF,Diogo Dalot,25,Manchester United,PT,Portugal
+PT-DF-NM22,DF,Nuno Mendes,30,PSG,PT,Portugal
+PT-MF-JP29,MF,João Palhinha,28,Fulham,PT,Portugal
+PT-MF-BF29,MF,Bruno Fernandes,29,Manchester United,PT,Portugal
+PT-MF-O29,MF,Otávio,29,Al Nassr,PT,Portugal
+PT-MF-RN27,MF,Rúben Neves,27,Al Hilal,PT,Portugal
+PT-MF-V24,MF,Vítinha,24,PSG,PT,Portugal
+PT-MF-JN21,MF,João Neves,21,Benfica,PT,Portugal
+PT-MF-BS30,MF,Bernardo Silva,29,Manchester City,PT,Portugal
+PT-FW-GR23,FW,Gonçalo Ramos,22,PSG,PT,Portugal
+PT-FW-JF24,FW,João Félix,24,Barcelona,PT,Portugal
+PT-FW-RL25,FW,Rafael Leão,24,AC Milan,PT,Portugal
+PT-FW-FC21,FW,Francisco Conceição,21,Porto,PT,Portugal
+PT-FW-CR39,FW,Cristiano Ronaldo,39,Al Nassr,PT,Portugal
+PT-FW-DJ27,FW,Diogo Jota,27,Liverpool,PT,Portugal
+PT-FW-PN24,FW,Pedro Neto,24,Wolves,PT,Portugal
+RO-MF-FN31,GK,Florin Niță,31,Gaziantep,RO,Romania
+RO-DF-HM25,GK,Horațiu Moldovan,26,Atlético Madrid,RO,Romania
+RO-GK-ST22,GK,Ștefan Târnovanu,22,FCSB,RO,Romania
+RO-GK-RS21,GK,Răzvan Sava,21,CFR Cluj,RO,Romania
+RO-DF-NB31,DF,Nicușor Bancu,31,Universitatea Craiova,RO,Romania
+RO-DF-AB27,DF,Andrei Burcă,27,Al-Okhdood,RO,Romania
+RO-MF-IN31,DF,Ionuț Nedelcearu,28,Palermo,RO,Romania
+RO-GK-AR26,DF,Adrian Rus,26,Pafos,RO,Romania
+RO-DF-AR24,DF,Andrei Rațiu,24,Rayo Vallecano,RO,Romania
+RO-DF-RD22,DF,Radu Drăgușin,22,Tottenham Hotspur,RO,Romania
+RO-FW-VM29,DF,Vasile Mogoș,31,CFR Cluj,RO,Romania
+SCT-GK-BR41,DF,Bogdan Racovițan,41,Raków Częstochowa,RO,Romania
+RO-FW-NS28,MF,Nicolae Stanciu,28,Damac,RO,Romania
+RO-DF-RM28,MF,Răzvan Marin,28,Empoli,RO,Romania
+RO-DF-AC31,MF,Alexandru Cicâldău,26,Konyaspor,RO,Romania
+RO-MF-IH25,MF,Ianis Hagi,25,Alavés,RO,Romania
+RO-MF-DM26,MF,Dennis Man,25,Parma,RO,Romania
+RO-MF-VM25,MF,Valentin Mihăilă,25,Parma,RO,Romania
+RO-MF-MM26,MF,Marius Marin,26,Pisa,RO,Romania
+RO-GK-DO27,MF,Darius Olaru,27,FCSB,RO,Romania
+RO-MF-DS26,MF,Deian Sorescu,26,Gaziantep,RO,Romania
+RO-MF-FC25,MF,Florinel Coman,25,FCSB,RO,Romania
+RO-DF-AS28,MF,Adrian Șut,28,FCSB,RO,Romania
+RO-MF-CG21,MF,Constantin Grameni,21,Farul Constanța,RO,Romania
+RO-FW-GP28,FW,George Pușcaș,28,Bari,RO,Romania
+RO-FW-DA33,FW,Denis Alibec,33,Muaither,RO,Romania
+RO-GK-DD24,FW,Denis Drăguș,24,Gaziantep,RO,Romania
+RO-FW-DB24,FW,Daniel Bîrligea,24,CFR Cluj,RO,Romania
+SCT-GK-CG41,GK,Craig Gordon,41,Hearts,SCT,Scotland
+SCT-GK-AG28,GK,Angus Gunn,28,Norwich City,SCT,Scotland
+SCT-GK-ZC32,GK,Zander Clark,31,Rangers,SCT,Scotland
+SCT-GK-LK28,GK,Liam Kelly,28,Motherwell,SCT,Scotland
+SCT-DF-AR30,DF,Andy Robertson,30,Liverpool,SCT,Scotland
+SCT-DF-KT27,DF,Kieran Tierney,27,Real Sociedad,SCT,Scotland
+SCT-DF-JH29,DF,Jack Hendry,29,Al Ettifaq,SCT,Scotland
+SCT-DF-RP25,DF,Ryan Porteous,25,Watford,SCT,Scotland
+SCT-DF-LC33,DF,Liam Cooper,32,Leeds United,SCT,Scotland
+SCT-DF-SM27,DF,Scott McKenna,27,FC Copenhagen,SCT,Scotland
+SCT-DF-GH32,DF,Grant Hanley,32,Norwich City,SCT,Scotland
+SCT-DF-GT26,DF,Greg Taylor,26,Celtic,SCT,Scotland
+SCT-DF-JS27,DF,John Souttar,27,Rangers,SCT,Scotland
+SCT-DF-AR25,DF,Anthony Ralston,25,Celtic,SCT,Scotland
+SCT-DF-RM26,DF,Ross McCrorie,26,Bristol City,SCT,Scotland
+SCT-MF-CM31,MF,Callum McGregor,30,Celtic,SCT,Scotland
+SCT-FW-RC29,MF,Ryan Christie,29,Bournemouth,SCT,Scotland
+SCT-MF-BG23,MF,Billy Gilmour,22,Brighton & Hove Albion,SCT,Scotland
+SCT-MF-JM29,MF,John McGinn,29,Aston Villa,SCT,Scotland
+SCT-MF-KM32,MF,Kenny McLean,32,Norwich City,SCT,Scotland
+SCT-MF-SM27,MF,Scott McTominay,27,Manchester United,SCT,Scotland
+SCT-MF-SA32,MF,Stuart Armstrong,32,Southampton,SCT,Scotland
+SCT-MF-RJ32,MF,Ryan Jack,32,Rangers,SCT,Scotland
+SCT-FW-LD28,FW,Lyndon Dykes,28,QPR,SCT,Scotland
+SCT-FW-CA28,FW,Che Adams,27,Southampton,SCT,Scotland
+SCT-FW-LS29,FW,Lawrence Shankland,29,Hearts,SCT,Scotland
+SCT-FW-BD18,FW,Ben Doak,18,Liverpool,SCT,Scotland
+SCT-FW-JF32,FW,James Forrest,32,Celtic,SCT,Scotland
+RS-GK-PR28,GK,Predrag Rajković,28,Mallorca,RS,Serbia
+RS-GK-VM27,GK,Vanja Milinković-Savić,27,Torino,RS,Serbia
+RS-GK-DP24,GK,Đorđe Petrović,24,Chelsea,RS,Serbia
+RS-DF-NG32,DF,Nemanja Gudelj,32,Sevilla,RS,Serbia
+RS-DF-NM26,DF,Nikola Milenković,31,Fiorentina,RS,Serbia
+RS-DF-SP23,DF,Strahinja Pavlović,23,Red Bull Salzburg,RS,Serbia
+RS-DF-FM33,DF,Filip Mladenović,32,Panathinaikos,RS,Serbia
+RS-DF-MV28,DF,Miloš Veljković,28,Werder Bremen,RS,Serbia
+RS-DF-US31,DF,Uroš Spajić,31,Red Star Belgrade,RS,Serbia
+RS-DF-SB28,DF,Srđan Babić,28,Spartak Moscow,RS,Serbia
+RS-DF-NS30,DF,Nemanja Stojić,30,TSC,RS,Serbia
+RS-FW-DT35,MF,Dušan Tadić,35,Fenerbahçe,RS,Serbia
+RS-MF-FK31,MF,Filip Kostić,31,Juventus,RS,Serbia
+RS-MF-SM29,MF,Sergej Milinković-Savić,29,Al Hilal,RS,Serbia
+RS-MF-NM29,MF,Nemanja Maksimović,29,Getafe,RS,Serbia
+RS-MF-SL28,MF,Saša Lukić,27,Fulham,RS,Serbia
+RS-FW-AZ28,MF,Andrija Živković,27,PAOK,RS,Serbia
+RS-MF-MG29,MF,Mijat Gaćinović,29,AEK Athens,RS,Serbia
+RS-MF-II23,MF,Ivan Ilić,23,Torino,RS,Serbia
+RS-MF-SM30,MF,Srđan Mijailović,30,Red Star Belgrade,RS,Serbia
+RS-MF-LS22,MF,Lazar Samardžić,22,Udinese,RS,Serbia
+RS-MF-VB26,MF,Veljko Birmančević,26,Sparta Prague,RS,Serbia
+RS-FW-AM29,FW,Aleksandar Mitrović,29,Al Hilal,RS,Serbia
+RS-FW-LJ26,FW,Luka Jović,26,Milan,RS,Serbia
+RS-FW-DV24,FW,Dušan Vlahović,24,Juventus,RS,Serbia
+RS-FW-PR20,FW,Petar Ratkov,20,Red Bull Salzburg,RS,Serbia
+SK-GK-MD35,GK,Martin Dúbravka,35,Newcastle United,SK,Slovakia
+SK-GK-MR27,GK,Marek Rodák,27,Fulham,SK,Slovakia
+SK-GK-HR27,GK,Henrich Ravas,27,New England Revolution,SK,Slovakia
+SK-GK-DT25,GK,Dominik Takáč,25,Spartak Trnava,SK,Slovakia
+SK-DF-PP37,DF,Peter Pekarík,37,Hertha BSC,SK,Slovakia
+SK-DF-MS29,DF,Milan Škriniar,29,Paris Saint-Germain,SK,Slovakia
+SK-DF-NG32,DF,Norbert Gyömbér,32,Salernitana,SK,Slovakia
+SK-DF-DH26,DF,Dávid Hancko,26,Feyenoord,SK,Slovakia
+SK-DF-DV28,DF,Denis Vavro,28,Copenhagen,SK,Slovakia
+SK-DF-Vd31,DF,Vernon De Marco,31,Hatta,SK,Slovakia
+SK-DF-MT25,DF,Michal Tomič,25,Slavia Prague,SK,Slovakia
+SK-DF-AO21,DF,Adam Obert,21,Cagliari,SK,Slovakia
+SK-DF-MK23,DF,Matúš Kmeť,23,AS Trenčín,SK,Slovakia
+SK-DF-SK20,DF,Sebastian Kóša,20,Spartak Trnava,SK,Slovakia
+SK-MF-JK37,MF,Juraj Kucka,37,Slovan Bratislava,SK,Slovakia
+SK-MF-OD29,MF,Ondrej Duda,28,Hellas Verona,SK,Slovakia
+SK-MF-PH32,MF,Patrik Hrošovský,32,Genk,SK,Slovakia
+SK-MF-SL29,MF,Stanislav Lobotka,29,Napoli,SK,Slovakia
+SK-MF-MB28,MF,Matúš Bero,28,VfL Bochum,SK,Slovakia
+SK-MF-LB26,MF,László Bénes,26,Hamburger SV,SK,Slovakia
+SK-MF-JK23,MF,Jakub Kadák,23,Luzern,SK,Slovakia
+SK-MF-DH20,MF,Dominik Hollý,20,AS Trenčín,SK,Slovakia
+SK-FW-RB24,FW,Róbert Boženík,24,Boavista,SK,Slovakia
+SK-MF-LH28,FW,Lukáš Haraslín,28,Sparta Prague,SK,Slovakia
+SK-MF-TS22,FW,Tomáš Suslov,21,Hellas Verona,SK,Slovakia
+SK-FW-IS30,FW,Ivan Schranz,30,Slavia Prague,SK,Slovakia
+SK-FW-DS23,FW,David Strelec,23,Slovan Bratislava,SK,Slovakia
+SK-FW-DD25,FW,Dávid Ďuriš,25,Ascoli,SK,Slovakia
+SK-FW-RP28,FW,Róbert Polievka,28,Dukla Banská Bystrica,SK,Slovakia
+SK-FW-LT26,FW,Ľubomír Tupta,26,Slovan Liberec,SK,Slovakia
+SK-FW-LS18,FW,Leo Sauer,18,Feyenoord,SK,Slovakia
+SI-GK-JO31,GK,Jan Oblak,31,Atletico Madrid,SI,Slovenia
+SI-GK-VB34,GK,Vid Belec,34,APOEL,SI,Slovenia
+SI-GK-IV26,GK,Igor Vekić,26,Vejle,SI,Slovenia
+SI-GK-MV24,GK,Matevž Vidovšek,24,Olimpija Ljubljana,SI,Slovenia
+SI-DF-PS28,DF,Petar Stojanović,28,Sampdoria,SI,Slovenia
+SI-MF-JB25,DF,Jaka Bijol,25,Udinese,SI,Slovenia
+SI-DF-MB31,DF,Miha Blažič,31,Lech Poznan,SI,Slovenia
+SI-DF-JB29,DF,Jure Balkovec,29,Alanyaspor,SI,Slovenia
+SI-DF-ZK29,DF,Žan Karničnik,29,Celje,SI,Slovenia
+SI-DF-DB25,DF,David Brekalo,25,Orlando City,SI,Slovenia
+SI-DF-EJ31,DF,Erik Janza,31,Gornik Zabrze,SI,Slovenia
+SI-DF-VD24,DF,Vanja Drkušić,24,Sochi,SI,Slovenia
+SI-DF-ZZ24,DF,Žan Zaletel,24,Viborg,SI,Slovenia
+SI-MF-JK35,MF,Jasmin Kurtić,35,Sudtirol,SI,Slovenia
+SI-MF-BV30,MF,Benjamin Verbič,30,Panathinaikos,SI,Slovenia
+SI-MF-MZ29,MF,Miha Zajc,29,Fenerbahce,SI,Slovenia
+SI-MF-SL26,MF,Sandi Lovrić,26,Udinese,SI,Slovenia
+SI-MF-AG25,MF,Adam Gnezda Čerin,24,Panathinaikos,SI,Slovenia
+SI-MF-JG28,MF,Jon Gorenc Stanković,28,Sturm Graz,SI,Slovenia
+SI-MF-TM26,MF,Timi Max Elšnik,26,Olimpija Ljubljana,SI,Slovenia
+SI-MF-TH25,MF,Tomi Horvat,25,Sturm Graz,SI,Slovenia
+SI-MF-AZ21,MF,Adrian Željković,21,Spartak Trnava,SI,Slovenia
+SI-FW-NZ24,MF,Nino Žugelj,24,Bodo/Glimt,SI,Slovenia
+SI-FW-JI36,FW,Josip Iličić,36,Maribor,SI,Slovenia
+SI-FW-AS30,FW,Andraž Šporar,30,Panathinaikos,SI,Slovenia
+SI-FW-BS21,FW,Benjamin Šeško,21,RB Leipzig,SI,Slovenia
+SI-FW-LZ28,FW,Luka Zahović,28,Pognon Szczecin,SI,Slovenia
+SI-FW-ZC25,FW,Žan Celar,25,Lugano,SI,Slovenia
+SI-FW-JM25,FW,Jan Mlakar,25,Pisa,SI,Slovenia
+SI-FW-ZV22,FW,Žan Vipotnik,22,Bordeaux,SI,Slovenia
+ES-GK-AR29,GK,Álex Remiro,29,Real Sociedad,ES,Spain
+ES-GK-DR28,GK,David Raya,28,Arsenal,ES,Spain
+ES-GK-US27,GK,Unai Simón,26,Athletic Bilbao,ES,Spain
+ES-DF-DC32,DF,Dani Carvajal,32,Real Madrid,ES,Spain
+ES-DF-PC17,DF,Pau Cubarsi,17,Barcelona,ES,Spain
+ES-DF-MC26,DF,Marc Cucurella,26,Chelsea,ES,Spain
+ES-DF-AG28,DF,Álex Grimaldo,28,Bayer Leverkusen,ES,Spain
+ES-DF-AL30,DF,Aymeric Laporte,30,Al Nassr,ES,Spain
+ES-DF-RL27,DF,Robin Le Normand,27,Real Sociedad,ES,Spain
+ES-DF-JN38,DF,Jesús Navas,38,Sevilla,ES,Spain
+ES-DF-N34,DF,Nacho,34,Real Madrid,ES,Spain
+ES-DF-DV25,DF,Dani Vivian,25,Athletic Bilbao,ES,Spain
+ES-MF-AB22,MF,Álex Baena,22,Villarreal,ES,Spain
+ES-MF-AG26,MF,Aleix García,26,Girona,ES,Spain
+ES-MF-ML29,MF,Marcos Llorente,29,Atletico Madrid,ES,Spain
+ES-MF-MM28,MF,Mikel Merino,27,Real Sociedad,ES,Spain
+ES-MF-P21,MF,Pedri,21,Barcelona,ES,Spain
+ES-MF-R28,MF,Rodri,27,Manchester City,ES,Spain
+ES-MF-FR28,MF,Fabián Ruiz,28,PSG,ES,Spain
+ES-MF-MZ25,MF,Martín Zubimendi,25,Real Sociedad,ES,Spain
+ES-FW-J34,FW,Joselu,34,Real Madrid,ES,Spain
+ES-FW-AM31,FW,Álvaro Morata,31,Atletico Madrid,ES,Spain
+ES-FW-AP30,FW,Ayoze Pérez,30,Real Betis,ES,Spain
+ES-MF-DO26,FW,Dani Olmo,26,RB Leipzig,ES,Spain
+ES-FW-MO27,FW,Mikel Oyarzabal,27,Real Sociedad,ES,Spain
+ES-FW-FT24,FW,Ferran Torres,24,Barcelona,ES,Spain
+ES-FW-NW22,FW,Nico Williams,22,Athletic Bilbao,ES,Spain
+ES-FW-LY16,FW,Lamine Yamal,16,Barcelona,ES,Spain
+CH-GK-MK21,GK,Marvin Keller,21,Winterthur,CH,Switzerland
+CH-GK-GK26,GK,Gregor Kobel,26,Borussia Dortmund,CH,Switzerland
+CH-GK-PL21,GK,Pascal Loretz,21,Luzern,CH,Switzerland
+CH-GK-YM30,GK,Yvon Mvogo,30,Lorient,CH,Switzerland
+CH-GK-YS35,GK,Yann Sommer,35,Inter Milan,CH,Switzerland
+CH-DF-MA29,DF,Manuel Akanji,28,Manchester City,CH,Switzerland
+CH-DF-AA20,DF,Aurèle Amenda,20,Young Boys,CH,Switzerland
+CH-DF-NE27,DF,Nico Elvedi,27,Borussia Mönchengladbach,CH,Switzerland
+CH-DF-UG28,DF,Ulisses Garcia,28,Marseille,CH,Switzerland
+CH-DF-AH21,DF,Albian Hajdari,21,Lugano,CH,Switzerland
+CH-DF-KM29,DF,Kevin Mbabu,29,Augsburg,CH,Switzerland
+CH-DF-BO23,DF,Bryan Okoh,23,Salzburg,CH,Switzerland
+CH-DF-BO22,DF,Bećir Omeragić,22,Montpellier,CH,Switzerland
+CH-DF-RR31,DF,Ricardo Rodriguez,31,Torino,CH,Switzerland
+CH-DF-FS32,DF,Fabian Schär,32,Newcastle United,CH,Switzerland
+CH-DF-LS22,DF,Leonidas Stergiou,22,VfB Stuttgart,CH,Switzerland
+CH-DF-SW31,DF,Silvan Widmer,31,Mainz 05,CH,Switzerland
+CH-DF-CZ26,DF,Cédric Zesiger,25,VfL Wolfsburg,CH,Switzerland
+CH-MF-MA27,MF,Michel Aebischer,27,Bologna,CH,Switzerland
+CH-MF-UB24,MF,Uran Bislimi,24,Lugano,CH,Switzerland
+CH-MF-RF32,MF,Remo Freuler,32,,CH,Switzerland
+CH-MF-AJ21,MF,Ardon Jashari,21,Luzern,CH,Switzerland
+CH-MF-FR25,MF,Fabian Rieder,25,Rennes,CH,Switzerland
+CH-MF-XS32,MF,Xherdan Shaqiri,32,Chicago Fire FC,CH,Switzerland
+CH-MF-VS28,MF,Vincent Sierro,28,Toulouse,CH,Switzerland
+CH-MF-FU25,MF,Filip Ugrinic,25,Young Boys,CH,Switzerland
+CH-MF-GX31,MF,Granit Xhaka,31,Bayer Leverkusen,CH,Switzerland
+CH-MF-DZ27,MF,Denis Zakaria,27,Monaco,CH,Switzerland
+CH-FW-ZA23,FW,Zeki Amdouni,23,Burnley,CH,Switzerland
+CH-FW-KD27,FW,Kwadwo Duah,27,Ludogorets Razgrad,CH,Switzerland
+CH-FW-BE27,FW,Breel Embolo,27,Monaco,CH,Switzerland
+CH-FW-JM24,FW,Joël Monteiro,24,Young Boys,CH,Switzerland
+CH-FW-DN23,FW,Dan Ndoye,23,Bologna,CH,Switzerland
+CH-FW-NO24,FW,Noah Okafor,23,Milan,CH,Switzerland
+CH-FW-RS32,FW,Renato Steffen,32,Lugano,CH,Switzerland
+CH-MF-RV26,FW,Ruben Vargas,25,Augsburg,CH,Switzerland
+CH-FW-AZ24,FW,Andi Zeqiri,24,Genk,CH,Switzerland
+CH-FW-SZ32,FW,Steven Zuber,32,AEK,CH,Switzerland
+TR-GK-MG35,GK,Mert Günok,35,Beşiktaş,TR,Turkey
+TR-GK-UC28,GK,Uğurcan Çakır,28,Trabzonspor,TR,Turkey
+TR-GK-AB26,GK,Altay Bayındır,26,Manchester United,TR,Turkey
+TR-GK-DA21,GK,Doğan Alemdar,21,Troyes,TR,Turkey
+TR-DF-CS28,DF,Çağlar Söyüncü,28,Fenerbahçe,TR,Turkey
+TR-DF-ZC27,DF,Zeki Çelik,27,Roma,TR,Turkey
+TR-DF-MD26,DF,Merih Demiral,26,Al-Ahli,TR,Turkey
+TR-DF-OK24,DF,Ozan Kabak,24,TSG Hoffenheim,TR,Turkey
+TR-DF-MM25,DF,Mert Müldür,25,Fenerbahçe,TR,Turkey
+TR-DF-FK24,DF,Ferdi Kadıoğlu,24,Fenerbahçe,TR,Turkey
+TR-DF-CO23,DF,Cenk Özkacar,23,Valencia,TR,Turkey
+TR-DF-AB29,DF,Abdülkerim Bardakçı,29,Galatasaray,TR,Turkey
+TR-DF-SA30,DF,Samet Akaydin,30,Panathinaikos,TR,Turkey
+TR-DF-AK21,DF,Ahmetcan Kaplan,21,Ajax,TR,Turkey
+TR-MF-HC30,MF,Hakan Çalhanoğlu,30,Inter Milan,TR,Turkey
+TR-DF-KA29,MF,Kaan Ayhan,29,Galatasaray,TR,Turkey
+TR-MF-OY24,MF,Okay Yokuşlu,24,West Bromwich Albion,TR,Turkey
+TR-MF-OK23,MF,Orkun Kökçü,23,Benfica,TR,Turkey
+TR-MF-SO26,MF,Salih Özcan,26,Borussia Dortmund,TR,Turkey
+TR-MF-IY25,MF,İsmail Yüksek,25,Fenerbahçe,TR,Turkey
+TR-MF-AO25,MF,Abdülkadir Ömür,24,Hull City,TR,Turkey
+TR-MF-AG19,MF,Arda Güler,19,Real Madrid,TR,Turkey
+TR-MF-BO26,MF,Berat Özdemir,26,Trabzonspor,TR,Turkey
+TR-MF-CU18,MF,Can Uzun,18,1. FC Nürnberg,TR,Turkey
+TR-FW-CT32,FW,Cenk Tosun,32,Beşiktaş,TR,Turkey
+TR-FW-YY27,FW,Yusuf Yazıcı,27,Lille,TR,Turkey
+TR-FW-EU27,FW,Enes Ünal,27,Bournemouth,TR,Turkey
+TR-FW-IC28,FW,İrfan Can Kahveci,28,Fenerbahçe,TR,Turkey
+TR-FW-KA25,FW,Kerem Aktürkoğlu,25,Galatasaray,TR,Turkey
+TR-FW-BA24,FW,Barış Alper Yılmaz,24,Galatasaray,TR,Turkey
+TR-FW-YA24,FW,Yunus Akgün,24,Leicester City,TR,Turkey
+TR-MF-KY19,FW,Kenan Yıldız,19,Juventus,TR,Turkey
+TR-FW-BY21,FW,Bertuğ Yıldırım,21,Rennes,TR,Turkey
+TR-FW-OA23,FW,Oğuz Aydın,23,Alanyaspor,TR,Turkey
+TR-FW-SK18,FW,Semih Kılıçsoy,18,Beşiktaş,TR,Turkey
+UA-GK-HB30,GK,Heorhiy Bushchan,30,Dynamo Kyiv,UA,Ukraine
+UA-GK-AT22,GK,Anatoliy Trubin,22,Benfica,UA,Ukraine
+UA-GK-AL25,GK,Andriy Lunin,25,Real Madrid,UA,Ukraine
+UA-DF-MM28,DF,Mykola Matviyenko,28,Shakhtar Donetsk,UA,Ukraine
+UA-DF-VM25,DF,Vitaliy Mykolenko,25,Everton,UA,Ukraine
+UA-DF-IZ21,DF,Illya Zabarnyi,21,Bournemouth,UA,Ukraine
+UA-DF-OT27,DF,Oleksandr Tymchyk,30,Dynamo Kyiv,UA,Ukraine
+UA-DF-YK24,DF,Yukhym Konoplya,24,Shakhtar Donetsk,UA,Ukraine
+UA-DF-BM27,DF,Bohdan Mykhaylichenko,27,Polissya Zhytomyr,UA,Ukraine
+UA-DF-VB25,DF,Valeriy Bondar,25,Shakhtar Donetsk,UA,Ukraine
+UA-DF-MT23,DF,Maksym Talovyerov,23,LASK,UA,Ukraine
+UA-DF-OS29,DF,Oleksandr Svatok,29,Dnipro-1,UA,Ukraine
+UA-MF-SS33,MF,Serhiy Sydorchuk,33,Westerlo,UA,Ukraine
+UA-DF-OZ27,MF,Oleksandr Zinchenko,32,Arsenal,UA,Ukraine
+UA-MF-RM31,MF,Ruslan Malinovskyi,31,Genoa,UA,Ukraine
+UA-MF-VT26,MF,Viktor Tsyhankov,26,Girona,UA,Ukraine
+UA-MF-TS34,MF,Taras Stepanenko,34,Shakhtar Donetsk,UA,Ukraine
+UA-MF-OZ28,MF,Oleksandr Zubkov,27,Shakhtar Donetsk,UA,Ukraine
+UA-FW-MS25,MF,Mykola Shaparenko,25,Dynamo Kyiv,UA,Ukraine
+UA-FW-MM23,MF,Mykhailo Mudryk,23,Chelsea,UA,Ukraine
+UA-MF-HS21,MF,Heorhiy Sudakov,21,Shakhtar Donetsk,UA,Ukraine
+UA-DF-VB22,MF,Volodymyr Brazhko,22,Dynamo Kyiv,UA,Ukraine
+UA-FW-RY28,FW,Roman Yaremchuk,28,Valencia,UA,Ukraine
+UA-FW-AD27,FW,Artem Dovbyk,26,Girona,UA,Ukraine
+UA-FW-VV22,FW,Vladyslav Vanat,22,Dynamo Kyiv,UA,Ukraine
+UA-FW-AY34,FW,Andriy Yarmolenko,34,Dynamo Kyiv,UA,Ukraine

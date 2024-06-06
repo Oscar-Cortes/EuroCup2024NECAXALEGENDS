@@ -1,0 +1,992 @@
+ID,SHIRT_N,PLAYER_NAME,POSITION,birthday,AGE,ACTUAL AGE,HEIGHT,FOOT,Country,SQUAD,SQUAD_RANKING,OPPONENT,OPPONENT RANKING,M_WEEKDAY,M_MONTH,M_SEASON,YEAR,COMPETITION_N,ROUND_N,VENUE_N,STARTER,STRIKER,Penalty,Penalty_shooter,MINUTES,GOALS
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,19,39,187,1,PT,Portugal,9,Greece,18,7,6,2,2004,3,1,1,0,0,0,0,45,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,19,39,187,1,PT,Portugal,9,Russia,32,4,6,2,2004,3,1,2,0,0,0,0,13,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,19,39,187,1,PT,Portugal,9,Spain,5,1,6,2,2004,3,1,2,1,0,0,0,84,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,19,39,187,1,PT,Portugal,9,England,8,5,6,2,2004,3,3,1,1,0,0,0,120,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,19,39,187,1,PT,Portugal,9,Netherlands,6,4,6,2,2004,3,4,1,1,0,0,0,66,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,19,39,187,1,PT,Portugal,9,Greece,18,1,7,2,2004,3,5,1,1,0,0,0,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,20,39,187,1,PT,Portugal,9,Latvia,65,7,9,3,2004,2,1,2,1,0,0,0,81,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,20,39,187,1,PT,Portugal,9,Estonia,81,4,9,3,2004,2,1,1,1,0,0,0,90,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,20,39,187,1,PT,Portugal,9,Liechtenstein,142,7,10,3,2004,2,1,2,1,0,0,0,61,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,20,39,187,1,PT,Portugal,9,Russia,32,4,10,3,2004,2,1,1,1,0,0,0,84,2
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,20,39,187,1,PT,Portugal,9,Luxembourg,155,4,11,3,2004,2,1,2,1,0,0,0,90,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,20,39,187,1,PT,Portugal,10,Slovakia,45,4,3,1,2005,2,1,2,1,0,0,0,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,20,39,187,1,PT,Portugal,10,Slovakia,45,7,6,2,2005,2,1,1,1,0,0,0,75,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,20,39,187,1,PT,Portugal,10,Estonia,76,4,6,2,2005,2,1,2,1,0,0,0,87,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,21,39,187,1,PT,Portugal,10,Luxembourg,150,7,9,3,2005,2,1,1,1,0,0,0,61,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,21,39,187,1,PT,Portugal,10,Russia,34,4,9,3,2005,2,1,2,1,0,0,0,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,21,39,187,1,PT,Portugal,10,Liechtenstein,122,7,10,3,2005,2,1,1,1,0,0,0,83,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,21,39,187,1,PT,Portugal,10,Latvia,69,4,10,3,2005,2,1,1,1,0,0,0,45,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,21,39,187,1,PT,Portugal,8,Angola,55,1,6,2,2006,4,1,3,1,0,0,0,59,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,21,39,187,1,PT,Portugal,8,IR Iran,38,7,6,2,2006,4,1,3,1,0,1,1,90,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,21,39,187,1,PT,Portugal,8,Netherlands,7,1,6,2,2006,4,2,3,1,0,0,1,33,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,21,39,187,1,PT,Portugal,8,England,5,7,7,2,2006,4,3,3,1,0,0,1,120,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,21,39,187,1,PT,Portugal,8,France,4,4,7,2,2006,4,4,3,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,21,39,187,1,PT,Portugal,8,Germany,6,7,7,2,2006,4,4,3,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,22,39,187,1,PT,Portugal,8,Finland,52,4,9,3,2006,2,1,2,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,22,39,187,1,PT,Portugal,8,Azerbaijan,125,7,10,3,2006,2,1,1,1,0,0,1,72,2
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,22,39,187,1,PT,Portugal,8,Poland,24,4,10,3,2006,2,1,2,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,22,39,187,1,PT,Portugal,8,Kazakhstan,135,4,11,3,2006,2,1,1,1,0,0,1,55,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,22,39,187,1,PT,Portugal,8,Belgium,49,7,3,1,2007,2,1,1,1,0,0,1,77,2
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,22,39,187,1,PT,Portugal,8,Serbia,27,4,3,1,2007,2,1,2,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,23,39,187,1,PT,Portugal,8,Armenia,93,4,8,2,2007,2,1,2,1,0,0,1,90,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,23,39,187,1,PT,Portugal,8,Poland,22,7,9,3,2007,2,1,1,1,0,0,1,90,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,23,39,187,1,PT,Portugal,8,Serbia,27,4,9,3,2007,2,1,1,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,23,39,187,1,PT,Portugal,8,Azerbaijan,115,7,10,3,2007,2,1,2,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,23,39,187,1,PT,Portugal,8,Kazakhstan,112,4,10,3,2007,2,1,2,1,0,0,1,90,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,23,39,187,1,PT,Portugal,8,Armenia,93,7,11,3,2007,2,1,1,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,23,39,187,1,PT,Portugal,8,Finland,36,4,11,3,2007,2,1,1,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,23,39,187,1,PT,Portugal,11,Turkey,10,7,6,2,2008,3,1,1,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,23,39,187,1,PT,Portugal,11,Czechia,11,4,6,2,2008,3,1,2,1,0,0,1,90,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,23,39,187,1,PT,Portugal,11,Germany,2,5,6,2,2008,3,3,1,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,24,39,187,1,PT,Portugal,11,Sweden,32,7,10,3,2008,2,1,2,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,24,39,187,1,PT,Portugal,11,Albania,81,4,10,3,2008,2,1,1,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,24,39,187,1,PT,Portugal,5,Sweden,42,7,3,1,2009,2,1,1,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,24,39,187,1,PT,Portugal,5,Albania,96,7,6,2,2009,2,1,2,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,25,39,187,1,PT,Portugal,5,Denmark,28,7,9,3,2009,2,1,2,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,25,39,187,1,PT,Portugal,5,Hungary,54,4,9,3,2009,2,1,2,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,25,39,187,1,PT,Portugal,5,Hungary,54,7,10,3,2009,2,1,1,1,0,0,1,16,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,25,39,187,1,PT,Portugal,8,Côte d'Ivoire,21,3,6,2,2010,4,1,3,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,25,39,187,1,PT,Portugal,8,Korea DPR,108,2,6,2,2010,4,1,3,1,0,0,1,90,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,25,39,187,1,PT,Portugal,8,Brazil,4,6,6,2,2010,4,1,3,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,25,39,187,1,PT,Portugal,8,Spain,1,3,6,2,2010,4,2,3,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,26,39,187,1,PT,Portugal,8,Denmark,28,6,10,3,2010,2,1,1,1,0,0,1,90,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,26,39,187,1,PT,Portugal,8,Iceland,112,3,10,3,2010,2,1,2,1,0,0,1,90,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,26,39,187,1,PT,Portugal,7,Norway,25,7,6,2,2011,2,1,1,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,27,39,187,1,PT,Portugal,7,Cyprus,127,6,9,3,2011,2,1,2,1,0,1,1,90,2
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,27,39,187,1,PT,Portugal,7,Iceland,104,6,10,3,2011,2,1,1,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,27,39,187,1,PT,Portugal,7,Denmark,11,3,10,3,2011,2,1,2,1,0,0,1,90,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,27,39,187,1,PT,Portugal,7,Bosnia & Herz'na,20,6,11,3,2011,2,1,2,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,27,39,187,1,PT,Portugal,7,Bosnia & Herz'na,20,3,11,3,2011,2,1,1,1,0,0,1,90,2
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,27,39,187,1,PT,Portugal,7,Germany,2,7,6,2,2012,3,1,2,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,27,39,187,1,PT,Portugal,7,Denmark,23,4,6,2,2012,3,1,2,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,27,39,187,1,PT,Portugal,7,Netherlands,8,1,6,2,2012,3,1,1,1,0,0,1,90,2
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,27,39,187,1,PT,Portugal,7,Czechia,29,5,6,2,2012,3,3,2,1,0,0,1,90,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,27,39,187,1,PT,Portugal,7,Spain,1,4,6,2,2012,3,4,1,1,0,0,1,120,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,28,39,187,1,PT,Portugal,7,Luxembourg,148,6,9,3,2012,2,1,2,1,0,0,1,90,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,28,39,187,1,PT,Portugal,7,Azerbaijan,118,3,9,3,2012,2,1,1,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,28,39,187,1,PT,Portugal,7,Russia,9,6,10,3,2012,2,1,2,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,28,39,187,1,PT,Portugal,7, Northern Ireland,96,3,10,3,2012,2,1,1,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,28,39,187,1,PT,Portugal,5,Israel,63,6,3,1,2013,2,1,2,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,28,39,187,1,PT,Portugal,5,Russia,22,6,6,2,2013,2,1,1,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,29,39,187,1,PT,Portugal,5, Northern Ireland,89,6,9,3,2013,2,1,2,1,0,0,1,89,3
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,29,39,187,1,PT,Portugal,5,Israel,63,6,10,3,2013,2,1,1,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,29,39,187,1,PT,Portugal,5,Sweden,27,6,11,3,2013,2,2,1,1,0,0,1,90,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,29,39,187,1,PT,Portugal,5,Sweden,27,3,11,3,2013,2,2,2,1,0,0,1,90,3
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,29,39,187,1,PT,Portugal,7,Cameroon,42,4,3,1,2014,1,0,1,1,1,0,1,86,2
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,29,39,187,1,PT,Portugal,7,Rep. of Ireland,64,3,6,2,2014,1,0,2,1,0,0,1,64,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,29,39,187,1,PT,Portugal,7,Germany,1,2,6,2,2014,4,1,3,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,29,39,187,1,PT,Portugal,7,United States,27,1,6,2,2014,4,1,3,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,29,39,187,1,PT,Portugal,7,Ghana,37,5,6,2,2014,4,1,3,1,0,0,1,90,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,30,39,187,1,PT,Portugal,7,France,7,7,10,3,2014,1,0,2,1,1,0,1,75,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,30,39,187,1,PT,Portugal,7,Denmark,30,3,10,3,2014,2,1,2,1,1,0,1,90,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,30,39,187,1,PT,Portugal,7,Armenia,79,6,11,3,2014,2,1,1,1,0,0,1,90,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,30,39,187,1,PT,Portugal,7,Argentina,2,3,11,3,2014,1,0,2,1,1,0,1,45,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,30,39,187,1,PT,Portugal,7,Serbia,56,1,3,1,2015,2,1,1,1,1,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,31,39,187,1,PT,Portugal,7,France,25,6,9,3,2015,1,0,1,1,1,0,1,66,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,31,39,187,1,PT,Portugal,7,Albania,38,2,9,3,2015,2,1,2,1,1,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,31,39,187,1,PT,Portugal,7,Denmark,42,5,10,3,2015,2,1,1,1,1,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,31,39,187,1,PT,Portugal,8,Bulgaria,71,6,3,1,2016,1,0,1,1,0,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,31,39,187,1,PT,Portugal,8,Belgium,5,3,3,1,2016,1,0,1,1,1,0,1,59,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,31,39,187,1,PT,Portugal,8,Estonia,116,4,6,2,2016,1,0,1,1,1,0,1,45,2
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,31,39,187,1,PT,Portugal,8,Iceland,21,3,6,2,2016,3,1,3,1,1,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,31,39,187,1,PT,Portugal,8,Austria,31,7,6,2,2016,3,1,3,1,1,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,31,39,187,1,PT,Portugal,8,Hungary,26,4,6,2,2016,3,1,3,1,1,0,1,90,2
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,31,39,187,1,PT,Portugal,8,Croatia,14,7,6,2,2016,3,2,3,1,1,0,1,120,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,31,39,187,1,PT,Portugal,8,Poland,15,5,6,2,2016,3,3,3,1,1,0,1,120,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,31,39,187,1,PT,Portugal,8, Wales,12,4,7,2,2016,3,4,3,1,0,0,1,90,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,31,39,187,1,PT,Portugal,8,France,7,1,7,2,2016,3,5,1,1,1,0,1,24,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,32,39,187,1,PT,Portugal,8,Andorra,203,6,10,3,2016,2,1,1,1,1,0,1,90,4
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,32,39,187,1,PT,Portugal,8,Faroe Islands,83,2,10,3,2016,2,1,2,1,1,0,1,90,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,32,39,187,1,PT,Portugal,8,Latvia,111,1,11,3,2016,2,1,1,1,0,1,1,90,2
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,32,39,187,1,PT,Portugal,3,Hungary,53,7,3,1,2017,2,1,1,1,1,0,1,90,2
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,32,39,187,1,PT,Portugal,3,Sweden,18,3,3,1,2017,1,0,1,1,1,0,1,57,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,32,39,187,1,PT,Portugal,3,Latvia,132,6,6,2,2017,2,1,2,1,1,0,1,90,2
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,32,39,187,1,PT,Portugal,3,Mexico,16,1,6,2,2017,0,1,3,1,1,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,32,39,187,1,PT,Portugal,3,Russia,64,4,6,2,2017,0,1,3,1,1,0,1,90,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,32,39,187,1,PT,Portugal,3,New Zealand,121,7,6,2,2017,0,1,3,1,1,1,1,66,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,32,39,187,1,PT,Portugal,3,Chile,10,4,6,2,2017,0,4,3,1,1,0,1,120,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,33,39,187,1,PT,Portugal,3,Faroe Islands,95,5,8,2,2017,2,1,1,1,1,1,1,90,3
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,33,39,187,1,PT,Portugal,3,Hungary,53,1,9,3,2017,2,1,2,1,1,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,33,39,187,1,PT,Portugal,3,Andorra,138,7,10,3,2017,2,1,2,0,0,0,1,45,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,33,39,187,1,PT,Portugal,3,Switzerland,8,3,10,3,2017,2,1,1,1,1,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,33,39,187,1,PT,Portugal,6,Egypt,56,6,3,1,2018,1,0,1,1,1,0,1,90,2
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,33,39,187,1,PT,Portugal,6,Netherlands,14,2,3,1,2018,1,0,1,1,1,0,1,67,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,33,39,187,1,PT,Portugal,6,Algeria,67,5,6,2,2018,1,0,1,1,1,0,1,73,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,33,39,187,1,PT,Portugal,6,Spain,9,6,6,2,2018,4,1,3,1,1,1,1,90,3
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,33,39,187,1,PT,Portugal,6,Morocco,40,4,6,2,2018,4,1,3,1,1,0,1,90,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,33,39,187,1,PT,Portugal,6,IR Iran,29,2,6,2,2018,4,1,3,1,1,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,33,39,187,1,PT,Portugal,6,Uruguay,7,7,6,2,2018,4,2,3,1,1,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,34,39,187,1,PT,Portugal,7,Ukraine,24,6,3,1,2019,2,1,1,1,1,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,34,39,187,1,PT,Portugal,7,Serbia,29,2,3,1,2019,2,1,1,1,1,0,1,29,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,34,39,187,1,PT,Portugal,7,Switzerland,12,4,6,2,2019,2,4,3,1,1,0,1,90,3
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,34,39,187,1,PT,Portugal,7,Netherlands,14,1,6,2,2019,2,5,3,1,1,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,35,39,187,1,PT,Portugal,7,Serbia,29,7,9,3,2019,2,1,2,1,1,0,1,90,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,35,39,187,1,PT,Portugal,7,Lithuania,131,3,9,3,2019,2,1,2,1,1,1,1,78,4
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,35,39,187,1,PT,Portugal,7,Luxembourg,98,6,10,3,2019,2,1,1,1,1,0,1,90,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,35,39,187,1,PT,Portugal,7,Ukraine,24,2,10,3,2019,2,1,2,1,1,1,1,90,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,35,39,187,1,PT,Portugal,7,Lithuania,131,5,11,3,2019,2,1,1,1,0,1,1,82,3
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,35,39,187,1,PT,Portugal,7,Luxembourg,98,1,11,3,2019,2,1,2,1,0,0,1,90,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,36,39,187,1,PT,Portugal,5,Sweden,20,3,9,3,2020,2,1,2,1,1,0,1,80,2
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,36,39,187,1,PT,Portugal,5,Spain,6,4,10,3,2020,1,0,1,1,1,0,1,72,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,36,39,187,1,PT,Portugal,5,France,2,1,10,3,2020,2,1,2,1,1,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,36,39,187,1,PT,Portugal,5,Andorra,151,4,11,3,2020,1,0,1,0,0,0,1,45,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,36,39,187,1,PT,Portugal,5,France,2,7,11,3,2020,2,1,1,1,1,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,36,39,187,1,PT,Portugal,5,Croatia,11,3,11,3,2020,2,1,2,1,1,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,36,39,187,1,PT,Portugal,8,Azerbaijan,120,4,3,1,2021,2,1,1,1,1,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,36,39,187,1,PT,Portugal,8,Serbia,23,7,3,1,2021,2,1,2,1,1,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,36,39,187,1,PT,Portugal,8,Luxembourg,93,3,3,1,2021,2,1,2,1,1,0,1,90,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,36,39,187,1,PT,Portugal,8,Spain,7,6,6,2,2021,1,0,2,1,1,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,36,39,187,1,PT,Portugal,8,Israel,78,4,6,2,2021,1,0,1,1,1,0,1,70,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,36,39,187,1,PT,Portugal,8,Hungary,39,3,6,2,2021,3,1,3,1,1,1,1,90,2
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,36,39,187,1,PT,Portugal,8,Germany,12,7,6,2,2021,3,1,3,1,1,0,1,90,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,36,39,187,1,PT,Portugal,8,France,3,4,6,2,2021,3,1,3,1,1,2,1,90,2
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,36,39,187,1,PT,Portugal,8,Belgium,1,1,6,2,2021,3,2,3,1,1,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,37,39,187,1,PT,Portugal,8,Rep. of Ireland,47,4,9,3,2021,2,1,1,1,1,0,1,90,2
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,37,39,187,1,PT,Portugal,8,Qatar,48,7,10,3,2021,1,0,1,1,1,0,1,45,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,37,39,187,1,PT,Portugal,8,Luxembourg,93,3,10,3,2021,2,1,1,1,1,2,1,90,3
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,37,39,187,1,PT,Portugal,8,Rep. of Ireland,47,5,11,3,2021,2,1,2,1,1,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,37,39,187,1,PT,Portugal,8,Serbia,23,1,11,3,2021,2,1,1,1,1,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,37,39,187,1,PT,Portugal,9,Turkey,44,5,3,1,2022,2,4,1,1,1,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,37,39,187,1,PT,Portugal,9,N. Macedonia,65,3,3,1,2022,2,5,1,1,1,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,37,39,187,1,PT,Portugal,9,Spain,10,5,6,2,2022,2,1,2,0,0,0,1,29,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,37,39,187,1,PT,Portugal,9,Switzerland,12,1,6,2,2022,2,1,1,1,1,0,1,90,2
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,37,39,187,1,PT,Portugal,9,Czechia,38,5,6,2,2022,2,1,1,1,1,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,38,39,187,1,PT,Portugal,9,Czechia,38,7,9,3,2022,2,1,2,1,1,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,38,39,187,1,PT,Portugal,9,Spain,10,3,9,3,2022,2,1,1,1,1,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,38,39,187,1,PT,Portugal,9,Ghana,58,5,11,3,2022,4,1,3,1,1,1,1,87,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,38,39,187,1,PT,Portugal,9,Uruguay,16,2,11,3,2022,4,1,3,1,1,0,1,81,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,38,39,187,1,PT,Portugal,9,Korea Republic,25,6,12,4,2022,4,1,3,1,1,0,1,64,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,38,39,187,1,PT,Portugal,9,Switzerland,12,3,12,4,2022,4,2,3,0,1,0,1,18,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,38,39,187,1,PT,Portugal,9,Morocco,11,7,12,4,2022,4,3,3,0,1,0,1,40,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,38,39,187,1,PT,Portugal,7,Liechtenstein,203,5,3,1,2023,2,1,1,1,1,1,1,77,2
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,38,39,187,1,PT,Portugal,7,Luxembourg,83,1,3,1,2023,2,1,2,1,1,0,1,63,2
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,38,39,187,1,PT,Portugal,7,Bosnia & Herz'na,69,7,6,2,2023,2,1,1,1,1,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,38,39,187,1,PT,Portugal,7,Iceland,71,3,6,2,2023,2,1,2,1,1,0,1,90,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,39,39,187,1,PT,Portugal,7,Slovakia,45,6,9,3,2023,2,1,2,1,1,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,39,39,187,1,PT,Portugal,7,Slovakia,45,6,10,3,2023,2,1,1,1,1,1,1,90,2
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,39,39,187,1,PT,Portugal,7,Bosnia & Herz'na,69,2,10,3,2023,2,1,2,1,1,1,1,65,2
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,39,39,187,1,PT,Portugal,7,Liechtenstein,203,5,11,3,2023,2,1,2,1,0,0,1,66,1
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,39,39,187,1,PT,Portugal,7,Iceland,71,1,11,3,2023,2,1,1,1,1,0,1,90,0
+PT-FW-CR39,7,Cristiano Ronaldo,FW,2/5/1985,39,39,187,1,PT,Portugal,6,Slovenia,57,3,3,1,2024,1,0,2,1,1,0,1,90,0
+IT-FW-MR25,19,Mateo Retegui,FW,4/29/1999,24,25,186,1,IT,Italy,9,England,3,5,3,1,2023,2,1,1,1,1,0,0,90,1
+IT-FW-MR25,19,Mateo Retegui,FW,4/29/1999,24,25,186,1,IT,Italy,9,Malta,172,1,3,1,2023,2,1,2,1,1,0,0,65,1
+IT-FW-MR25,19,Mateo Retegui,FW,4/29/1999,24,25,186,1,IT,Italy,9,Netherlands,6,1,6,2,2023,2,4,3,1,1,0,0,84,0
+IT-FW-MR25,19,Mateo Retegui,FW,4/29/1999,24,25,186,1,IT,Italy,9,Ukraine,22,3,9,3,2023,2,1,1,0,0,0,0,19,0
+IT-FW-MR25,19,Mateo Retegui,FW,4/29/1999,25,25,186,1,IT,Italy,9,Venezuela,54,5,3,1,2024,1,0,3,1,1,0,0,86,2
+IT-FW-MR25,19,Mateo Retegui,FW,4/29/1999,25,25,186,1,IT,Italy,9,Ecuador,31,1,3,1,2024,1,0,3,0,0,0,0,15,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,22,31,189,1,ES,Spain,9,Belarus,99,7,11,3,2014,2,1,1,0,0,0,0,11,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,22,31,189,1,ES,Spain,9,Germany,1,3,11,3,2014,1,0,1,1,1,0,0,90,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,22,31,189,1,ES,Spain,3,Ukraine,29,6,3,1,2015,2,1,1,1,1,0,0,64,1
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,22,31,189,1,ES,Spain,3,Netherlands,14,3,3,1,2015,1,0,2,0,0,0,0,29,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,23,31,189,1,ES,Spain,3,Belarus,67,1,6,2,2015,2,1,2,1,1,0,0,90,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,23,31,189,1,ES,Spain,3,Luxembourg,142,6,10,3,2015,2,1,1,1,1,0,0,32,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,23,31,189,1,ES,Spain,10,Italy,16,5,3,1,2016,1,0,2,1,1,0,0,85,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,23,31,189,1,ES,Spain,10,Romania,39,1,3,1,2016,1,0,2,0,0,0,0,12,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,24,31,189,1,ES,Spain,10,Korea Republic,37,4,6,2,2016,1,0,2,1,1,0,0,90,2
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,24,31,189,1,ES,Spain,10,Czechia,43,2,6,2,2016,3,1,3,1,1,0,0,61,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,24,31,189,1,ES,Spain,10,Turkey,24,6,6,2,2016,3,1,3,1,1,0,0,90,2
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,24,31,189,1,ES,Spain,10,Croatia,14,3,6,2,2016,3,1,3,1,1,0,0,66,1
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,24,31,189,1,ES,Spain,10,Italy,16,2,6,2,2016,3,2,3,1,1,0,0,69,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,24,31,189,1,ES,Spain,10,Belgium,5,5,9,3,2016,1,0,2,1,1,0,0,26,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,24,31,189,1,ES,Spain,10,Liechtenstein,189,2,9,3,2016,2,1,1,0,0,0,0,22,2
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,24,31,189,1,ES,Spain,10,Italy,16,5,10,3,2016,2,1,2,0,0,0,0,24,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,24,31,189,1,ES,Spain,10,N. Macedonia,162,7,11,3,2016,2,1,1,1,1,0,0,59,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,24,31,189,1,ES,Spain,10,England,13,3,11,3,2016,1,0,2,0,0,0,0,27,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,24,31,189,1,ES,Spain,6,France,9,3,3,1,2017,1,0,2,1,1,0,0,83,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,25,31,189,1,ES,Spain,6,Colombia,13,4,6,2,2017,1,0,1,0,0,0,0,35,1
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,25,31,189,1,ES,Spain,6,Italy,14,7,9,3,2017,2,1,1,0,0,0,0,19,1
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,25,31,189,1,ES,Spain,6,Liechtenstein,181,3,9,3,2017,2,1,2,1,1,0,0,90,2
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,25,31,189,1,ES,Spain,6,Costa Rica,26,7,11,3,2017,1,0,1,1,1,0,0,45,1
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,26,31,189,1,ES,Spain,9, Wales,19,5,10,3,2018,1,0,2,1,1,0,0,90,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,26,31,189,1,ES,Spain,9,England,5,2,10,3,2018,2,1,1,0,0,0,0,19,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,26,31,189,1,ES,Spain,9,Croatia,4,5,11,3,2018,2,1,2,0,0,0,0,27,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,26,31,189,1,ES,Spain,9,Bosnia & Herz'na,34,1,11,3,2018,1,0,1,1,1,0,0,63,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,26,31,189,1,ES,Spain,8,Norway,44,7,3,1,2019,2,1,1,1,1,0,0,88,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,26,31,189,1,ES,Spain,8,Malta,184,3,3,1,2019,2,1,2,1,1,0,0,78,2
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,27,31,189,1,ES,Spain,8,Faroe Islands,110,6,6,2,2019,2,1,2,1,1,0,0,90,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,27,31,189,1,ES,Spain,8,Sweden,17,2,6,2,2019,2,1,1,0,0,1,1,26,1
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,27,31,189,1,ES,Spain,8,Malta,184,6,11,3,2019,2,1,1,1,1,0,1,65,1
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,27,31,189,1,ES,Spain,8,Romania,37,2,11,3,2019,2,1,1,1,1,0,1,90,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,28,31,189,1,ES,Spain,6,Netherlands,14,4,11,3,2020,1,0,2,1,1,0,1,60,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,28,31,189,1,ES,Spain,6,Switzerland,16,7,11,3,2020,2,1,2,0,0,0,1,35,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,28,31,189,1,ES,Spain,6,Germany,13,3,11,3,2020,2,1,1,1,1,0,1,72,1
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,28,31,189,1,ES,Spain,7,Greece,55,5,3,1,2021,2,1,1,1,1,0,1,90,1
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,28,31,189,1,ES,Spain,7,Georgia,85,1,3,1,2021,2,1,2,1,1,0,1,90,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,28,31,189,1,ES,Spain,7,Kosovo,111,4,3,1,2021,2,1,1,1,1,0,1,67,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,29,31,189,1,ES,Spain,7,Portugal,8,6,6,2,2021,1,0,1,1,1,0,1,90,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,29,31,189,1,ES,Spain,7,Sweden,18,2,6,2,2021,3,1,3,1,1,0,1,65,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,29,31,189,1,ES,Spain,7,Poland,27,7,6,2,2021,3,1,3,1,1,0,1,86,1
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,29,31,189,1,ES,Spain,7,Slovakia,42,4,6,2,2021,3,1,3,1,1,0,1,65,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,29,31,189,1,ES,Spain,7,Croatia,15,2,6,2,2021,3,2,3,1,1,0,1,120,1
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,29,31,189,1,ES,Spain,7,Switzerland,13,6,7,2,2021,3,3,2,1,1,0,1,54,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,29,31,189,1,ES,Spain,7,Italy,6,3,7,2,2021,3,4,2,0,0,0,1,59,1
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,29,31,189,1,ES,Spain,7,Sweden,18,5,9,3,2021,2,1,2,1,1,0,1,74,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,29,31,189,1,ES,Spain,7,Kosovo,111,4,9,3,2021,2,1,2,1,1,0,1,71,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,29,31,189,1,ES,Spain,7,Greece,55,5,11,3,2021,2,1,2,1,1,0,1,64,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,29,31,189,1,ES,Spain,7,Sweden,18,1,11,3,2021,2,1,1,0,0,0,1,32,1
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,29,31,189,1,ES,Spain,10,Albania,66,7,3,1,2022,1,0,3,1,1,0,1,71,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,29,31,189,1,ES,Spain,10,Iceland,63,3,3,1,2022,1,0,3,1,1,1,1,57,2
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,30,31,189,1,ES,Spain,10,Portugal,9,5,6,2,2022,2,1,1,1,1,0,1,69,1
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,30,31,189,1,ES,Spain,10,Czechia,38,1,6,2,2022,2,1,2,0,0,0,1,30,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,30,31,189,1,ES,Spain,10,Switzerland,12,5,6,2,2022,2,1,2,1,1,0,1,71,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,30,31,189,1,ES,Spain,10,Czechia,38,1,6,2,2022,2,1,1,1,1,0,1,58,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,30,31,189,1,ES,Spain,10,Portugal,9,3,9,3,2022,2,1,2,1,1,0,1,90,1
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,30,31,189,1,ES,Spain,10,Costa Rica,32,4,11,3,2022,4,1,3,0,1,0,1,34,1
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,30,31,189,1,ES,Spain,10,Germany,14,1,11,3,2022,4,1,3,0,1,0,1,37,1
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,30,31,189,1,ES,Spain,10,Japan,20,5,12,4,2022,4,1,3,1,1,0,1,56,1
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,30,31,189,1,ES,Spain,10,Morocco,11,3,12,4,2022,4,2,3,0,1,0,1,58,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,30,31,189,1,ES,Spain,8,Norway,44,7,3,1,2023,2,1,1,1,1,0,1,80,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,31,31,189,1,ES,Spain,8,Italy,9,5,6,2,2023,2,4,3,1,1,0,1,83,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,31,31,189,1,ES,Spain,8,Croatia,10,1,6,2,2023,2,5,3,1,1,0,1,65,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,31,31,189,1,ES,Spain,8,Georgia,77,6,9,3,2023,2,1,2,1,1,0,1,71,3
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,31,31,189,1,ES,Spain,8,Cyprus,125,3,9,3,2023,2,1,1,1,1,0,1,45,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,31,31,189,1,ES,Spain,8,Scotland,36,5,10,3,2023,2,1,1,1,1,0,1,84,1
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,31,31,189,1,ES,Spain,8,Norway,44,1,10,3,2023,2,1,2,1,1,0,1,88,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,31,31,189,1,ES,Spain,8,Georgia,77,1,11,3,2023,2,1,1,1,1,0,1,90,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,31,31,189,1,ES,Spain,8,Colombia,12,6,3,1,2024,1,0,3,0,0,0,1,30,0
+ES-FW-AM31,19,Álvaro Morata,FW,10/23/1992,31,31,189,1,ES,Spain,8,Brazil,5,3,3,1,2024,1,0,1,1,1,0,1,80,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,18,25,178,1,FR,France,9,Luxembourg,83,7,3,1,2017,2,1,2,0,0,0,0,13,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,18,25,178,1,FR,France,9,Spain,6,3,3,1,2017,1,0,1,1,1,0,0,64,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,18,25,178,1,FR,France,9,Sweden,18,6,6,2,2017,2,1,2,0,0,0,0,15,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,18,25,178,1,FR,France,9,England,15,3,6,2,2017,1,0,1,1,1,0,0,90,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,19,25,178,1,FR,France,9,Netherlands,20,5,8,2,2017,2,1,1,0,0,0,0,15,1
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,19,25,178,1,FR,France,9,Luxembourg,83,1,9,3,2017,2,1,1,1,0,0,0,58,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,19,25,178,1,FR,France,9,Bulgaria,43,7,10,3,2017,2,1,2,1,1,0,0,84,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,19,25,178,1,FR,France,9,Belarus,92,3,10,3,2017,2,1,1,0,0,0,0,30,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,19,25,178,1,FR,France,9, Wales,19,6,11,3,2017,1,0,1,1,0,0,0,83,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,19,25,178,1,FR,France,9,Germany,1,3,11,3,2017,1,0,2,1,1,0,0,90,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,19,25,178,1,FR,France,2,Colombia,12,6,3,1,2018,1,0,1,1,0,0,0,65,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,19,25,178,1,FR,France,2,Russia,48,3,3,1,2018,1,0,2,1,1,0,0,85,2
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,19,25,178,1,FR,France,2,Rep. of Ireland,33,2,5,1,2018,1,0,1,1,1,0,0,76,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,19,25,178,1,FR,France,2,Italy,18,6,6,2,2018,1,0,1,1,1,0,0,82,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,19,25,178,1,FR,France,2,United States,25,7,6,2,2018,1,0,1,1,1,0,0,87,1
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,20,25,178,1,FR,France,2,Australia,41,7,6,2,2018,4,1,3,1,0,0,0,90,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,20,25,178,1,FR,France,2,Peru,20,5,6,2,2018,4,1,3,1,0,0,0,74,1
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,20,25,178,1,FR,France,2,Denmark,10,3,6,2,2018,4,1,3,0,0,0,0,13,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,20,25,178,1,FR,France,2,Argentina,11,7,6,2,2018,4,2,3,1,0,0,0,88,2
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,20,25,178,1,FR,France,2,Uruguay,7,6,7,2,2018,4,3,3,1,0,0,0,87,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,20,25,178,1,FR,France,2,Belgium,1,3,7,2,2018,4,4,3,1,0,0,0,90,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,20,25,178,1,FR,France,2,Croatia,4,1,7,2,2018,4,5,3,1,0,0,0,90,1
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,20,25,178,1,FR,France,2,Germany,16,5,9,3,2018,2,1,2,1,0,0,0,90,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,20,25,178,1,FR,France,2,Netherlands,14,1,9,3,2018,2,1,1,1,0,0,0,90,1
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,20,25,178,1,FR,France,2,Iceland,37,5,10,3,2018,1,0,1,0,0,1,1,31,1
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,20,25,178,1,FR,France,2,Germany,16,3,10,3,2018,2,1,1,1,0,0,1,85,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,20,25,178,1,FR,France,2,Netherlands,14,6,11,3,2018,2,1,2,1,0,0,1,90,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,20,25,178,1,FR,France,2,Uruguay,7,3,11,3,2018,1,0,1,1,0,0,1,35,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,20,25,178,1,FR,France,2,Moldova,175,6,3,1,2019,2,1,2,1,0,0,1,90,1
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,20,25,178,1,FR,France,2,Iceland,39,2,3,1,2019,2,1,1,1,0,0,1,90,1
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,20,25,178,1,FR,France,2,Bolivia,75,1,6,2,2019,1,0,1,1,1,0,1,45,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,20,25,178,1,FR,France,2,Turkey,29,7,6,2,2019,2,1,2,1,1,0,1,90,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,20,25,178,1,FR,France,2,Andorra,135,3,6,2,2019,2,1,2,1,0,0,1,90,1
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,21,25,178,1,FR,France,2,Moldova,175,5,11,3,2019,2,1,1,1,0,0,1,90,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,22,25,178,1,FR,France,2,Sweden,20,7,9,3,2020,2,1,2,1,1,0,1,76,1
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,22,25,178,1,FR,France,2,Ukraine,24,4,10,3,2020,1,0,1,0,0,0,1,45,1
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,22,25,178,1,FR,France,2,Portugal,5,1,10,3,2020,2,1,1,1,1,0,1,83,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,22,25,178,1,FR,France,2,Croatia,11,4,10,3,2020,2,1,2,1,1,0,1,90,1
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,22,25,178,1,FR,France,2,Sweden,20,3,11,3,2020,2,1,1,0,0,0,1,34,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,22,25,178,1,FR,France,3,Ukraine,25,4,3,1,2021,2,1,1,1,0,0,1,76,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,22,25,178,1,FR,France,3,Kazakhstan,119,1,3,1,2021,2,1,2,0,0,0,1,32,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,22,25,178,1,FR,France,3,Bosnia & Herz'na,61,4,3,1,2021,2,1,2,1,1,0,1,90,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,22,25,178,1,FR,France,3, Wales,19,4,6,2,2021,1,0,1,1,1,0,1,72,1
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,22,25,178,1,FR,France,3,Bulgaria,71,3,6,2,2021,1,0,1,1,1,0,1,83,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,23,25,178,1,FR,France,3,Germany,12,3,6,2,2021,3,1,3,1,0,0,1,90,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,23,25,178,1,FR,France,3,Hungary,39,7,6,2,2021,3,1,3,1,0,0,1,90,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,23,25,178,1,FR,France,3,Portugal,8,4,6,2,2021,3,1,3,1,0,0,1,90,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,23,25,178,1,FR,France,3,Switzerland,13,2,6,2,2021,3,2,3,1,1,0,1,120,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,23,25,178,1,FR,France,3,Bosnia & Herz'na,61,4,9,3,2021,2,1,1,1,1,0,1,89,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,23,25,178,1,FR,France,3,Belgium,1,5,10,3,2021,2,4,3,1,1,1,1,90,1
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,23,25,178,1,FR,France,3,Spain,7,1,10,3,2021,2,5,3,1,1,0,1,90,1
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,23,25,178,1,FR,France,3,Kazakhstan,119,7,11,3,2021,2,1,1,1,1,0,1,87,4
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,23,25,178,1,FR,France,3,Finland,58,3,11,3,2021,2,1,2,1,1,0,1,90,1
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,23,25,178,1,FR,France,3,South Africa,67,3,3,1,2022,1,0,3,1,1,1,1,90,2
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,23,25,178,1,FR,France,3,Denmark,18,6,6,2,2022,2,1,1,1,1,0,1,45,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,23,25,178,1,FR,France,3,Austria,34,6,6,2,2022,2,1,2,0,0,0,1,28,1
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,23,25,178,1,FR,France,3,Croatia,7,2,6,2,2022,2,1,1,1,1,0,1,90,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,24,25,178,1,FR,France,3,Austria,34,5,9,3,2022,2,1,1,1,1,0,1,89,1
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,24,25,178,1,FR,France,3,Denmark,18,1,9,3,2022,2,1,2,1,1,0,1,90,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,24,25,178,1,FR,France,3,Australia,27,3,11,3,2022,4,1,3,1,0,0,1,90,1
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,24,25,178,1,FR,France,3,Denmark,18,7,11,3,2022,4,1,3,1,0,0,1,90,2
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,24,25,178,1,FR,France,3,Tunisia,30,4,11,3,2022,4,1,3,0,0,0,1,28,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,24,25,178,1,FR,France,3,Poland,22,1,12,4,2022,4,2,3,1,0,0,1,90,2
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,24,25,178,1,FR,France,3,England,5,7,12,4,2022,4,3,3,1,0,0,1,90,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,24,25,178,1,FR,France,3,Morocco,11,4,12,4,2022,4,4,3,1,0,0,1,90,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,24,25,178,1,FR,France,3,Argentina,2,1,12,4,2022,4,5,3,1,1,2,1,120,3
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,24,25,178,1,FR,France,2,Netherlands,6,6,3,1,2023,2,1,1,1,0,0,1,90,2
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,24,25,178,1,FR,France,2,Rep. of Ireland,60,2,3,1,2023,2,1,2,1,1,0,1,90,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,25,25,178,1,FR,France,2,Gibraltar,201,6,6,2,2023,2,1,2,1,1,1,1,90,1
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,25,25,178,1,FR,France,2,Greece,47,2,6,2,2023,2,1,1,1,0,1,1,90,1
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,25,25,178,1,FR,France,2,Rep. of Ireland,60,5,9,3,2023,2,1,1,1,0,0,1,90,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,25,25,178,1,FR,France,2,Netherlands,6,6,10,3,2023,2,1,2,1,1,0,1,90,2
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,25,25,178,1,FR,France,2,Scotland,36,3,10,3,2023,1,0,1,1,0,1,1,86,1
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,25,25,178,1,FR,France,2,Gibraltar,201,7,11,3,2023,2,1,1,1,0,1,1,90,3
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,25,25,178,1,FR,France,2,Greece,47,3,11,3,2023,2,1,2,0,0,0,1,27,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,25,25,178,1,FR,France,2,Germany,16,7,3,1,2024,1,0,1,1,1,0,1,90,0
+FR-FW-KM25,10,Kylian Mbappé,FW,12/20/1998,25,25,178,1,FR,France,2,Chile,42,3,3,1,2024,1,0,1,1,1,0,1,90,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,20,30,176,1,NL,Netherlands,9,Turkey,43,3,10,3,2013,2,1,2,0,0,0,0,2,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,20,30,176,1,NL,Netherlands,5,France,7,4,3,1,2014,1,0,2,0,0,0,0,19,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,20,30,176,1,NL,Netherlands,5,Ecuador,26,7,5,1,2014,1,0,1,1,0,0,0,90,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,20,30,176,1,NL,Netherlands,5,Australia,100,4,6,2,2014,4,1,3,0,0,0,0,46,1
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,20,30,176,1,NL,Netherlands,5,Chile,14,2,6,2,2014,4,1,3,0,0,0,0,22,1
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,20,30,176,1,NL,Netherlands,5,Mexico,20,1,6,2,2014,4,2,3,0,0,0,0,35,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,20,30,176,1,NL,Netherlands,5,Costa Rica,16,7,7,2,2014,4,3,3,1,0,0,0,75,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,21,30,176,1,NL,Netherlands,5,Czechia,17,3,9,3,2014,2,1,2,1,1,0,0,90,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,21,30,176,1,NL,Netherlands,5,Mexico,20,4,11,3,2014,1,0,1,1,1,0,0,59,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,21,30,176,1,NL,Netherlands,5,Latvia,96,1,11,3,2014,2,1,1,0,0,0,0,22,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,21,30,176,1,NL,Netherlands,14,Turkey,21,7,3,1,2015,2,1,1,1,1,0,0,90,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,21,30,176,1,NL,Netherlands,14,Spain,3,3,3,1,2015,1,0,1,1,1,0,0,84,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,21,30,176,1,NL,Netherlands,14,United States,32,6,6,2,2015,1,0,1,1,0,0,0,90,1
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,21,30,176,1,NL,Netherlands,14,Latvia,101,6,6,2,2015,2,1,2,1,1,0,0,86,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,22,30,176,1,NL,Netherlands,14,Iceland,36,5,9,3,2015,2,1,1,1,1,0,0,90,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,22,30,176,1,NL,Netherlands,14,Turkey,21,1,9,3,2015,2,1,2,1,0,0,0,90,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,22,30,176,1,NL,Netherlands,14,Kazakhstan,129,7,10,3,2015,2,1,2,1,1,0,0,90,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,22,30,176,1,NL,Netherlands,14,Czechia,26,3,10,3,2015,2,1,1,1,1,0,0,90,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,22,30,176,1,NL,Netherlands,22,France,7,6,3,1,2016,1,0,1,0,0,0,0,45,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,22,30,176,1,NL,Netherlands,22,England,13,3,3,1,2016,1,0,2,1,1,0,0,90,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,22,30,176,1,NL,Netherlands,22,Rep. of Ireland,23,6,5,1,2016,1,0,2,1,0,0,0,60,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,23,30,176,1,NL,Netherlands,22,France,7,2,10,3,2016,2,1,1,0,0,0,0,75,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,23,30,176,1,NL,Netherlands,22,Belgium,5,4,11,3,2016,1,0,1,0,0,0,0,24,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,23,30,176,1,NL,Netherlands,22,Luxembourg,130,1,11,3,2016,2,1,2,0,0,0,0,45,2
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,23,30,176,1,NL,Netherlands,20,Italy,14,3,3,1,2017,1,0,1,1,1,0,0,90,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,23,30,176,1,NL,Netherlands,20,Morocco,40,4,5,1,2017,1,0,2,1,1,0,0,73,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,23,30,176,1,NL,Netherlands,20,Côte d'Ivoire,61,1,6,2,2017,1,0,1,1,1,0,0,77,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,23,30,176,1,NL,Netherlands,20,Luxembourg,83,6,6,2,2017,2,1,1,1,1,0,0,65,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,24,30,176,1,NL,Netherlands,20,Belarus,92,7,10,3,2017,2,1,2,0,0,0,0,23,1
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,24,30,176,1,NL,Netherlands,20,Scotland,32,5,11,3,2017,1,0,2,1,1,0,0,90,1
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,24,30,176,1,NL,Netherlands,20,Romania,41,3,11,3,2017,1,0,2,1,1,0,0,62,1
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,24,30,176,1,NL,Netherlands,14,England,5,6,3,1,2018,1,0,1,1,1,0,0,90,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,24,30,176,1,NL,Netherlands,14,Portugal,6,2,3,1,2018,1,0,2,1,1,0,0,77,1
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,24,30,176,1,NL,Netherlands,14,Slovakia,27,5,5,1,2018,1,0,2,1,1,0,0,90,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,24,30,176,1,NL,Netherlands,14,Italy,18,2,6,2,2018,1,0,2,1,1,0,0,90,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,25,30,176,1,NL,Netherlands,14,Peru,20,5,9,3,2018,1,0,1,1,1,0,0,90,2
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,25,30,176,1,NL,Netherlands,14,France,2,1,9,3,2018,2,1,2,1,1,0,0,90,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,25,30,176,1,NL,Netherlands,14,Germany,16,7,10,3,2018,2,1,1,1,1,0,0,90,1
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,25,30,176,1,NL,Netherlands,14,Belgium,1,3,10,3,2018,1,0,2,1,1,0,0,90,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,25,30,176,1,NL,Netherlands,14,France,2,6,11,3,2018,2,1,1,1,1,0,0,90,1
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,25,30,176,1,NL,Netherlands,14,Germany,16,2,11,3,2018,2,1,2,1,1,0,0,90,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,25,30,176,1,NL,Netherlands,14,Belarus,87,5,3,1,2019,2,1,1,1,1,1,1,90,2
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,25,30,176,1,NL,Netherlands,14,Germany,15,1,3,1,2019,2,1,1,1,1,0,1,90,1
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,25,30,176,1,NL,Netherlands,14,England,4,5,6,2,2019,2,4,3,1,1,0,1,120,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,25,30,176,1,NL,Netherlands,14,Portugal,7,1,6,2,2019,2,5,3,1,1,0,1,90,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,26,30,176,1,NL,Netherlands,14,Germany,15,6,9,3,2019,2,1,2,1,1,0,1,90,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,26,30,176,1,NL,Netherlands,14,Estonia,103,2,9,3,2019,2,1,2,1,1,0,1,90,1
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,26,30,176,1,NL,Netherlands,14, Northern Ireland,36,5,10,3,2019,2,1,1,1,1,0,1,90,2
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,26,30,176,1,NL,Netherlands,14,Estonia,103,3,11,3,2019,2,1,1,1,0,0,1,45,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,27,30,176,1,NL,Netherlands,14,Poland,19,6,9,3,2020,2,1,1,1,1,0,1,90,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,27,30,176,1,NL,Netherlands,14,Italy,10,2,9,3,2020,2,1,1,1,1,0,1,90,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,27,30,176,1,NL,Netherlands,14,Mexico,9,4,10,3,2020,1,0,1,1,1,0,1,90,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,27,30,176,1,NL,Netherlands,14,Italy,10,4,10,3,2020,2,1,2,1,1,0,1,89,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,27,30,176,1,NL,Netherlands,14,Spain,6,4,11,3,2020,1,0,1,1,1,0,1,78,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,27,30,176,1,NL,Netherlands,14,Bosnia & Herz'na,55,1,11,3,2020,2,1,1,1,1,0,1,78,1
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,27,30,176,1,NL,Netherlands,14,Poland,19,4,11,3,2020,2,1,2,1,1,1,1,90,1
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,27,30,176,1,NL,Netherlands,10,Turkey,37,4,3,1,2021,2,1,2,1,0,0,1,90,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,27,30,176,1,NL,Netherlands,10,Latvia,134,7,3,1,2021,2,1,1,1,1,0,1,89,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,27,30,176,1,NL,Netherlands,10,Gibraltar,203,3,3,1,2021,2,1,2,1,1,0,1,90,2
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,27,30,176,1,NL,Netherlands,10,Scotland,38,4,6,2,2021,1,0,1,1,1,0,1,90,2
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,27,30,176,1,NL,Netherlands,10,Georgia,85,1,6,2,2021,1,0,1,1,1,1,1,90,1
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,27,30,176,1,NL,Netherlands,10,Ukraine,25,1,6,2,2021,3,1,3,1,1,0,1,89,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,27,30,176,1,NL,Netherlands,10,Austria,31,5,6,2,2021,3,1,3,1,1,1,1,81,1
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,27,30,176,1,NL,Netherlands,10,N. Macedonia,67,2,6,2,2021,3,1,3,1,1,0,1,65,1
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,27,30,176,1,NL,Netherlands,10,Czechia,32,1,6,2,2021,3,2,3,1,1,0,1,90,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,28,30,176,1,NL,Netherlands,10,Norway,41,4,9,3,2021,2,1,2,1,1,0,1,90,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,28,30,176,1,NL,Netherlands,10,Montenegro,72,7,9,3,2021,2,1,1,1,1,1,1,90,2
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,28,30,176,1,NL,Netherlands,10,Turkey,37,3,9,3,2021,2,1,1,1,1,1,1,90,3
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,28,30,176,1,NL,Netherlands,10,Latvia,134,6,10,3,2021,2,1,2,1,1,0,1,90,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,28,30,176,1,NL,Netherlands,10,Gibraltar,203,2,10,3,2021,2,1,1,1,1,1,1,90,2
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,28,30,176,1,NL,Netherlands,10,Montenegro,72,7,11,3,2021,2,1,2,1,1,1,1,90,2
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,28,30,176,1,NL,Netherlands,10,Norway,41,3,11,3,2021,2,1,1,1,1,0,1,90,1
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,28,30,176,1,NL,Netherlands,6,Denmark,18,7,3,1,2022,1,0,3,1,1,1,1,76,1
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,28,30,176,1,NL,Netherlands,6,Germany,14,3,3,1,2022,1,0,3,1,1,0,1,90,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,28,30,176,1,NL,Netherlands,6,Belgium,4,6,6,2,2022,2,1,2,1,1,0,1,90,2
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,28,30,176,1,NL,Netherlands,6,Poland,22,7,6,2,2022,2,1,1,1,1,0,1,90,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,28,30,176,1,NL,Netherlands,6, Wales,28,3,6,2,2022,2,1,1,0,0,0,1,18,1
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,29,30,176,1,NL,Netherlands,6,Poland,22,5,9,3,2022,2,1,2,1,1,0,1,51,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,29,30,176,1,NL,Netherlands,6,Senegal,19,2,11,3,2022,4,1,3,0,1,0,1,29,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,29,30,176,1,NL,Netherlands,6,Ecuador,41,6,11,3,2022,4,1,3,0,1,0,1,45,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,29,30,176,1,NL,Netherlands,6,Qatar,60,3,11,3,2022,4,1,3,1,1,0,1,65,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,29,30,176,1,NL,Netherlands,6,United States,13,7,12,4,2022,4,2,3,1,1,0,1,81,1
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,29,30,176,1,NL,Netherlands,6,Argentina,2,6,12,4,2022,4,3,3,1,1,0,1,77,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,29,30,176,1,NL,Netherlands,6,France,2,6,3,1,2023,2,1,2,1,1,0,1,90,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,29,30,176,1,NL,Netherlands,6,Gibraltar,201,2,3,1,2023,2,1,1,1,0,0,1,62,1
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,30,30,176,1,NL,Netherlands,7,Scotland,39,6,3,1,2024,1,0,1,1,1,0,1,76,0
+NL-FW-MD30,10,Memphis Depay,FW,2/13/1994,30,30,176,1,NL,Netherlands,7,Germany,16,3,3,1,2024,1,0,2,1,1,0,1,74,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,20,35,185,1,PL,Poland,34,San Marino,201,4,9,3,2008,2,1,2,0,0,0,0,33,1
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,20,35,185,1,PL,Poland,34,Czechia,11,7,10,3,2008,2,1,1,0,0,0,0,22,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,20,35,185,1,PL,Poland,34,Slovakia,44,4,10,3,2008,2,1,2,0,0,0,0,2,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,21,35,185,1,PL,Poland,58, Northern Ireland,40,7,3,1,2009,2,1,2,1,0,0,0,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,21,35,185,1,PL,Poland,58,San Marino,203,4,4,1,2009,2,1,1,1,0,0,0,65,1
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,21,35,185,1,PL,Poland,58, Northern Ireland,40,7,9,3,2009,2,1,1,0,0,0,0,30,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,21,35,185,1,PL,Poland,58,Slovenia,31,4,9,3,2009,2,1,2,0,0,0,0,30,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,21,35,185,1,PL,Poland,58,Czechia,25,7,10,3,2009,2,1,2,0,0,0,0,27,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,21,35,185,1,PL,Poland,58,Slovakia,33,4,10,3,2009,2,1,1,0,0,0,0,23,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,24,35,185,1,PL,Poland,55,Greece,11,6,6,2,2012,3,1,1,1,0,0,0,90,1
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,24,35,185,1,PL,Poland,55,Russia,9,3,6,2,2012,3,1,1,1,0,0,0,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,24,35,185,1,PL,Poland,55,Czechia,29,7,6,2,2012,3,1,2,1,0,0,0,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,24,35,185,1,PL,Poland,55,Montenegro,31,6,9,3,2012,2,1,2,1,0,0,0,89,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,24,35,185,1,PL,Poland,55,Moldova,128,3,9,3,2012,2,1,1,1,0,0,0,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,24,35,185,1,PL,Poland,55,England,6,4,10,3,2012,2,1,1,1,0,0,0,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,25,35,185,1,PL,Poland,76,Ukraine,18,6,3,1,2013,2,1,1,1,0,0,0,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,25,35,185,1,PL,Poland,76,San Marino,207,3,3,1,2013,2,1,1,1,0,2,1,90,2
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,25,35,185,1,PL,Poland,76,Moldova,96,6,6,2,2013,2,1,2,1,0,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,25,35,185,1,PL,Poland,76,Montenegro,52,6,9,3,2013,2,1,1,1,0,0,1,90,1
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,25,35,185,1,PL,Poland,76,Ukraine,18,6,10,3,2013,2,1,2,1,0,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,25,35,185,1,PL,Poland,76,England,13,3,10,3,2013,2,1,2,1,0,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,26,35,185,1,PL,Poland,41,Gibraltar,205,1,9,3,2014,2,1,2,1,1,0,1,90,4
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,26,35,185,1,PL,Poland,41,Germany,1,7,10,3,2014,2,1,1,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,26,35,185,1,PL,Poland,41,Scotland,36,3,10,3,2014,2,1,1,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,26,35,185,1,PL,Poland,41,Georgia,125,6,11,3,2014,2,1,2,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,26,35,185,1,PL,Poland,41,Switzerland,12,3,11,3,2014,1,0,1,1,1,0,1,62,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,27,35,185,1,PL,Poland,34,Rep. of Ireland,31,1,3,1,2015,2,1,2,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,27,35,185,1,PL,Poland,34,Georgia,122,7,6,2,2015,2,1,1,1,1,0,1,90,3
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,27,35,185,1,PL,Poland,34,Germany,4,6,9,3,2015,2,1,2,1,1,0,1,90,1
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,27,35,185,1,PL,Poland,34,Gibraltar,205,2,9,3,2015,2,1,1,1,1,0,1,65,2
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,27,35,185,1,PL,Poland,34,Scotland,52,5,10,3,2015,2,1,2,1,1,0,1,90,2
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,27,35,185,1,PL,Poland,34,Rep. of Ireland,31,1,10,3,2015,2,1,1,1,1,0,1,90,1
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,27,35,185,1,PL,Poland,34,Iceland,36,6,11,3,2015,1,0,1,1,0,0,1,89,2
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,28,35,185,1,PL,Poland,15,Serbia,44,4,3,1,2016,1,0,1,1,1,0,1,72,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,28,35,185,1,PL,Poland,15,Finland,94,7,3,1,2016,1,0,1,0,0,0,1,28,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,28,35,185,1,PL,Poland,15,Netherlands,22,4,6,2,2016,1,0,1,1,1,0,1,66,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,28,35,185,1,PL,Poland,15, Northern Ireland,32,1,6,2,2016,3,1,3,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,28,35,185,1,PL,Poland,15,Germany,3,5,6,2,2016,3,1,3,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,28,35,185,1,PL,Poland,15,Ukraine,30,3,6,2,2016,3,1,3,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,28,35,185,1,PL,Poland,15,Switzerland,11,7,6,2,2016,3,2,3,1,1,0,1,120,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,28,35,185,1,PL,Poland,15,Portugal,8,5,6,2,2016,3,3,3,1,1,0,1,120,1
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,28,35,185,1,PL,Poland,15,Kazakhstan,98,1,9,3,2016,2,1,2,1,1,1,1,90,1
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,28,35,185,1,PL,Poland,15,Denmark,46,7,10,3,2016,2,1,1,1,1,1,1,90,3
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,28,35,185,1,PL,Poland,15,Armenia,86,3,10,3,2016,2,1,1,1,1,0,1,90,1
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,28,35,185,1,PL,Poland,15,Romania,39,6,11,3,2016,2,1,2,1,1,1,1,90,2
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,29,35,185,1,PL,Poland,7,Montenegro,46,1,3,1,2017,2,1,2,1,1,0,1,90,1
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,29,35,185,1,PL,Poland,7,Romania,41,7,6,2,2017,2,1,1,1,1,2,1,90,3
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,29,35,185,1,PL,Poland,7,Denmark,12,6,9,3,2017,2,1,2,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,29,35,185,1,PL,Poland,7,Kazakhstan,137,2,9,3,2017,2,1,1,1,1,1,1,90,1
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,29,35,185,1,PL,Poland,7,Armenia,90,5,10,3,2017,2,1,2,1,1,0,1,90,3
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,29,35,185,1,PL,Poland,7,Montenegro,46,1,10,3,2017,2,1,1,1,1,0,1,90,1
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,30,35,185,1,PL,Poland,20,Nigeria,44,6,3,1,2018,1,0,1,1,1,0,1,66,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,30,35,185,1,PL,Poland,20,Korea Republic,53,3,3,1,2018,1,0,1,1,1,0,1,45,1
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,30,35,185,1,PL,Poland,20,Chile,13,6,6,2,2018,1,0,1,1,1,0,1,73,1
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,30,35,185,1,PL,Poland,20,Lithuania,133,3,6,2,2018,1,0,1,1,1,0,1,45,2
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,30,35,185,1,PL,Poland,20,Senegal,23,3,6,2,2018,4,1,3,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,30,35,185,1,PL,Poland,20,Colombia,12,1,6,2,2018,4,1,3,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,30,35,185,1,PL,Poland,20,Japan,50,5,6,2,2018,4,1,3,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,30,35,185,1,PL,Poland,20,Italy,18,6,9,3,2018,2,1,2,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,30,35,185,1,PL,Poland,20,Portugal,6,5,10,3,2018,2,1,1,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,30,35,185,1,PL,Poland,20,Italy,18,1,10,3,2018,2,1,1,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,30,35,185,1,PL,Poland,20,Czechia,42,5,11,3,2018,1,0,1,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,31,35,185,1,PL,Poland,19,Austria,26,5,3,1,2019,2,1,2,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,31,35,185,1,PL,Poland,19,Latvia,137,1,3,1,2019,2,1,1,1,1,0,1,90,1
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,31,35,185,1,PL,Poland,19,N. Macedonia,68,6,6,2,2019,2,1,2,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,31,35,185,1,PL,Poland,19,Israel,93,2,6,2,2019,2,1,1,1,1,1,1,90,1
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,31,35,185,1,PL,Poland,19,Slovenia,64,6,9,3,2019,2,1,2,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,31,35,185,1,PL,Poland,19,Austria,26,2,9,3,2019,2,1,1,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,31,35,185,1,PL,Poland,19,Latvia,137,5,10,3,2019,2,1,2,1,1,0,1,90,3
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,31,35,185,1,PL,Poland,19,N. Macedonia,68,1,10,3,2019,2,1,1,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,31,35,185,1,PL,Poland,19,Israel,93,7,11,3,2019,2,1,2,0,0,0,1,28,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,31,35,185,1,PL,Poland,19,Slovenia,64,3,11,3,2019,2,1,1,1,1,0,1,90,1
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,32,35,185,1,PL,Poland,19,Italy,10,1,10,3,2020,2,1,1,1,1,0,1,81,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,32,35,185,1,PL,Poland,19,Bosnia & Herz'na,55,4,10,3,2020,2,1,1,1,1,0,1,57,2
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,32,35,185,1,PL,Poland,19,Italy,10,1,11,3,2020,2,1,2,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,32,35,185,1,PL,Poland,19,Netherlands,14,4,11,3,2020,2,1,1,1,1,0,1,45,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,33,35,185,1,PL,Poland,27,Hungary,39,5,3,1,2021,2,1,2,1,1,0,1,90,1
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,33,35,185,1,PL,Poland,27,Andorra,155,1,3,1,2021,2,1,1,1,1,0,1,62,2
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,33,35,185,1,PL,Poland,27,Iceland,62,3,6,2,2021,1,0,1,1,1,0,1,80,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,33,35,185,1,PL,Poland,27,Slovakia,42,2,6,2,2021,3,1,3,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,33,35,185,1,PL,Poland,27,Spain,7,7,6,2,2021,3,1,3,1,1,0,1,90,1
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,33,35,185,1,PL,Poland,27,Sweden,18,4,6,2,2021,3,1,3,1,1,0,1,90,2
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,33,35,185,1,PL,Poland,27,Albania,66,5,9,3,2021,2,1,1,1,1,0,1,90,1
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,33,35,185,1,PL,Poland,27,San Marino,210,1,9,3,2021,2,1,2,1,1,0,1,45,2
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,33,35,185,1,PL,Poland,27,England,4,4,9,3,2021,2,1,1,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,33,35,185,1,PL,Poland,27,San Marino,210,7,10,3,2021,2,1,1,1,1,0,1,65,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,33,35,185,1,PL,Poland,27,Albania,66,3,10,3,2021,2,1,2,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,33,35,185,1,PL,Poland,27,Andorra,155,6,11,3,2021,2,1,2,1,1,0,1,90,2
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,34,35,185,1,PL,Poland,22,Sweden,23,3,3,1,2022,2,5,1,1,1,1,1,90,1
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,34,35,185,1,PL,Poland,22, Wales,28,4,6,2,2022,2,1,1,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,34,35,185,1,PL,Poland,22,Belgium,4,4,6,2,2022,2,1,2,1,1,0,1,68,1
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,34,35,185,1,PL,Poland,22,Belgium,4,3,6,2,2022,2,1,1,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,34,35,185,1,PL,Poland,22,Netherlands,6,5,9,3,2022,2,1,1,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,34,35,185,1,PL,Poland,22, Wales,28,1,9,3,2022,2,1,2,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,34,35,185,1,PL,Poland,22,Mexico,15,3,11,3,2022,4,1,3,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,34,35,185,1,PL,Poland,22,Saudi Arabia,49,7,11,3,2022,4,1,3,1,1,0,1,90,1
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,34,35,185,1,PL,Poland,22,Argentina,2,4,11,3,2022,4,1,3,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,34,35,185,1,PL,Poland,22,France,3,1,12,4,2022,4,2,3,1,1,1,1,90,1
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,35,35,185,1,PL,Poland,31,Czechia,39,6,3,1,2023,2,1,2,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,35,35,185,1,PL,Poland,31,Albania,62,2,3,1,2023,2,1,1,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,35,35,185,1,PL,Poland,31,Germany,16,6,6,2,2023,1,0,1,1,1,0,1,45,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,35,35,185,1,PL,Poland,31,Moldova,155,3,6,2,2023,2,1,2,1,1,0,1,90,1
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,35,35,185,1,PL,Poland,31,Faroe Islands,135,5,9,3,2023,2,1,1,1,1,1,1,90,2
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,35,35,185,1,PL,Poland,31,Albania,62,1,9,3,2023,2,1,2,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,35,35,185,1,PL,Poland,31,Czechia,39,6,11,3,2023,2,1,1,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,35,35,185,1,PL,Poland,31,Latvia,137,3,11,3,2023,1,0,1,1,1,0,1,60,1
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,36,35,185,1,PL,Poland,28,Estonia,123,5,3,1,2024,2,4,1,1,1,0,1,90,0
+PL-FW-RL35,9,Robert Lewandowski,FW,8/21/1988,36,35,185,1,PL,Poland,28, Wales,29,3,3,1,2024,2,5,2,1,1,0,1,120,0
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,18,21,180,1,CZ,Czechia,42,Slovakia,33,6,9,3,2020,2,1,2,1,1,0,0,71,0
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,18,21,180,1,CZ,Czechia,42,Cyprus,100,4,10,3,2020,1,0,2,0,0,0,0,29,0
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,19,21,180,1,CZ,Czechia,32,Albania,66,3,6,2,2021,1,0,1,0,0,0,0,27,0
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,19,21,180,1,CZ,Czechia,32,Scotland,38,2,6,2,2021,3,1,3,0,0,0,0,19,0
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,19,21,180,1,CZ,Czechia,32,Croatia,15,6,6,2,2021,3,1,3,0,0,0,0,28,0
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,19,21,180,1,CZ,Czechia,32,England,4,3,6,2,2021,3,1,3,0,0,0,0,27,0
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,19,21,180,1,CZ,Czechia,32,Netherlands,10,1,6,2,2021,3,2,3,0,0,0,0,6,0
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,19,21,180,1,CZ,Czechia,32,Belarus,94,5,9,3,2021,2,1,1,1,0,0,0,77,0
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,19,21,180,1,CZ,Czechia,32,Belgium,1,1,9,3,2021,2,1,2,1,0,0,0,76,0
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,19,21,180,1,CZ,Czechia,32,Ukraine,25,4,9,3,2021,1,0,1,0,0,0,0,45,0
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,19,21,180,1,CZ,Czechia,32, Wales,19,6,10,3,2021,2,1,1,1,0,0,0,89,0
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,19,21,180,1,CZ,Czechia,32,Belarus,94,2,10,3,2021,2,1,2,1,0,0,0,87,1
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,20,21,180,1,CZ,Czechia,38,Sweden,23,5,3,1,2022,2,4,2,1,0,0,0,120,0
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,20,21,180,1,CZ,Czechia,38, Wales,28,3,3,1,2022,1,0,3,0,0,0,0,10,0
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,20,21,180,1,CZ,Czechia,38,Switzerland,12,5,6,2,2022,2,1,1,1,1,0,0,86,0
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,20,21,180,1,CZ,Czechia,38,Spain,10,1,6,2,2022,2,1,1,0,0,0,0,32,0
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,20,21,180,1,CZ,Czechia,38,Portugal,9,5,6,2,2022,2,1,2,1,1,0,0,72,0
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,20,21,180,1,CZ,Czechia,38,Spain,10,1,6,2,2022,2,1,2,0,0,0,0,32,0
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,20,21,180,1,CZ,Czechia,38,Portugal,9,7,9,3,2022,2,1,1,1,1,0,0,62,0
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,21,21,180,1,CZ,Czechia,39,Poland,31,6,3,1,2023,2,1,1,1,1,0,0,88,0
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,21,21,180,1,CZ,Czechia,39,Moldova,155,2,3,1,2023,2,1,2,1,1,0,0,82,0
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,21,21,180,1,CZ,Czechia,39,Faroe Islands,135,7,6,2,2023,2,1,2,1,0,0,0,68,0
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,21,21,180,1,CZ,Czechia,39,Montenegro,70,3,6,2,2023,1,0,2,0,0,0,0,21,1
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,21,21,180,1,CZ,Czechia,39,Albania,62,5,9,3,2023,2,1,1,0,0,0,0,20,0
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,21,21,180,1,CZ,Czechia,39,Hungary,27,1,9,3,2023,1,0,2,1,1,0,0,82,0
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,21,21,180,1,CZ,Czechia,39,Albania,62,5,10,3,2023,2,1,2,0,0,0,0,27,0
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,21,21,180,1,CZ,Czechia,39,Faroe Islands,135,1,10,3,2023,2,1,1,1,0,0,0,90,0
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,21,21,180,1,CZ,Czechia,39,Poland,31,6,11,3,2023,2,1,2,0,0,0,0,45,0
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,21,21,180,1,CZ,Czechia,39,Moldova,155,2,11,3,2023,2,1,1,1,1,0,0,57,0
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,22,21,180,1,CZ,Czechia,36,Norway,47,6,3,1,2024,1,0,2,0,0,0,0,30,0
+CZ-FW-AH21,16,Adam Hložek,FW,7/25/2002,22,21,180,1,CZ,Czechia,36,Armenia,95,3,3,1,2024,1,0,1,1,1,0,0,63,0
+SCT-FW-CA27,9,Che Adams,FW,7/13/1996,25,27,175,1,SCT,Scotland,38,Austria,31,5,3,1,2021,2,1,1,0,0,0,0,25,0
+SCT-FW-CA27,9,Che Adams,FW,7/13/1996,25,27,175,1,SCT,Scotland,38,Israel,78,1,3,1,2021,2,1,2,1,1,0,0,74,0
+SCT-FW-CA27,9,Che Adams,FW,7/13/1996,25,27,175,1,SCT,Scotland,38,Faroe Islands,123,4,3,1,2021,2,1,1,1,1,0,0,72,1
+SCT-FW-CA27,9,Che Adams,FW,7/13/1996,25,27,175,1,SCT,Scotland,38,Luxembourg,93,1,6,2,2021,1,0,2,1,1,0,0,90,1
+SCT-FW-CA27,9,Che Adams,FW,7/13/1996,25,27,175,1,SCT,Scotland,38,Czechia,32,2,6,2,2021,3,1,3,0,1,0,0,45,0
+SCT-FW-CA27,9,Che Adams,FW,7/13/1996,25,27,175,1,SCT,Scotland,38,England,4,6,6,2,2021,3,1,3,1,1,0,0,85,0
+SCT-FW-CA27,9,Che Adams,FW,7/13/1996,25,27,175,1,SCT,Scotland,38,Croatia,15,3,6,2,2021,3,1,3,1,1,0,0,83,0
+SCT-FW-CA27,9,Che Adams,FW,7/13/1996,25,27,175,1,SCT,Scotland,38,Denmark,9,4,9,3,2021,2,1,2,1,1,0,0,70,0
+SCT-FW-CA27,9,Che Adams,FW,7/13/1996,25,27,175,1,SCT,Scotland,38,Moldova,181,7,9,3,2021,2,1,1,0,0,0,0,26,0
+SCT-FW-CA27,9,Che Adams,FW,7/13/1996,25,27,175,1,SCT,Scotland,38,Austria,31,3,9,3,2021,2,1,2,1,1,0,0,87,0
+SCT-FW-CA27,9,Che Adams,FW,7/13/1996,25,27,175,1,SCT,Scotland,38,Israel,78,7,10,3,2021,2,1,1,1,1,0,0,66,0
+SCT-FW-CA27,9,Che Adams,FW,7/13/1996,25,27,175,1,SCT,Scotland,38,Moldova,181,6,11,3,2021,2,1,2,1,1,0,0,84,1
+SCT-FW-CA27,9,Che Adams,FW,7/13/1996,25,27,175,1,SCT,Scotland,38,Denmark,9,2,11,3,2021,2,1,1,1,1,0,0,90,1
+SCT-FW-CA27,9,Che Adams,FW,7/13/1996,26,27,175,1,SCT,Scotland,42,Poland,22,5,3,1,2022,1,0,3,1,1,0,0,89,0
+SCT-FW-CA27,9,Che Adams,FW,7/13/1996,26,27,175,1,SCT,Scotland,42,Austria,34,3,3,1,2022,1,0,3,1,1,0,0,65,0
+SCT-FW-CA27,9,Che Adams,FW,7/13/1996,26,27,175,1,SCT,Scotland,42,Ukraine,26,4,6,2,2022,2,4,1,1,1,0,0,90,0
+SCT-FW-CA27,9,Che Adams,FW,7/13/1996,26,27,175,1,SCT,Scotland,42,Armenia,95,4,6,2,2022,2,1,1,1,1,0,0,86,0
+SCT-FW-CA27,9,Che Adams,FW,7/13/1996,26,27,175,1,SCT,Scotland,42,Rep. of Ireland,48,7,6,2,2022,2,1,2,1,1,0,0,57,0
+SCT-FW-CA27,9,Che Adams,FW,7/13/1996,26,27,175,1,SCT,Scotland,42,Armenia,95,3,6,2,2022,2,1,2,1,1,0,0,73,1
+SCT-FW-CA27,9,Che Adams,FW,7/13/1996,26,27,175,1,SCT,Scotland,42,Ukraine,26,4,9,3,2022,2,1,1,1,1,0,0,75,0
+SCT-FW-CA27,9,Che Adams,FW,7/13/1996,26,27,175,1,SCT,Scotland,42,Rep. of Ireland,48,7,9,3,2022,2,1,1,0,0,0,0,6,0
+SCT-FW-CA27,9,Che Adams,FW,7/13/1996,26,27,175,1,SCT,Scotland,42,Ukraine,26,3,9,3,2022,2,1,2,1,1,0,0,78,0
+SCT-FW-CA27,9,Che Adams,FW,7/13/1996,27,27,175,1,SCT,Scotland,36,Cyprus,125,7,3,1,2023,2,1,1,1,1,0,0,57,0
+SCT-FW-CA27,9,Che Adams,FW,7/13/1996,27,27,175,1,SCT,Scotland,36,Cyprus,125,6,9,3,2023,2,1,2,1,1,0,0,66,0
+SCT-FW-CA27,9,Che Adams,FW,7/13/1996,27,27,175,1,SCT,Scotland,36,England,3,3,9,3,2023,1,0,1,1,1,0,0,58,0
+SCT-FW-CA27,9,Che Adams,FW,7/13/1996,27,27,175,1,SCT,Scotland,36,Spain,8,5,10,3,2023,2,1,2,0,0,0,0,12,0
+SCT-FW-CA27,9,Che Adams,FW,7/13/1996,27,27,175,1,SCT,Scotland,36,France,2,3,10,3,2023,1,0,2,1,1,0,0,63,0
+SCT-FW-CA27,9,Che Adams,FW,7/13/1996,28,27,175,1,SCT,Scotland,39,Netherlands,7,6,3,1,2024,1,0,2,0,0,0,0,23,0
+SCT-FW-CA27,9,Che Adams,FW,7/13/1996,28,27,175,1,SCT,Scotland,39, Northern Ireland,73,3,3,1,2024,1,0,1,0,0,0,0,21,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,19,26,186,1,DK,Denmark,46,Kazakhstan,98,6,11,3,2016,2,1,1,0,0,0,0,9,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,20,26,186,1,DK,Denmark,12,Germany,1,3,6,2,2017,1,0,1,0,0,0,0,15,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,20,26,186,1,DK,Denmark,12,Kazakhstan,137,7,6,2,2017,2,1,2,0,0,0,0,23,1
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,20,26,186,1,DK,Denmark,12,Romania,41,1,10,3,2017,2,1,1,0,0,0,0,21,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,21,26,186,1,DK,Denmark,10,Sweden,14,7,6,2,2018,1,0,2,0,0,0,0,18,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,21,26,186,1,DK,Denmark,10,Mexico,17,7,6,2,2018,1,0,1,0,0,0,0,45,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,21,26,186,1,DK,Denmark,10,France,2,3,6,2,2018,4,1,3,0,1,0,0,16,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,21,26,186,1,DK,Denmark,10,Rep. of Ireland,33,7,10,3,2018,2,1,2,1,1,0,0,78,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,21,26,186,1,DK,Denmark,10,Austria,22,3,10,3,2018,1,0,1,1,1,0,0,45,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,21,26,186,1,DK,Denmark,10, Wales,19,6,11,3,2018,2,1,2,0,0,0,0,21,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,21,26,186,1,DK,Denmark,16,Kosovo,115,5,3,1,2019,1,0,2,0,0,0,0,31,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,22,26,186,1,DK,Denmark,16,Rep. of Ireland,34,6,6,2,2019,2,1,1,0,0,0,0,26,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,22,26,186,1,DK,Denmark,16,Georgia,91,2,6,2,2019,2,1,1,1,1,0,0,90,2
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,22,26,186,1,DK,Denmark,16,Georgia,91,1,9,3,2019,2,1,2,1,1,0,0,66,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,22,26,186,1,DK,Denmark,16,Luxembourg,98,3,10,3,2019,1,0,1,1,1,0,0,60,2
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,22,26,186,1,DK,Denmark,16,Gibraltar,196,6,11,3,2019,2,1,1,0,0,0,0,36,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,22,26,186,1,DK,Denmark,16,Rep. of Ireland,34,2,11,3,2019,2,1,2,0,0,0,0,58,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,23,26,186,1,DK,Denmark,12,Belgium,1,7,9,3,2020,2,1,1,1,1,0,0,82,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,23,26,186,1,DK,Denmark,12,England,4,3,9,3,2020,2,1,1,1,1,0,0,75,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,23,26,186,1,DK,Denmark,12,Iceland,46,1,10,3,2020,2,1,2,1,1,0,0,78,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,23,26,186,1,DK,Denmark,12,England,4,4,10,3,2020,2,1,2,1,1,0,0,36,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,23,26,186,1,DK,Denmark,12,Sweden,20,4,11,3,2020,1,0,1,1,1,0,0,45,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,23,26,186,1,DK,Denmark,9,Moldova,181,1,3,1,2021,2,1,1,1,1,1,1,90,2
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,23,26,186,1,DK,Denmark,9,Austria,31,4,3,1,2021,2,1,2,0,0,0,1,14,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,24,26,186,1,DK,Denmark,9,Germany,12,4,6,2,2021,1,0,2,0,0,0,1,45,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,24,26,186,1,DK,Denmark,9,Bosnia & Herz'na,61,1,6,2,2021,1,0,1,1,1,0,1,45,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,24,26,186,1,DK,Denmark,9,Russia,34,2,6,2,2021,3,1,3,0,1,0,1,31,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,24,26,186,1,DK,Denmark,9, Wales,19,7,6,2,2021,3,2,3,1,1,0,1,69,2
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,24,26,186,1,DK,Denmark,9,Czechia,32,7,7,2,2021,3,3,2,1,1,0,1,58,1
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,24,26,186,1,DK,Denmark,9,England,4,4,7,2,2021,3,4,2,1,1,0,1,66,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,24,26,186,1,DK,Denmark,9,Moldova,181,7,10,3,2021,2,1,2,0,0,0,1,45,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,24,26,186,1,DK,Denmark,9,Austria,31,3,10,3,2021,2,1,1,0,0,0,1,47,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,24,26,186,1,DK,Denmark,18,Netherlands,6,7,3,1,2022,1,0,3,0,0,0,1,33,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,24,26,186,1,DK,Denmark,18,Serbia,29,3,3,1,2022,1,0,3,1,1,0,1,55,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,25,26,186,1,DK,Denmark,18,France,3,6,6,2,2022,2,1,2,1,1,0,1,58,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,25,26,186,1,DK,Denmark,18,Croatia,7,5,9,3,2022,2,1,2,0,0,0,1,2,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,25,26,186,1,DK,Denmark,18,France,3,1,9,3,2022,2,1,1,1,1,0,1,58,1
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,25,26,186,1,DK,Denmark,18,Tunisia,30,3,11,3,2022,4,1,3,1,1,0,1,64,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,25,26,186,1,DK,Denmark,18,France,3,7,11,3,2022,4,1,3,0,1,0,1,18,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,25,26,186,1,DK,Denmark,18,Australia,27,4,11,3,2022,4,1,3,0,1,0,1,32,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,26,26,186,1,DK,Denmark,19,Kazakhstan,100,7,10,3,2023,2,1,1,1,0,0,1,68,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,26,26,186,1,DK,Denmark,19,Slovenia,54,6,11,3,2023,2,1,1,0,0,0,1,5,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,26,26,186,1,DK,Denmark,19, Northern Ireland,72,2,11,3,2023,2,1,2,1,1,0,1,90,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,26,26,186,1,DK,Denmark,21,Switzerland,19,7,3,1,2024,1,0,1,0,0,0,1,7,0
+DK-FW-KD26,16,Kasper Dolberg,FW,10/6/1997,26,26,186,1,DK,Denmark,21,Faroe Islands,133,3,3,1,2024,1,0,1,1,1,0,1,75,0
+PT-FW-GR22,9,Gonçalo Ramos,FW,6/20/2001,23,22,184,1,PT,Portugal,9,Nigeria,35,5,11,3,2022,1,0,3,0,0,0,0,24,1
+PT-FW-GR22,9,Gonçalo Ramos,FW,6/20/2001,23,22,184,1,PT,Portugal,9,Ghana,58,5,11,3,2022,4,1,3,0,1,0,0,3,0
+PT-FW-GR22,9,Gonçalo Ramos,FW,6/20/2001,23,22,184,1,PT,Portugal,9,Uruguay,16,2,11,3,2022,4,1,3,0,1,0,0,9,0
+PT-FW-GR22,9,Gonçalo Ramos,FW,6/20/2001,23,22,184,1,PT,Portugal,9,Switzerland,12,3,12,4,2022,4,2,3,1,1,0,0,72,3
+PT-FW-GR22,9,Gonçalo Ramos,FW,6/20/2001,23,22,184,1,PT,Portugal,9,Morocco,11,7,12,4,2022,4,3,3,1,0,0,0,68,0
+PT-FW-GR22,9,Gonçalo Ramos,FW,6/20/2001,23,22,184,1,PT,Portugal,7,Liechtenstein,203,5,3,1,2023,2,1,1,0,0,0,0,13,0
+PT-FW-GR22,9,Gonçalo Ramos,FW,6/20/2001,23,22,184,1,PT,Portugal,7,Luxembourg,83,1,3,1,2023,2,1,2,0,0,0,0,27,0
+PT-FW-GR22,9,Gonçalo Ramos,FW,6/20/2001,23,22,184,1,PT,Portugal,7,Luxembourg,83,2,9,3,2023,2,1,1,1,1,0,0,60,2
+PT-FW-GR22,9,Gonçalo Ramos,FW,6/20/2001,23,22,184,1,PT,Portugal,7,Slovakia,45,6,10,3,2023,2,1,1,1,1,0,0,86,1
+PT-FW-GR22,9,Gonçalo Ramos,FW,6/20/2001,23,22,184,1,PT,Portugal,7,Liechtenstein,203,5,11,3,2023,2,1,2,1,1,0,0,90,0
+PT-FW-GR22,9,Gonçalo Ramos,FW,6/20/2001,23,22,184,1,PT,Portugal,6,Sweden,27,5,3,1,2024,1,0,1,1,1,0,0,62,1
+DE-FW-NF31,11,Niclas Füllkrug,FW,2/9/1993,31,31,188,1,DE,Germany,14,Oman,75,4,11,3,2022,1,0,3,0,0,0,0,45,1
+DE-FW-NF31,11,Niclas Füllkrug,FW,2/9/1993,31,31,188,1,DE,Germany,14,Japan,20,4,11,3,2022,4,1,3,0,1,0,0,12,0
+DE-FW-NF31,11,Niclas Füllkrug,FW,2/9/1993,31,31,188,1,DE,Germany,14,Spain,10,1,11,3,2022,4,1,3,0,1,0,0,21,1
+DE-FW-NF31,11,Niclas Füllkrug,FW,2/9/1993,31,31,188,1,DE,Germany,14,Costa Rica,32,5,12,4,2022,4,1,3,0,1,0,0,36,1
+DE-FW-NF31,11,Niclas Füllkrug,FW,2/9/1993,31,31,188,1,DE,Germany,16,Peru,35,7,3,1,2023,1,0,1,1,1,0,0,74,2
+DE-FW-NF31,11,Niclas Füllkrug,FW,2/9/1993,31,31,188,1,DE,Germany,16,Belgium,4,3,3,1,2023,1,0,1,1,1,1,1,79,1
+DE-FW-NF31,11,Niclas Füllkrug,FW,2/9/1993,31,31,188,1,DE,Germany,16,Ukraine,22,2,6,2,2023,1,0,1,1,1,0,1,45,1
+DE-FW-NF31,11,Niclas Füllkrug,FW,2/9/1993,31,31,188,1,DE,Germany,16,Poland,31,6,6,2,2023,1,0,2,0,0,0,1,23,0
+DE-FW-NF31,11,Niclas Füllkrug,FW,2/9/1993,31,31,188,1,DE,Germany,16,Colombia,14,3,6,2,2023,1,0,1,0,0,0,1,25,0
+DE-FW-NF31,11,Niclas Füllkrug,FW,2/9/1993,31,31,188,1,DE,Germany,16,United States,12,7,10,3,2023,1,0,2,1,1,0,1,80,1
+DE-FW-NF31,11,Niclas Füllkrug,FW,2/9/1993,31,31,188,1,DE,Germany,16,Mexico,15,3,10,3,2023,1,0,3,0,0,0,1,45,1
+DE-FW-NF31,11,Niclas Füllkrug,FW,2/9/1993,31,31,188,1,DE,Germany,16,Trkiye,37,7,11,3,2023,1,0,1,1,1,0,1,90,1
+DE-FW-NF31,11,Niclas Füllkrug,FW,2/9/1993,31,31,188,1,DE,Germany,16,Austria,24,3,11,3,2023,1,0,2,1,1,0,1,45,0
+DE-FW-NF31,11,Niclas Füllkrug,FW,2/9/1993,31,31,188,1,DE,Germany,16,France,2,7,3,1,2024,1,0,2,0,0,0,1,11,0
+DE-FW-NF31,11,Niclas Füllkrug,FW,2/9/1993,31,31,188,1,DE,Germany,16,Netherlands,7,3,3,1,2024,1,0,1,0,0,0,1,18,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,57,Germany,3,6,9,3,2010,2,1,1,1,0,0,1,72,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,57,Trkiye,31,3,9,3,2010,2,1,2,1,0,0,1,75,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,57,Kazakhstan,138,6,10,3,2010,2,1,2,1,0,0,1,45,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,57,Austria,46,3,10,3,2010,2,1,1,0,0,0,1,18,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,41,Azerbaijan,112,6,9,3,2011,2,1,2,1,0,0,1,60,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,41,Germany,3,3,10,3,2011,2,1,2,0,0,0,1,45,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,21,Wales,82,6,9,3,2012,2,1,2,0,0,0,1,45,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,11,Serbia,30,6,6,2,2013,2,1,1,0,0,0,1,8,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,11,Croatia,16,6,10,3,2013,2,1,2,1,0,0,1,67,2
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,11,Wales,56,3,10,3,2013,2,1,1,1,0,0,1,90,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,4,Cte dIvoire,28,4,3,1,2014,1,0,1,0,0,0,1,18,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,4,Luxembourg,128,2,5,1,2014,1,0,1,1,0,0,1,60,3
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,4,Sweden,44,1,6,2,2014,1,0,2,1,0,0,1,73,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,4,Tunisia,22,7,6,2,2014,1,0,1,0,0,0,1,28,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,4,Algeria,18,3,6,2,2014,4,1,3,1,0,0,1,57,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,4,Russia,31,1,6,2,2014,4,1,3,1,0,0,1,56,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,4,United States,27,3,7,2,2014,4,2,3,0,0,0,1,30,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,4,Argentina,2,7,7,2,2014,4,3,3,0,0,0,1,32,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,4,Andorra,201,6,10,3,2014,2,1,1,0,0,0,1,25,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,4,Bosnia Herzna,29,2,10,3,2014,2,1,2,1,1,0,1,56,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,4,Iceland,33,4,11,3,2014,1,0,1,0,0,0,1,45,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,France,25,1,6,2,2015,1,0,2,0,0,0,1,32,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Wales,17,6,6,2,2015,2,1,2,0,0,0,1,45,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Bosnia Herzna,22,5,9,3,2015,2,1,1,1,1,0,1,81,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Israel,69,3,10,3,2015,2,1,1,1,1,0,1,64,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Italy,15,6,11,3,2015,1,0,1,1,1,0,1,62,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,5,Portugal,8,3,3,1,2016,1,0,2,1,1,0,1,90,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,5,Switzerland,11,7,5,1,2016,1,0,2,1,1,0,1,57,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,5,Finland,94,4,6,2,2016,1,0,1,0,0,0,1,12,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,5,Norway,83,1,6,2,2016,1,0,1,1,1,0,1,90,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,5,Italy,16,2,6,2,2016,3,1,3,1,1,0,1,72,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,5,Rep of Ireland,23,7,6,2,2016,3,1,3,1,1,0,1,82,2
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,5,Sweden,41,4,6,2,2016,3,1,3,1,1,0,1,86,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,5,Hungary,26,1,6,2,2016,3,2,3,1,1,0,1,75,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,5,Wales,12,6,7,2,2016,3,3,3,1,1,0,1,82,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,5,Spain,10,5,9,3,2016,1,0,1,0,0,0,1,24,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,5,Cyprus,115,3,9,3,2016,2,1,2,1,1,0,1,72,2
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,5,Bosnia Herzna,27,6,10,3,2016,2,1,1,1,1,0,1,81,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,5,Netherlands,22,4,11,3,2016,1,0,2,0,0,0,1,27,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,5,Estonia,116,1,11,3,2016,2,1,1,1,1,0,1,90,2
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,5,Greece,47,7,3,1,2017,2,1,1,1,1,0,1,90,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,5,Russia,64,3,3,1,2017,1,0,2,0,0,0,1,14,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,5,Czechia,48,2,6,2,2017,1,0,1,1,1,0,1,45,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,5,Estonia,89,6,6,2,2017,2,1,2,1,1,0,1,90,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,5,Gibraltar,206,5,8,2,2017,2,1,1,1,1,1,1,90,3
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,5,Greece,47,1,9,3,2017,2,1,2,1,1,0,1,90,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,5,Cyprus,91,3,10,3,2017,2,1,1,0,0,0,1,25,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,5,Mexico,16,6,11,3,2017,1,0,1,1,1,0,1,87,2
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,5,Japan,57,3,11,3,2017,1,0,1,1,1,0,1,90,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Saudi Arabia,69,3,3,1,2018,1,0,1,1,1,0,1,78,2
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Portugal,6,7,6,2,2018,1,0,1,1,1,0,1,45,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Egypt,56,4,6,2,2018,1,0,1,1,1,0,1,45,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Costa Rica,36,2,6,2,2018,1,0,1,1,1,0,1,64,2
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Panama,71,2,6,2,2018,4,1,3,1,1,0,1,90,2
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Tunisia,26,7,6,2,2018,4,1,3,1,1,0,1,58,2
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Japan,50,2,7,2,2018,4,2,3,1,1,0,1,90,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Brazil,3,6,7,2,2018,4,3,3,1,0,0,1,86,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,France,2,3,7,2,2018,4,4,3,1,1,0,1,90,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,England,5,7,7,2,2018,4,4,3,1,1,0,1,59,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Scotland,38,6,9,3,2018,1,0,2,1,1,0,1,45,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Iceland,37,3,9,3,2018,2,1,2,1,1,0,1,90,2
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Switzerland,8,6,10,3,2018,2,1,1,1,1,0,1,90,2
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Netherlands,14,3,10,3,2018,1,0,1,1,1,0,1,45,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Kazakhstan,118,7,6,2,2019,2,1,1,1,1,0,1,71,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Scotland,50,3,6,2,2019,2,1,1,1,1,0,1,90,2
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Scotland,50,2,9,3,2019,2,1,2,1,1,0,1,90,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,San Marino,209,5,10,3,2019,2,1,1,1,1,0,1,75,2
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Russia,38,7,11,3,2019,2,1,2,1,1,0,1,76,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Denmark,12,7,9,3,2020,2,1,2,1,1,0,1,90,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,England,4,1,10,3,2020,2,1,2,1,1,1,1,90,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Iceland,46,4,10,3,2020,2,1,2,0,1,1,1,90,2
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,England,4,1,11,3,2020,2,1,1,1,1,0,1,90,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Denmark,12,4,11,3,2020,2,1,1,1,1,0,1,90,2
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Wales,19,4,3,1,2021,2,1,1,1,1,1,1,90,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Czechia,32,7,3,1,2021,2,1,2,1,1,0,1,90,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Greece,55,5,6,2,2021,1,0,1,0,1,0,1,45,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Croatia,15,1,6,2,2021,1,0,1,1,1,0,1,90,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Russia,34,7,6,2,2021,3,1,3,1,1,0,1,90,2
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Denmark,9,5,6,2,2021,3,1,3,1,1,0,1,90,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Finland,58,2,6,2,2021,3,1,3,1,1,0,1,83,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Portugal,8,1,6,2,2021,3,2,3,1,1,0,1,90,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Italy,6,6,7,2,2021,3,3,1,1,1,1,1,90,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Estonia,107,5,9,3,2021,2,1,2,1,1,0,1,73,2
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,Czechia,32,1,9,3,2021,2,1,1,1,1,0,1,80,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,1,France,3,5,10,3,2021,2,4,3,1,1,0,1,90,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,4,Netherlands,6,6,6,2,2022,2,1,1,1,1,0,1,25,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,4,Morocco,11,1,11,3,2022,4,1,3,0,1,0,1,10,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,4,Croatia,7,5,12,4,2022,4,1,3,0,1,0,1,45,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,4,Sweden,26,6,3,1,2023,2,1,2,1,1,0,1,84,3
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,4,Germany,16,3,3,1,2023,1,0,2,1,1,0,1,67,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,4,Austria,24,7,6,2,2023,2,1,1,0,1,0,1,90,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,4,Estonia,122,3,6,2,2023,2,1,2,0,1,0,1,68,2
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,4,Azerbaijan,114,7,9,3,2023,2,1,2,0,1,0,1,65,0
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,4,Estonia,122,3,9,3,2023,2,1,1,0,1,0,1,60,2
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,4,Austria,24,6,10,3,2023,2,1,2,0,1,0,1,90,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,4,Sweden,26,2,10,3,2023,2,1,1,0,1,1,1,90,1
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,4,Azerbaijan,114,1,11,3,2023,2,1,1,0,1,0,1,45,4
+BE-FW-RL31,9,Romelu Lukaku,FW,5/13/1993,31,31,192,2,BE,Belgium,3,England,4,3,3,1,2024,1,0,2,0,1,0,1,82,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,9,Lithuania,126,6,3,1,2015,2,1,1,0,0,0,1,19,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,9,Italy,15,3,3,1,2015,1,0,2,1,1,0,1,90,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,9,San Marino,198,7,9,3,2015,2,1,2,0,0,0,1,32,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,9,Switzerland,12,3,9,3,2015,2,1,1,0,0,0,1,34,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,9,Estonia,93,6,10,3,2015,2,1,1,1,1,0,1,90,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,9,Lithuania,126,2,10,3,2015,2,1,2,1,1,0,1,58,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,9,Spain,3,6,11,3,2015,1,0,2,1,1,0,1,90,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,9,France,25,3,11,3,2015,1,0,1,1,1,0,1,79,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,13,Germany,3,7,3,1,2016,1,0,2,1,1,0,1,90,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,13,Netherlands,22,3,3,1,2016,1,0,1,0,0,0,1,21,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,13,Trkiye,24,1,5,1,2016,1,0,1,1,1,0,1,90,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,13,Portugal,8,5,6,2,2016,1,0,1,1,1,0,1,77,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,13,Russia,56,7,6,2,2016,3,1,3,1,1,0,1,90,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,13,Wales,12,5,6,2,2016,3,1,3,1,1,0,1,45,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,13,Slovakia,25,2,6,2,2016,3,1,3,0,0,0,1,15,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,13,Iceland,21,2,6,2,2016,3,2,3,1,1,0,1,90,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,13,Slovakia,25,1,9,3,2016,2,1,2,1,1,0,1,81,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,15,Scotland,32,7,6,2,2017,2,1,2,0,1,0,1,90,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,15,France,9,3,6,2,2017,1,0,2,0,1,1,1,90,2
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,15,Malta,184,6,9,3,2017,2,1,2,1,1,0,1,90,2
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,15,Slovakia,28,2,9,3,2017,2,1,1,1,1,0,1,90,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,15,Slovenia,69,5,10,3,2017,2,1,1,0,1,0,1,90,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,15,Lithuania,149,1,10,3,2017,2,1,2,0,1,1,1,90,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,5,Nigeria,44,7,6,2,2018,1,0,1,0,1,0,1,72,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,5,Tunisia,26,2,6,2,2018,4,1,3,0,1,0,1,90,2
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,5,Panama,71,1,6,2,2018,4,1,3,0,1,2,1,62,3
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,5,Colombia,12,3,7,2,2018,4,2,3,0,1,1,1,120,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,5,Sweden,14,7,7,2,2018,4,3,3,0,1,0,1,90,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,5,Croatia,4,4,7,2,2018,4,4,3,0,1,0,1,120,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,5,Belgium,1,7,7,2,2018,4,4,3,0,1,0,1,90,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,5,Spain,9,7,9,3,2018,2,1,1,0,1,0,1,90,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,5,Switzerland,8,3,9,3,2018,1,0,1,0,0,0,1,30,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,5,Croatia,4,6,10,3,2018,2,1,2,0,1,0,1,90,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,5,Spain,9,2,10,3,2018,2,1,2,0,1,0,1,90,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,5,Croatia,4,1,11,3,2018,2,1,1,0,1,0,1,90,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Czechia,45,6,3,1,2019,2,1,1,0,1,1,1,90,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Montenegro,64,2,3,1,2019,2,1,2,0,1,0,1,82,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Netherlands,14,5,6,2,2019,2,4,3,0,0,0,1,75,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Switzerland,12,1,6,2,2019,2,4,3,0,1,0,1,74,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Bulgaria,59,7,9,3,2019,2,1,1,0,1,2,1,76,3
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Kosovo,115,3,9,3,2019,2,1,1,0,1,0,1,90,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Czechia,45,6,10,3,2019,2,1,2,0,1,1,1,90,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Bulgaria,59,2,10,3,2019,2,1,2,0,1,0,1,90,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Montenegro,64,5,11,3,2019,2,1,1,0,1,0,1,56,3
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Kosovo,115,1,11,3,2019,2,1,2,0,1,0,1,90,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Iceland,46,7,9,3,2020,2,1,2,0,1,0,1,77,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Denmark,12,3,9,3,2020,2,1,2,0,1,0,1,90,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Belgium,1,1,10,3,2020,2,1,1,0,0,0,1,26,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Denmark,12,4,10,3,2020,2,1,1,0,1,0,1,90,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Belgium,1,1,11,3,2020,2,1,2,0,1,0,1,90,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Iceland,46,4,11,3,2020,2,1,1,0,1,0,1,75,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Albania,66,1,3,1,2021,2,1,2,0,1,0,1,90,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Poland,27,4,3,1,2021,2,1,1,0,1,1,1,88,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Austria,31,4,6,2,2021,1,0,1,0,1,0,1,60,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Croatia,15,1,6,2,2021,3,1,3,0,1,0,1,81,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Scotland,38,6,6,2,2021,3,1,3,0,1,0,1,73,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Czechia,32,3,6,2,2021,3,1,3,0,1,0,1,90,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Germany,12,3,6,2,2021,3,2,3,0,1,0,1,90,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Ukraine,25,7,7,2,2021,3,3,2,0,1,0,1,72,2
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Denmark,9,4,7,2,2021,3,4,1,0,1,0,1,120,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Italy,6,1,7,2,2021,3,5,3,0,1,0,1,120,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Hungary,39,5,9,3,2021,2,1,2,0,1,0,1,90,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Andorra,155,1,9,3,2021,2,1,1,0,0,1,1,29,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Poland,27,4,9,3,2021,2,1,2,0,1,0,1,90,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Hungary,39,3,10,3,2021,2,1,1,0,1,0,1,75,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,Albania,66,6,11,3,2021,2,1,1,0,1,0,1,62,3
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,4,San Marino,210,2,11,3,2021,2,1,2,0,1,2,1,61,4
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,5,Switzerland,12,7,3,1,2022,1,0,3,0,1,1,1,88,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,5,Cte dIvoire,47,3,3,1,2022,1,0,3,0,0,0,1,29,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,5,Hungary,36,7,6,2,2022,2,1,2,0,1,0,1,90,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,5,Germany,14,3,6,2,2022,2,1,2,0,1,0,1,90,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,5,Italy,8,7,6,2,2022,2,1,1,0,0,0,1,26,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,5,Hungary,36,3,6,2,2022,2,1,1,0,1,0,1,90,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,5,Italy,8,6,9,3,2022,2,1,2,0,1,0,1,90,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,5,Germany,14,2,9,3,2022,2,1,1,0,1,1,1,90,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,5,IR Iran,24,2,11,3,2022,4,1,3,0,1,0,1,75,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,5,United States,13,6,11,3,2022,4,1,3,0,1,0,1,90,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,5,Wales,28,3,11,3,2022,4,1,3,0,1,0,1,57,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,5,Senegal,19,1,12,4,2022,4,2,3,0,1,0,1,90,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,5,France,3,7,12,4,2022,4,3,3,0,1,1,1,90,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,3,Italy,9,5,3,1,2023,2,1,2,0,1,1,1,90,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,3,Ukraine,22,1,3,1,2023,2,1,1,0,1,0,1,80,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,3,Malta,172,6,6,2,2023,2,1,2,0,1,1,1,59,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,3,N Macedonia,65,2,6,2,2023,2,1,1,0,1,1,1,73,2
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,3,Ukraine,22,7,9,3,2023,2,1,2,0,1,0,1,90,0
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,3,Scotland,36,3,9,3,2023,1,0,2,0,1,0,1,83,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,3,Italy,9,3,10,3,2023,2,1,1,0,1,1,1,90,2
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,3,Malta,172,6,11,3,2023,2,1,1,0,1,0,1,90,1
+ENG-FW-HK30,9,Harry Kane,FW,7/28/1993,31,30,188,1,ENG,England,3,N Macedonia,65,2,11,3,2023,2,1,2,0,0,0,1,33,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,16,Iceland,49,6,11,3,2013,2,2,2,0,0,0,1,19,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,16,Iceland,49,3,11,3,2013,2,2,1,0,0,0,1,17,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,19,Mali,50,7,5,1,2014,1,0,1,0,0,0,1,24,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,19,Australia,100,6,6,2,2014,1,0,1,0,0,0,1,24,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,19,Brazil,6,5,6,2,2014,4,1,3,0,0,0,1,13,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,19,Cameroon,42,4,6,2,2014,4,1,3,0,0,0,1,13,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,19,Mexico,20,2,6,2,2014,4,1,3,0,0,0,1,20,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,18,Gibraltar,205,1,6,2,2015,1,0,1,0,0,0,1,45,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,18,Italy,15,6,6,2,2015,2,1,1,0,0,0,1,45,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,17,Greece,47,5,11,3,2017,2,2,1,0,0,0,1,15,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,17,Greece,47,1,11,3,2017,2,2,2,0,0,0,1,5,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,4,Peru,20,6,3,1,2018,1,0,2,0,0,0,1,14,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,4,Mexico,17,3,3,1,2018,1,0,2,1,0,0,1,71,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,4,Brazil,3,1,6,2,2018,1,0,2,1,0,0,1,63,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,4,Senegal,23,6,6,2,2018,1,0,1,1,0,0,1,60,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,4,Nigeria,44,7,6,2,2018,4,1,3,1,0,0,1,77,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,4,Argentina,11,5,6,2,2018,4,1,3,1,0,0,1,56,1
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,4,Denmark,10,1,7,2,2018,4,2,3,1,0,0,1,120,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,4,Russia,48,7,7,2,2018,4,3,3,1,0,0,1,120,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,4,England,5,4,7,2,2018,4,4,3,1,0,0,1,100,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,4,France,2,1,7,2,2018,4,5,3,1,0,0,1,70,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,4,England,5,6,10,3,2018,2,1,1,1,1,0,1,79,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,4,Jordan,109,2,10,3,2018,1,0,1,1,1,0,1,63,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,4,Spain,9,5,11,3,2018,2,1,1,1,0,0,1,72,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,4,England,5,1,11,3,2018,2,1,2,1,0,0,1,45,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,6,Azerbaijan,114,5,3,1,2019,2,1,1,0,0,0,1,22,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,6,Hungary,52,1,3,1,2019,2,1,2,1,0,0,1,66,1
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,6,Slovakia,32,6,9,3,2019,2,1,2,1,0,0,1,69,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,6,Azerbaijan,114,2,9,3,2019,2,1,2,1,0,0,1,85,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,6,Hungary,52,5,10,3,2019,2,1,1,1,1,0,1,90,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,6,Wales,22,1,10,3,2019,2,1,2,0,0,0,1,27,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,6,Slovakia,32,7,11,3,2019,2,1,1,1,0,0,1,53,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,6,Georgia,91,3,11,3,2019,1,0,1,1,0,0,1,90,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,11,Portugal,5,7,9,3,2020,2,1,2,1,0,0,1,90,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,11,France,2,3,9,3,2020,2,1,2,1,1,0,1,45,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,15,Armenia,92,3,6,2,2021,1,0,1,0,0,0,1,45,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,15,Belgium,1,1,6,2,2021,1,0,2,1,1,0,1,61,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,15,England,4,1,6,2,2021,3,1,3,1,1,0,1,77,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,15,Czechia,32,6,6,2,2021,3,1,3,1,1,0,1,45,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,15,Scotland,38,3,6,2,2021,3,1,3,0,0,0,1,10,0
+HR-FW-AR30,7,Ante Rebi?,FW,9/21/1993,31,30,185,1,HR,Croatia,15,Spain,7,2,6,2,2021,3,2,3,1,0,0,1,66,0
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,43,Malta,183,6,5,1,2016,1,0,1,0,0,0,1,25,1
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,43,Azerbaijan,90,3,10,3,2016,2,1,1,1,1,0,1,65,0
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,43,Norway,83,6,11,3,2016,2,1,1,0,0,0,1,10,0
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,48,Belgium,5,2,6,2,2017,1,0,2,1,1,0,1,63,0
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,48,Norway,59,7,6,2,2017,2,1,2,0,0,0,1,28,0
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,42,Australia,41,6,6,2,2018,1,0,2,1,1,0,1,74,0
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,42,Nigeria,44,4,6,2,2018,1,0,2,1,1,0,1,68,0
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,42,Ukraine,28,5,9,3,2018,2,1,1,1,1,0,1,82,1
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,42,Slovakia,27,7,10,3,2018,2,1,2,0,0,0,1,18,1
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,42,Ukraine,28,3,10,3,2018,2,1,2,1,1,0,1,71,0
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,42,Poland,20,5,11,3,2018,1,0,2,1,1,0,1,76,0
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,42,Slovakia,27,2,11,3,2018,2,1,1,1,1,0,1,81,1
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,45,England,4,6,3,1,2019,2,1,2,1,1,0,1,81,0
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,45,Brazil,3,3,3,1,2019,1,0,1,1,1,0,1,52,0
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,45,Bulgaria,59,6,6,2,2019,2,1,1,1,1,0,1,77,2
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,45,Montenegro,64,2,6,2,2019,2,1,1,1,1,1,1,87,1
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,45,Kosovo,115,7,9,3,2019,2,1,2,1,1,0,1,60,1
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,45,Montenegro,64,3,9,3,2019,2,1,2,1,1,0,1,89,0
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,45,England,4,6,10,3,2019,2,1,1,1,1,0,1,64,0
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,45,Northern Ireland,36,2,10,3,2019,1,0,1,0,0,0,1,26,0
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,32,Estonia,107,4,3,1,2021,2,1,2,1,1,0,1,78,1
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,32,Wales,19,3,3,1,2021,2,1,2,1,1,0,1,48,0
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,32,Italy,6,6,6,2,2021,1,0,2,0,0,0,1,45,0
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,32,Albania,66,3,6,2,2021,1,0,1,1,1,0,1,63,1
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,32,Scotland,38,2,6,2,2021,3,1,3,1,1,0,1,86,2
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,32,Croatia,15,6,6,2,2021,3,1,3,1,1,1,1,73,1
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,32,England,4,3,6,2,2021,3,1,3,1,1,0,1,74,0
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,32,Netherlands,10,1,6,2,2021,3,2,3,1,1,0,1,89,1
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,32,Denmark,9,7,7,2,2021,3,3,1,1,1,0,1,78,1
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,32,Wales,19,6,10,3,2021,2,1,1,0,1,0,1,90,0
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,32,Belarus,94,2,10,3,2021,2,1,2,1,1,0,1,89,1
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,38,Portugal,9,7,9,3,2022,2,1,1,1,1,0,1,90,0
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,38,Switzerland,12,3,9,3,2022,2,1,2,1,1,0,1,90,1
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,36,Norway,47,6,3,1,2024,1,0,2,1,1,0,1,86,0
+CZ-FW-PS28,10,Patrik Schick,FW,1/24/1996,28,28,186,2,CZ,Czechia,36,Armenia,95,3,3,1,2024,1,0,1,1,1,0,1,72,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,26,Cte dIvoire,34,6,5,1,2016,1,0,1,0,0,0,1,12,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,53,Russia,64,2,6,2,2017,1,0,1,0,0,0,1,45,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,53,Andorra,138,6,6,2,2017,2,1,2,0,0,0,1,20,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,53,Switzerland,8,7,10,3,2017,2,1,2,0,0,0,1,22,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,53,Faroe Islands,95,3,10,3,2017,2,1,1,0,0,0,1,2,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,53,Luxembourg,83,5,11,3,2017,1,0,2,0,0,0,1,28,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,51,Belarus,76,4,6,2,2018,1,0,2,0,0,0,1,26,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,51,Australia,41,7,6,2,2018,1,0,1,1,0,0,1,83,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,51,Finland,58,7,9,3,2018,2,1,2,1,0,0,1,71,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,51,Greece,43,3,9,3,2018,2,1,1,1,1,0,1,90,1
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,51,Greece,43,6,10,3,2018,2,1,2,1,1,0,1,90,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,51,Estonia,96,2,10,3,2018,2,1,2,1,1,0,1,90,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,52,Slovakia,32,2,9,3,2019,2,1,1,1,0,0,1,90,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,52,Croatia,6,5,10,3,2019,2,1,2,1,0,0,1,75,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,52,Azerbaijan,114,1,10,3,2019,2,1,1,1,0,0,1,90,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,52,Wales,22,3,11,3,2019,2,1,2,1,0,0,1,82,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,40,Trkiye,32,5,9,3,2020,2,1,2,1,0,0,1,80,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,40,Russia,39,1,9,3,2020,2,1,1,1,1,0,1,90,1
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,40,Bulgaria,68,5,10,3,2020,2,4,2,1,0,0,1,90,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,40,Iceland,46,5,11,3,2020,2,5,1,1,1,0,1,90,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,39,Poland,27,5,3,1,2021,2,1,1,1,1,0,1,71,1
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,39,San Marino,210,1,3,1,2021,2,1,2,1,1,0,1,90,1
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,39,Portugal,8,3,6,2,2021,3,1,3,1,1,0,1,76,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,39,France,3,7,6,2,2021,3,1,3,1,0,0,1,90,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,39,Germany,12,4,6,2,2021,3,1,3,1,1,0,1,74,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,39,England,4,5,9,3,2021,2,1,1,1,0,0,1,65,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,39,Albania,66,1,9,3,2021,2,1,2,1,1,0,1,87,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,39,Andorra,155,4,9,3,2021,2,1,1,1,1,0,1,45,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,39,Albania,66,7,10,3,2021,2,1,1,1,0,0,1,70,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,39,England,4,3,10,3,2021,2,1,2,1,1,1,1,78,1
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,36,Serbia,29,5,3,1,2022,1,0,3,1,1,0,1,79,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,36,Northern Ireland,59,3,3,1,2022,1,0,3,1,0,0,1,71,1
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,36,England,5,7,6,2,2022,2,1,1,1,0,0,1,70,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,36,Italy,8,3,6,2,2022,2,1,2,1,0,0,1,90,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,36,Germany,14,7,6,2,2022,2,1,1,1,0,0,1,74,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,36,England,5,3,6,2,2022,2,1,2,1,0,0,1,77,2
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,36,Luxembourg,92,5,11,3,2022,1,0,3,0,0,0,1,33,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,36,Greece,51,1,11,3,2022,1,0,3,1,1,0,1,71,1
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,27,Estonia,122,5,3,1,2023,1,0,1,1,0,0,1,75,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,27,Bulgaria,81,2,3,1,2023,2,1,1,1,0,0,1,72,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,27,Montenegro,70,7,6,2,2023,2,1,2,1,0,0,1,58,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,27,Lithuania,138,3,6,2,2023,2,1,1,1,0,0,1,87,1
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,27,Serbia,34,5,9,3,2023,2,1,2,1,0,0,1,89,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,27,Czechia,39,1,9,3,2023,1,0,1,1,0,0,1,83,1
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,27,Serbia,34,7,10,3,2023,2,1,1,1,0,0,1,74,1
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,27,Lithuania,138,3,10,3,2023,2,1,2,1,0,0,1,89,0
+HU-FW-RS27,20,Roland Sallai,FW,5/22/1997,27,27,183,1,HU,Hungary,26,Trkiye,40,6,3,1,2024,1,0,1,1,1,0,1,79,0
+DK-FW-RH21,11,Rasmus Højlund,FW,2/4/2003,21,21,192,1,DK,Denmark,18,Croatia,7,5,9,3,2022,2,1,2,0,0,0,1,31,0
+DK-FW-RH21,11,Rasmus Højlund,FW,2/4/2003,21,21,192,1,DK,Denmark,19,Kazakhstan,100,1,3,1,2023,2,1,2,1,1,0,1,90,2
+DK-FW-RH21,11,Rasmus Højlund,FW,2/4/2003,21,21,192,1,DK,Denmark,19,Slovenia,54,2,6,2,2023,2,1,2,1,1,0,1,70,1
+DK-FW-RH21,11,Rasmus Højlund,FW,2/4/2003,21,21,192,1,DK,Denmark,19,Finland,59,1,9,3,2023,2,1,2,0,0,0,1,45,0
+DK-FW-RH21,11,Rasmus Højlund,FW,2/4/2003,21,21,192,1,DK,Denmark,19,San Marino,210,3,10,3,2023,2,1,2,1,1,0,1,89,1
+DK-FW-RH21,11,Rasmus Højlund,FW,2/4/2003,21,21,192,1,DK,Denmark,21,Switzerland,19,7,3,1,2024,1,0,1,1,1,0,1,83,0
+UA-FW-AD26,9,Artem Dovbyk,FW,6/21/1997,27,26,184,1,UA,Ukraine,25,Kazakhstan,119,4,3,1,2021,2,1,1,0,0,0,1,10,0
+UA-FW-AD26,9,Artem Dovbyk,FW,6/21/1997,27,26,184,1,UA,Ukraine,25,Bahrain,91,1,5,1,2021,1,0,1,0,0,0,1,45,0
+UA-FW-AD26,9,Artem Dovbyk,FW,6/21/1997,27,26,184,1,UA,Ukraine,25,Sweden,18,3,6,2,2021,3,2,3,0,1,0,1,15,1
+UA-FW-AD26,9,Artem Dovbyk,FW,6/21/1997,27,26,184,1,UA,Ukraine,25,Finland,58,7,10,3,2021,2,1,2,0,0,0,1,5,0
+UA-FW-AD26,9,Artem Dovbyk,FW,6/21/1997,27,26,184,1,UA,Ukraine,25,Bulgaria,71,5,11,3,2021,1,0,1,1,1,0,1,45,0
+UA-FW-AD26,9,Artem Dovbyk,FW,6/21/1997,27,26,184,1,UA,Ukraine,25,Bosnia Herzna,61,3,11,3,2021,2,1,2,0,0,0,1,16,1
+UA-FW-AD26,9,Artem Dovbyk,FW,6/21/1997,27,26,184,1,UA,Ukraine,26,Scotland,42,4,6,2,2022,2,4,2,0,0,0,1,13,1
+UA-FW-AD26,9,Artem Dovbyk,FW,6/21/1997,27,26,184,1,UA,Ukraine,26,Wales,28,1,6,2,2022,2,5,2,0,0,0,1,14,0
+UA-FW-AD26,9,Artem Dovbyk,FW,6/21/1997,27,26,184,1,UA,Ukraine,26,Rep of Ireland,48,4,6,2,2022,2,1,2,1,1,0,1,79,0
+UA-FW-AD26,9,Artem Dovbyk,FW,6/21/1997,27,26,184,1,UA,Ukraine,26,Armenia,95,7,6,2,2022,2,1,1,0,0,0,1,21,0
+UA-FW-AD26,9,Artem Dovbyk,FW,6/21/1997,27,26,184,1,UA,Ukraine,26,Rep of Ireland,48,3,6,2,2022,2,1,1,1,1,0,1,72,1
+UA-FW-AD26,9,Artem Dovbyk,FW,6/21/1997,27,26,184,1,UA,Ukraine,26,Scotland,42,4,9,3,2022,2,1,2,1,1,0,1,66,0
+UA-FW-AD26,9,Artem Dovbyk,FW,6/21/1997,27,26,184,1,UA,Ukraine,26,Armenia,95,7,9,3,2022,2,1,2,0,0,0,1,24,2
+UA-FW-AD26,9,Artem Dovbyk,FW,6/21/1997,27,26,184,1,UA,Ukraine,26,Scotland,42,3,9,3,2022,2,1,1,1,1,0,1,74,0
+UA-FW-AD26,9,Artem Dovbyk,FW,6/21/1997,27,26,184,1,UA,Ukraine,22,England,3,1,3,1,2023,2,1,2,0,0,0,1,17,0
+UA-FW-AD26,9,Artem Dovbyk,FW,6/21/1997,27,26,184,1,UA,Ukraine,22,Germany,16,2,6,2,2023,1,0,2,1,1,0,1,63,0
+UA-FW-AD26,9,Artem Dovbyk,FW,6/21/1997,27,26,184,1,UA,Ukraine,22,N Macedonia,65,6,6,2,2023,2,1,2,1,1,0,1,45,0
+UA-FW-AD26,9,Artem Dovbyk,FW,6/21/1997,27,26,184,1,UA,Ukraine,22,Malta,172,2,6,2,2023,2,1,1,0,0,0,1,28,0
+UA-FW-AD26,9,Artem Dovbyk,FW,6/21/1997,27,26,184,1,UA,Ukraine,22,England,3,7,9,3,2023,2,1,1,0,0,0,1,26,0
+UA-FW-AD26,9,Artem Dovbyk,FW,6/21/1997,27,26,184,1,UA,Ukraine,22,Italy,9,3,9,3,2023,2,1,2,1,1,0,1,57,0
+UA-FW-AD26,9,Artem Dovbyk,FW,6/21/1997,27,26,184,1,UA,Ukraine,22,N Macedonia,65,7,10,3,2023,2,1,1,1,1,0,1,75,0
+UA-FW-AD26,9,Artem Dovbyk,FW,6/21/1997,27,26,184,1,UA,Ukraine,22,Malta,172,3,10,3,2023,2,1,2,1,1,1,1,90,1
+UA-FW-AD26,9,Artem Dovbyk,FW,6/21/1997,27,26,184,1,UA,Ukraine,22,Italy,9,2,11,3,2023,2,1,1,1,1,0,1,90,0
+UA-FW-AD26,9,Artem Dovbyk,FW,6/21/1997,27,26,184,1,UA,Ukraine,22,Bosnia Herzna,74,5,3,1,2024,2,4,2,1,1,0,1,89,1
+UA-FW-AD26,9,Artem Dovbyk,FW,6/21/1997,27,26,184,1,UA,Ukraine,22,Iceland,72,3,3,1,2024,2,5,1,0,0,0,1,19,0
